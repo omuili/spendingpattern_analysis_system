@@ -33,15 +33,15 @@ Before using the Spending Pattern Analysis System, ensure you have the following
 
 - Python (version 3.9)
 - Required Python libraries:
-  faker==21.0.0
-  keras==2.15.0
-  matplotlib==3.8.2
-  numpy==1.26.2
-  pandas==2.1.4
-  python==3.9.18
-  scikit-learn==1.3.2
-  tensorflow==2.15.0
-Data sources:  These are randomly generated credit card transactions.
+    faker==21.0.0
+    keras==2.15.0
+    matplotlib==3.8.2
+    numpy==1.26.2
+    pandas==2.1.4
+    python==3.9.18
+    scikit-learn==1.3.2
+    tensorflow==2.15.0
+- Data sources:  These are randomly generated credit card transactions.
 | Date                | Merchant               | Amount ($) |
 | ------------------- | ---------------------- | ---------- |
 | 2023-07-19 13:58:30 | McDonald's             | $318.67    |
