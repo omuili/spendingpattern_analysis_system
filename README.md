@@ -41,7 +41,10 @@ Before using the Spending Pattern Analysis System, ensure you have the following
     python==3.9.18
     scikit-learn==1.3.2
     tensorflow==2.15.0
-- Data sources:  These are randomly generated credit card transactions.
+
+# Data sources  
+These are randomly generated credit card transactions.
+  
 | Date                | Merchant               | Amount ($) |
 | ------------------- | ---------------------- | ---------- |
 | 2023-07-19 13:58:30 | McDonald's             | $318.67    |
