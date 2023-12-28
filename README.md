@@ -82,6 +82,3 @@ The system leverages the following technologies and libraries:
 
 # Contributing
 Contributions to the Spending Pattern Analysis System are welcome! If you have ideas for improvements, new features, or bug fixes, please create an issue or submit a pull request.
-
-# License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
