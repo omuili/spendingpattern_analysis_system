@@ -1,0 +1,1001 @@
+transaction_id,date_time,user_id,account_num,type,status,merchant,description,amount,tax_amount,category,category_code,device_used,previous_balance,new_balance
+ea166db8-5fed-4644-bed2-2605674bbf7c,2023-07-19 13:58:30,3979,0001-4390-5068-4267,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,318.67,31.87,Dining,103,Desktop,1000,649.4599999999999
+352c7e93-545e-4ace-896c-a10f89e07f22,2023-07-03 13:58:30,1199,7023-1283-1642-6182,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,187.0,18.7,Dining,103,In-Store Terminal,1000,794.3
+4f21d36d-d487-4edb-92ed-1a959e31fb14,2023-03-24 13:58:30,9143,2211-1136-1477-1495,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,117.32,11.73,Entertainment,105,Mobile,1000,870.95
+833a1fa0-f48f-4284-839a-61b99a3f1e50,2023-03-03 13:58:30,8786,6860-7490-2829-1574,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,90.06,9.01,Dining,103,Mobile,1000,900.9300000000001
+808a3d0a-df78-4984-9ff4-d1e643bbc240,2022-12-27 13:58:30,1697,1692-6419-0049-8462,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,187.19,18.72,Groceries,101,Desktop,1000,794.0899999999999
+0dad8331-a09c-4f6b-b86a-8151afdefb43,2023-03-17 13:58:30,3528,3388-8652-6846-5339,Credit Card,Cleared,Starbucks,Utilities purchase at Starbucks,399.49,39.95,Utilities,104,Mobile,1000,560.56
+dfec5ed2-f4fc-4bd5-bc54-970436d99c59,2023-02-28 13:58:30,7838,9106-0106-9315-1850,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,416.18,41.62,Electronics,102,In-Store Terminal,1000,542.1999999999999
+315a0602-f5ba-46d5-a0a6-fa24c1adc30f,2022-06-10 13:58:30,9437,6670-8001-3001-7079,Credit Card,Cleared,AMC,Dining purchase at AMC,225.73,22.57,Dining,103,Mobile,1000,751.6999999999999
+3739d0c5-2cc1-416e-9109-0149d3c84129,2023-07-19 13:58:30,4104,3286-6377-5408-5165,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,234.11,23.41,Electronics,102,In-Store Terminal,1000,742.48
+902635cd-4c89-49bc-8c22-8b30507bf1d2,2022-12-05 13:58:30,9103,4725-9160-9831-2415,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,74.45,7.45,Utilities,104,In-Store Terminal,1000,918.0999999999999
+a31f5d8a-2d74-4c8d-a73f-87d9096fb3d3,2022-07-04 13:58:30,8617,1338-3908-6698-1785,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,476.57,47.66,Electronics,102,Desktop,1000,475.7700000000001
+724c31ef-98e2-4a22-8dda-21cdbd154990,2023-09-09 13:58:30,8013,5200-4270-7467-3351,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,491.15,49.12,Entertainment,105,Desktop,1000,459.73
+8700e3f9-0d63-48cd-956d-b44b71f84644,2022-06-06 13:58:30,3930,7717-7553-6744-6737,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,91.92,9.19,Groceries,101,Desktop,1000,898.89
+833daad1-5acd-4863-a7b1-2e72f04f0ce8,2022-02-24 13:58:30,4069,9741-5653-8991-3688,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,326.41,32.64,Groceries,101,Mobile,1000,640.9499999999999
+38fd7ae7-7019-4183-9eb6-97d4746812dc,2022-12-02 13:58:30,5691,6640-7733-8729-9176,Credit Card,Cleared,AMC,Groceries purchase at AMC,239.74,23.97,Groceries,101,Desktop,1000,736.29
+0cef74ca-085c-406d-b432-cb7cb09f4850,2023-11-14 13:58:30,3024,8855-2195-4487-4142,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,332.09,33.21,Groceries,101,In-Store Terminal,1000,634.7
+5b0f7e93-5614-4783-ba53-e805f238f8ff,2023-07-12 13:58:30,4017,8004-7147-8855-4271,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,233.58,23.36,Utilities,104,Mobile,1000,743.06
+95195f42-5be0-4fa6-bd6d-8172d3a662ea,2023-01-09 13:58:30,3005,8955-3343-3207-6896,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,255.75,25.58,Entertainment,105,Desktop,1000,718.67
+860a7601-4d94-424a-b2df-4138c8124b16,2022-07-12 13:58:30,8726,7103-2208-0154-7451,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,108.6,10.86,Groceries,101,Mobile,1000,880.54
+f526f7c0-d98c-449a-ab46-cd3efa80b61b,2022-09-11 13:58:30,4053,0444-8446-6773-7858,Credit Card,Cleared,Newegg,Dining purchase at Newegg,311.5,31.15,Dining,103,Mobile,1000,657.35
+1f08254b-ae56-40f3-99c3-0a28a31e675f,2022-01-23 13:58:30,6013,6097-2915-9987-6525,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,102.61,10.26,Dining,103,In-Store Terminal,1000,887.13
+bec9e14e-8c1b-485c-8e90-e574b467ae2b,2022-04-29 13:58:30,4685,3636-7749-6632-8647,Credit Card,Cleared,Netflix,Dining purchase at Netflix,150.45,15.04,Dining,103,In-Store Terminal,1000,834.51
+a1259ffe-5c59-4a7b-bb20-f83e326d7b86,2022-02-04 13:58:30,4296,6668-7418-3156-5134,Credit Card,Cleared,Starbucks,Utilities purchase at Starbucks,41.32,4.13,Utilities,104,Desktop,1000,954.55
+acbf782e-6c65-4b64-8317-4492e8b78d4b,2022-03-31 13:58:30,8752,0566-3764-3640-1035,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,27.56,2.76,Groceries,101,Mobile,1000,969.6800000000001
+0c0392ad-9de3-4bc7-9de2-eef2c31e4081,2022-11-25 13:58:30,9946,4795-8076-6207-7280,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,356.57,35.66,Electronics,102,Desktop,1000,607.7700000000001
+66fc82f2-5ffd-4114-8092-cb06c40d45b6,2023-01-19 13:58:30,8016,3554-0719-9494-4610,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,58.94,5.89,Electronics,102,Mobile,1000,935.17
+515fd87e-1749-401c-8c1c-aeeb62aa957f,2022-08-02 13:58:30,4221,8792-5651-2265-9223,Credit Card,Cleared,Netflix,Dining purchase at Netflix,258.07,25.81,Dining,103,Desktop,1000,716.1200000000001
+1b9d5564-e5a8-4e0a-801b-64cecacbbe42,2023-06-28 13:58:30,7090,3017-3895-1228-1028,Credit Card,Cleared,Walmart,Dining purchase at Walmart,137.32,13.73,Dining,103,Mobile,1000,848.95
+ac8fe71a-163b-4777-9421-f022cb7fa2ca,2022-07-06 13:58:30,2202,8387-5637-1881-6346,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,114.46,11.45,Entertainment,105,Mobile,1000,874.0899999999999
+a29046f5-127d-4d9e-b742-8cd0fec9be42,2023-12-15 13:58:30,1766,5257-4681-1618-8044,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,476.86,47.69,Dining,103,In-Store Terminal,1000,475.45
+9dc2271d-bbda-4e52-a4a7-196055f83a02,2022-06-10 13:58:30,1928,3501-0278-7637-4608,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,99.64,9.96,Entertainment,105,Mobile,1000,890.4
+48593546-d3b0-431b-b872-ce1cd5814ed0,2022-03-02 13:58:30,4244,8139-4931-7349-1259,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,189.9,18.99,Dining,103,Mobile,1000,791.11
+2c924452-2222-415e-bd9a-d7fb29970389,2023-12-01 13:58:30,6365,3180-8280-6121-5327,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,412.86,41.29,Dining,103,Mobile,1000,545.85
+92076e1f-fd24-47e4-b5cf-4e6d840dd3f3,2023-07-29 13:58:30,6472,7048-6059-2691-6613,Credit Card,Cleared,Spotify,Dining purchase at Spotify,448.6,44.86,Dining,103,Mobile,1000,506.53999999999996
+d8873042-c903-4c17-9fa7-7f18c098e815,2023-02-07 13:58:30,6542,4436-2311-8472-1907,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,345.19,34.52,Groceries,101,Mobile,1000,620.29
+6de2994f-5456-4a64-8ef1-a9f7d56a319f,2022-12-18 13:58:30,8991,0798-3776-9600-9324,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,74.36,7.44,Electronics,102,Desktop,1000,918.1999999999999
+463bfa9f-3160-451b-b4cb-3816dab951eb,2022-04-06 13:58:30,6035,9491-9466-1627-1297,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,53.17,5.32,Dining,103,In-Store Terminal,1000,941.51
+978b8bc8-e974-469f-848f-6f325a8436e2,2022-01-10 13:58:30,7392,5764-7513-2171-0346,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,45.16,4.52,Utilities,104,Mobile,1000,950.32
+4f0a04ca-a423-41d8-8946-da93962dc86b,2023-11-25 13:58:30,1376,9054-6698-8774-5338,Credit Card,Cleared,Chipotle,Utilities purchase at Chipotle,403.81,40.38,Utilities,104,Mobile,1000,555.8100000000001
+7f4f2205-fbb6-4655-b350-ab2c0ae7b72b,2022-05-29 13:58:30,8212,1567-2963-9533-4431,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,185.73,18.57,Groceries,101,Mobile,1000,795.6999999999999
+a3300ffc-fd52-49da-8a6d-abb04bdd33ad,2023-01-06 13:58:30,4997,2631-3845-5782-9216,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,326.53,32.65,Dining,103,Desktop,1000,640.82
+83babe37-13f2-41c7-bd2e-930579e88736,2023-01-06 13:58:30,8223,4160-1311-8972-1498,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,353.26,35.33,Groceries,101,Desktop,1000,611.41
+a4347f43-203f-4257-830c-67ccd9ec30ca,2023-07-13 13:58:30,7680,8464-6481-4654-8101,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,339.61,33.96,Dining,103,Mobile,1000,626.43
+096f805f-e28f-4ac8-b454-d3428b3a3f79,2022-08-07 13:58:30,7162,2645-8038-8966-5548,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,422.86,42.29,Electronics,102,Mobile,1000,534.85
+499ebc08-a564-443a-9292-4e53740e46af,2022-02-10 13:58:30,6710,3489-4622-7516-7695,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,134.58,13.46,Dining,103,Desktop,1000,851.9599999999999
+d68d376a-efe5-4480-abad-508ead0544cc,2022-01-05 13:58:30,9151,1094-8251-5688-4024,Credit Card,Cleared,AMC,Electronics purchase at AMC,453.51,45.35,Electronics,102,Desktop,1000,501.14
+02c8131f-4b54-4492-8e7f-cc86e1c2a863,2022-06-08 13:58:30,6092,1046-4780-2285-0666,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,166.8,16.68,Electronics,102,Desktop,1000,816.5200000000001
+0f64b742-9804-4c49-bc33-679f0d228264,2023-05-03 13:58:30,1957,7163-2538-6888-5275,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,89.36,8.94,Electronics,102,Mobile,1000,901.6999999999999
+d114cca8-1887-455f-87b0-8c38bf10abfe,2023-03-04 13:58:30,9322,6236-9485-3283-2793,Credit Card,Cleared,AMC,Entertainment purchase at AMC,271.08,27.11,Entertainment,105,Desktop,1000,701.8100000000001
+e6b50564-17a3-4fff-bd4e-7b0aa0e29d3b,2022-09-16 13:58:30,5053,7459-6963-1980-1112,Credit Card,Cleared,City Water,Electronics purchase at City Water,442.16,44.22,Electronics,102,Desktop,1000,513.6199999999999
+6cdae301-bfc0-4be6-953d-baff8f200a84,2022-02-01 13:58:30,1520,7475-9509-0927-6373,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,36.82,3.68,Utilities,104,In-Store Terminal,1000,959.5
+dcf37474-a98d-4c86-9595-e4cbb1298a33,2022-11-30 13:58:30,1970,0813-0650-9915-1904,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,275.11,27.51,Utilities,104,Desktop,1000,697.38
+3a7621c4-b5ea-40aa-a361-142584f3725f,2023-08-19 13:58:30,6759,8094-2209-6634-3012,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,135.93,13.59,Electronics,102,Mobile,1000,850.4799999999999
+d7bda38a-5cb0-4dbf-b9e3-1b93e8fc51b6,2023-03-31 13:58:30,3913,6164-2565-4495-4578,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,144.63,14.46,Groceries,101,Desktop,1000,840.91
+dd34bd60-f691-4bb1-8ebe-3c7ad8d6f552,2023-12-10 13:58:30,2253,8033-2986-4301-4048,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,415.84,41.58,Utilities,104,Mobile,1000,542.58
+1d98dd51-49bf-49d6-868f-2d11e0a8d935,2022-01-02 13:58:30,7941,5490-2002-0481-9185,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,184.03,18.4,Electronics,102,Mobile,1000,797.57
+c2e39cd8-3563-4702-8bc0-41aacb52de3d,2023-03-11 13:58:30,5691,2164-9998-8982-5351,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,432.44,43.24,Entertainment,105,In-Store Terminal,736.29,260.60999999999996
+4e61e560-ce03-406e-9ca3-7d1df7b46615,2023-01-24 13:58:30,6497,7012-0329-3311-4670,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,395.42,39.54,Dining,103,In-Store Terminal,1000,565.04
+b815f49a-9c43-46a2-a8d8-732ca6b90ce3,2023-02-23 13:58:30,3064,3437-6532-8783-8117,Credit Card,Cleared,City Water,Electronics purchase at City Water,482.44,48.24,Electronics,102,Mobile,1000,469.31999999999994
+d820a5b7-3db9-4874-ba89-7272d7b5d61e,2022-12-17 13:58:30,8841,6677-8602-0700-7327,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,103.74,10.37,Dining,103,In-Store Terminal,1000,885.89
+057521ee-516d-4ed4-a142-f14ad50a3c99,2022-01-09 13:58:30,8156,2167-4162-0208-0947,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,125.69,12.57,Entertainment,105,Mobile,1000,861.7399999999999
+efe60dd8-ecc6-4555-944d-9acd9e56d726,2023-09-12 13:58:30,5779,3191-9157-9450-6067,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,393.72,39.37,Utilities,104,In-Store Terminal,1000,566.91
+4659923a-1f3c-48f5-acb5-e2c992526a71,2023-12-02 13:58:30,1366,8711-1670-0218-0920,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,50.28,5.03,Utilities,104,In-Store Terminal,1000,944.69
+83bee808-42c7-4acd-a3fe-31b0b1af245c,2022-04-18 13:58:30,9380,6797-4991-5277-5300,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,148.79,14.88,Entertainment,105,Desktop,1000,836.33
+fcbcc407-6b6c-434f-99a4-f06aa409bdcf,2022-04-23 13:58:30,1976,0708-2390-7913-0478,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,93.18,9.32,Utilities,104,In-Store Terminal,1000,897.4999999999999
+f96f04e1-1b51-47f3-b28c-f6fed61f5c16,2023-04-19 13:58:30,3618,7511-5260-2072-1271,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,219.61,21.96,Dining,103,Mobile,1000,758.43
+a45fc002-2ef4-4d68-8cc1-14dbe20f9354,2023-12-13 13:58:30,5955,3193-2144-5853-1441,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,376.96,37.7,Utilities,104,Desktop,1000,585.3399999999999
+7f1d8e36-56ef-4a39-9259-c592cb4377c5,2022-09-21 13:58:30,4077,8780-8400-4558-2119,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,79.61,7.96,Entertainment,105,Desktop,1000,912.43
+9f2da2c1-5d45-4e0e-ab9c-0e65b83a2561,2022-09-01 13:58:30,1906,8815-7746-8898-1460,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,258.57,25.86,Entertainment,105,Desktop,1000,715.57
+e112f626-d437-4bda-b10b-def799fb3ae7,2023-10-13 13:58:30,8716,0324-4810-4729-6440,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,221.13,22.11,Utilities,104,In-Store Terminal,1000,756.76
+d2e0bf90-4d32-4258-91e5-c4e4eec7e9bc,2022-02-26 13:58:30,5604,4751-9855-9900-4203,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,187.64,18.76,Entertainment,105,Mobile,1000,793.6
+0a8a1388-99a5-4707-bba0-234032b1c389,2023-08-21 13:58:30,3502,4970-0290-8666-9608,Credit Card,Cleared,Newegg,Dining purchase at Newegg,394.28,39.43,Dining,103,Mobile,1000,566.2900000000001
+a3de4d5e-77cd-467a-ae44-075a80c8ff57,2023-08-17 13:58:30,1949,0838-7425-6700-7019,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,131.66,13.17,Groceries,101,In-Store Terminal,1000,855.1700000000001
+f855b82f-9fcd-48b7-8d0f-92d10fc8614d,2023-11-15 13:58:30,1882,7140-7848-5902-3881,Credit Card,Cleared,AMC,Dining purchase at AMC,154.6,15.46,Dining,103,Mobile,1000,829.9399999999999
+57edcd3a-fbb8-4f78-99bc-16a7c91b3a4a,2022-05-09 13:58:30,2472,9095-3601-5087-4413,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,48.04,4.8,Dining,103,In-Store Terminal,1000,947.1600000000001
+6615f973-8077-48e8-817a-f25d53fc7e23,2022-09-03 13:58:30,7963,2764-6411-5232-3757,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,290.98,29.1,Utilities,104,Desktop,1000,679.92
+47407931-3039-464c-aa3d-68a7eceb5142,2022-02-07 13:58:30,2320,2611-5317-3479-1793,Credit Card,Cleared,City Water,Dining purchase at City Water,307.63,30.76,Dining,103,In-Store Terminal,1000,661.61
+1a60f2f0-66a0-4ecf-99d9-23e5f3df95a2,2022-10-03 13:58:30,6628,9162-1819-6170-5194,Credit Card,Cleared,Chipotle,Utilities purchase at Chipotle,176.21,17.62,Utilities,104,In-Store Terminal,1000,806.17
+2b371210-cfdc-4611-a50e-2f5f15a333af,2023-09-02 13:58:30,3152,3953-9068-7239-1111,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,376.07,37.61,Utilities,104,In-Store Terminal,1000,586.32
+025c6aef-2d78-4799-9df4-df8f92e75483,2023-06-15 13:58:30,7436,0250-9054-9093-3655,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,463.54,46.35,Entertainment,105,In-Store Terminal,1000,490.11
+c7594418-27bb-40f2-b368-a3122b7cdddc,2022-01-25 13:58:30,4832,9588-3891-3137-3608,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,287.11,28.71,Entertainment,105,Mobile,1000,684.18
+122d8761-4933-48d5-b4c1-0da8ff0b16e8,2023-12-25 13:58:30,8439,8241-3100-4375-4618,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,243.5,24.35,Electronics,102,Desktop,1000,732.15
+f1f8612d-62b9-4c84-a393-1def7c6cde3b,2023-12-10 13:58:30,7830,2019-6883-6440-0104,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,278.43,27.84,Dining,103,Desktop,1000,693.7299999999999
+ed8cd2e5-b96d-46d5-8791-8108c42be386,2022-11-04 13:58:30,4591,3295-7166-6426-7707,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,174.66,17.47,Electronics,102,In-Store Terminal,1000,807.87
+001a0b70-fa2c-4650-8825-4f2c8f3da804,2022-10-26 13:58:30,1061,0691-5536-6384-9197,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,451.17,45.12,Dining,103,Mobile,1000,503.7099999999999
+856ad6c3-0ade-4225-bf18-4bccaab2ce5a,2023-02-28 13:58:30,6649,2416-2511-3638-8650,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,263.27,26.33,Dining,103,Mobile,1000,710.4
+bc4e6d34-479d-419c-ae74-acadcfe6298e,2023-08-08 13:58:30,9511,7919-8445-5189-9025,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,281.99,28.2,Entertainment,105,In-Store Terminal,1000,689.81
+989b766d-0d8d-4107-b633-0a250ecde3cd,2022-01-21 13:58:30,2446,4929-4160-4541-8905,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,346.8,34.68,Groceries,101,Mobile,1000,618.5200000000001
+cf16a7a4-e02e-48c2-9e5f-6b9b3ed2e9e1,2023-02-19 13:58:30,8576,6033-1224-0376-1910,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,243.37,24.34,Dining,103,Desktop,1000,732.29
+c2bf6912-e0bb-40c2-937e-39c6352be3de,2023-08-14 13:58:30,2871,7841-6824-1442-2381,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,90.0,9.0,Electronics,102,Desktop,1000,901.0
+9a7117b4-d0a8-47fe-997d-34e4b4bf6ee7,2023-02-08 13:58:30,6273,3750-5512-7465-1057,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,485.84,48.58,Electronics,102,Mobile,1000,465.5800000000001
+e6f36e6c-3f30-460a-8b17-7047b38e4ee6,2023-02-13 13:58:30,9288,3537-4653-1727-8871,Credit Card,Cleared,AMC,Utilities purchase at AMC,142.7,14.27,Utilities,104,Desktop,1000,843.03
+6bbc3926-a547-4825-8b2b-e1668d193550,2023-04-30 13:58:30,7462,8127-1112-9477-3373,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,144.47,14.45,Electronics,102,Mobile,1000,841.0799999999999
+bc6b4219-4113-4615-b144-b59bd491a3f2,2023-09-25 13:58:30,4623,4792-7819-5976-6015,Credit Card,Cleared,Newegg,Dining purchase at Newegg,377.07,37.71,Dining,103,Desktop,1000,585.22
+55373d60-a363-4c84-ad8e-5cd599c9a27e,2022-06-12 13:58:30,2829,8147-3681-8220-3868,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,379.27,37.93,Dining,103,Desktop,1000,582.8000000000001
+8c879b3a-ea08-4c10-b175-b8023c7a6cbd,2022-04-09 13:58:30,4369,4613-1457-8023-7015,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,455.39,45.54,Utilities,104,In-Store Terminal,1000,499.07
+2b2a6c9b-41a0-4e17-baa2-a126fd5f6c7b,2023-08-19 13:58:30,7447,2165-0987-2246-2053,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,132.49,13.25,Dining,103,In-Store Terminal,1000,854.26
+f909308a-2784-4952-a582-bbe1c7d41f17,2023-06-20 13:58:30,3325,9693-1529-9386-7793,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,260.22,26.02,Groceries,101,Mobile,1000,713.76
+a0d15f76-f84c-4839-9ecb-b152dbfc93f2,2023-03-20 13:58:30,8066,5328-0674-7051-8452,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,134.88,13.49,Electronics,102,In-Store Terminal,1000,851.63
+8a676787-7504-4b5f-a02a-7be4fe59de97,2023-06-07 13:58:30,1443,7162-3589-3455-0530,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,15.97,1.6,Electronics,102,In-Store Terminal,1000,982.43
+da887a9a-36a4-43e2-a305-8b43cc106a90,2022-12-08 13:58:30,7763,5148-2528-6483-0023,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,282.71,28.27,Entertainment,105,Mobile,1000,689.02
+b706eb3c-8b2f-480f-ac18-10aae006823e,2023-11-06 13:58:30,4211,9124-6162-7022-7195,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,321.24,32.12,Electronics,102,Desktop,1000,646.64
+67144b7f-4afe-4d3a-bdff-b1aa83a3e374,2023-02-23 13:58:30,5711,0434-7960-8544-1121,Credit Card,Cleared,Spotify,Dining purchase at Spotify,158.72,15.87,Dining,103,Desktop,1000,825.41
+bcb8465e-d5e3-49f0-90d4-5a55e3ad509a,2023-04-26 13:58:30,6682,3212-0867-3192-7520,Credit Card,Cleared,Netflix,Dining purchase at Netflix,445.71,44.57,Dining,103,Desktop,1000,509.71999999999997
+a5340f04-1a9f-43f0-b5ec-023053f9fe49,2022-01-17 13:58:30,8899,4620-5624-1030-3578,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,403.89,40.39,Utilities,104,Mobile,1000,555.72
+df3b60c0-22a7-477f-92e1-192b346c6d64,2022-07-08 13:58:30,4234,8351-3899-4856-6659,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,413.36,41.34,Entertainment,105,Mobile,1000,545.3
+a77d8ed3-836e-45f2-9874-7d7317e7bda4,2023-12-15 13:58:30,2666,5207-0373-9298-2520,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,257.55,25.76,Entertainment,105,In-Store Terminal,1000,716.69
+85893695-a52b-49e4-97b4-da0ad2914bcd,2022-04-15 13:58:30,3172,6928-2983-7617-7439,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,179.02,17.9,Entertainment,105,In-Store Terminal,1000,803.08
+52d621ea-a899-45b6-a4ac-67e9ea6f6c18,2022-09-20 13:58:30,7240,8598-2856-3753-3093,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,196.92,19.69,Utilities,104,In-Store Terminal,1000,783.39
+0f2ead66-a143-4412-b8ee-625b7af5cdeb,2022-07-21 13:58:30,7931,1083-0991-4409-5428,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,182.35,18.23,Utilities,104,Desktop,1000,799.42
+cc233b60-ac9b-4c4a-ac83-c39dd3faedf0,2022-10-01 13:58:30,4472,3463-2290-3184-4939,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,266.52,26.65,Groceries,101,Desktop,1000,706.83
+5eb60bf1-6b29-45f7-af46-a62225679ae7,2023-01-06 13:58:30,5449,5309-3885-1363-8029,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,432.27,43.23,Groceries,101,In-Store Terminal,1000,524.5
+208782a6-3f14-4172-8eb5-fa907856be8b,2023-05-05 13:58:30,4401,3826-4628-1941-9439,Credit Card,Cleared,City Water,Electronics purchase at City Water,166.43,16.64,Electronics,102,Mobile,1000,816.93
+f335df44-524f-49d2-aea4-d1eb4fd6fe34,2023-10-04 13:58:30,1102,4033-4914-1782-8796,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,181.05,18.11,Dining,103,In-Store Terminal,1000,800.84
+85202e85-b7f4-44dd-ab91-dd17b55990a1,2023-10-01 13:58:30,8500,6223-4139-8235-4734,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,43.62,4.36,Entertainment,105,Desktop,1000,952.02
+898313fb-10d0-47a0-8577-a987c433f6f4,2022-02-14 13:58:30,8712,4999-9430-4820-0812,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,336.58,33.66,Groceries,101,Mobile,1000,629.7600000000001
+5890d0be-e65d-419c-a095-317c5aa214e3,2023-12-20 13:58:30,1330,3856-2414-9511-8123,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,53.95,5.4,Groceries,101,Desktop,1000,940.65
+b01e46c6-7191-4720-bb94-4301bef8bbf1,2023-03-02 13:58:30,6523,8830-6549-3866-3112,Credit Card,Cleared,AMC,Electronics purchase at AMC,460.37,46.04,Electronics,102,In-Store Terminal,1000,493.59
+262bf7b2-6224-4345-b788-6074e413b911,2023-03-03 13:58:30,4669,0279-5225-7697-5557,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,355.24,35.52,Groceries,101,In-Store Terminal,1000,609.24
+d7deb036-ffa1-4e98-8b0b-a2dcb2a75984,2022-01-18 13:58:30,6219,8585-8681-7773-2647,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,325.52,32.55,Electronics,102,In-Store Terminal,1000,641.9300000000001
+f2914814-62ed-43e0-8910-3fffe92de3a6,2022-07-12 13:58:30,1464,3406-5391-7975-7580,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,483.33,48.33,Entertainment,105,Mobile,1000,468.3400000000001
+b2a542c1-b8ef-47b9-92eb-2dc3a3fe2279,2023-04-10 13:58:30,2651,5159-4153-4097-2935,Credit Card,Cleared,City Water,Dining purchase at City Water,92.07,9.21,Dining,103,Desktop,1000,898.72
+6b2b1bb4-32b9-48b0-9502-4be645e5110e,2022-02-23 13:58:30,5494,8571-8133-0209-8176,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,247.48,24.75,Entertainment,105,Desktop,1000,727.77
+3c429eeb-642c-41f6-973a-0868186f0c9e,2023-03-19 13:58:30,2308,7616-4532-9682-9450,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,139.78,13.98,Utilities,104,Mobile,1000,846.24
+87da66fc-b8e2-4a88-9d32-11246a3a865f,2022-09-11 13:58:30,6750,8971-4196-7175-2927,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,466.8,46.68,Dining,103,Mobile,1000,486.52000000000004
+7ca50d99-aea6-4151-805d-5d7478e1919d,2022-03-02 13:58:30,1134,5625-4197-6947-3798,Credit Card,Cleared,Spotify,Dining purchase at Spotify,254.48,25.45,Dining,103,In-Store Terminal,1000,720.0699999999999
+76f17c2f-d31c-476d-98fa-bdfb7bda84dc,2023-12-21 13:58:30,8827,7888-1212-4450-8473,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,449.39,44.94,Groceries,101,Mobile,1000,505.67
+6b5b89e6-6572-4b3f-afa9-2613a2dcbb9f,2022-10-31 13:58:30,6583,9783-0637-8510-2731,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,288.08,28.81,Groceries,101,In-Store Terminal,1000,683.1100000000001
+1bd44684-809c-44db-ac99-84b103475dc4,2022-06-14 13:58:30,7037,5565-9747-1555-9511,Credit Card,Cleared,AMC,Groceries purchase at AMC,335.77,33.58,Groceries,101,Mobile,1000,630.65
+5bdc7489-12bb-4638-b378-5164d8b144f4,2023-04-12 13:58:30,6162,3145-2681-5801-9326,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,39.81,3.98,Entertainment,105,Desktop,1000,956.21
+b1f54a30-4668-4894-8116-d56ea91c2f5e,2022-06-19 13:58:30,2982,7973-3009-8396-8133,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,416.23,41.62,Utilities,104,Mobile,1000,542.15
+0d339df8-81b6-49a3-84d8-1ebcaaed865b,2022-08-15 13:58:30,4948,0490-8985-2784-5389,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,116.11,11.61,Electronics,102,Desktop,1000,872.28
+df16c628-8698-4adb-baa6-ef9fac3e3dea,2022-06-09 13:58:30,4374,2466-5722-7327-0252,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,97.53,9.75,Groceries,101,Desktop,1000,892.72
+c4f6b24b-a3f2-4550-8fe0-c44d95076d8e,2022-03-02 13:58:30,9101,8391-3199-1143-5283,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,141.02,14.1,Entertainment,105,Desktop,1000,844.88
+f0cdb2e5-e8d8-46c1-8eab-9f7283b6848a,2023-05-30 13:58:30,2287,1823-6854-2265-2529,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,450.07,45.01,Utilities,104,Mobile,1000,504.9200000000001
+84c9fad3-ad57-4bf9-bf2b-eb2cf3f0feea,2023-08-07 13:58:30,5199,6425-5571-4090-3063,Credit Card,Cleared,City Water,Utilities purchase at City Water,137.05,13.71,Utilities,104,Mobile,1000,849.24
+4e525bc6-a575-4e80-9cea-c349ae489f0a,2022-08-04 13:58:30,7191,6657-9230-9131-4663,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,277.47,27.75,Groceries,101,Desktop,1000,694.78
+ca9022a6-c8ab-4c5e-abc4-a83593743a5e,2023-11-28 13:58:30,1332,3809-3182-6179-9898,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,201.97,20.2,Entertainment,105,In-Store Terminal,1000,777.8299999999999
+fd162226-8157-44e2-90fe-c9e84a07a3ff,2022-11-09 13:58:30,3336,7654-2020-4089-1905,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,408.19,40.82,Entertainment,105,Mobile,1000,550.9899999999999
+0e57ffee-28f0-40b5-b755-73ef49ae544c,2023-10-19 13:58:30,5265,6709-4860-3799-8032,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,166.31,16.63,Groceries,101,Desktop,1000,817.0600000000001
+320e134e-4c80-43e5-b9a8-841edc7e5cd0,2022-10-22 13:58:30,4283,4548-4891-9237-5602,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,273.03,27.3,Electronics,102,Mobile,1000,699.6700000000001
+7567bc1e-76e1-4c75-800b-f808730a4d93,2023-06-04 13:58:30,7588,4171-8780-4170-2623,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,166.97,16.7,Groceries,101,In-Store Terminal,1000,816.3299999999999
+a731ea29-e54e-4467-a6b4-95a12076797f,2023-05-17 13:58:30,8324,7928-0161-0572-9220,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,236.12,23.61,Entertainment,105,Desktop,1000,740.27
+4b5a5401-6339-49fc-a947-6e634a5602ad,2023-10-11 13:58:30,1547,5136-9488-0481-8426,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,391.57,39.16,Dining,103,Mobile,1000,569.2700000000001
+97348b47-1abc-4163-b170-32eb8c064b98,2022-02-26 13:58:30,9968,7160-2785-5169-3273,Credit Card,Cleared,AMC,Groceries purchase at AMC,402.23,40.22,Groceries,101,In-Store Terminal,1000,557.55
+c51a4bde-f114-44e2-9f20-89d17d6c76c1,2022-05-26 13:58:30,5060,5532-3377-3213-6905,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,114.77,11.48,Utilities,104,Desktop,1000,873.75
+51ea7e98-635f-41a1-ad43-007df087a3b4,2023-02-04 13:58:30,4190,2389-3131-8059-8000,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,25.61,2.56,Utilities,104,Mobile,1000,971.83
+1e793499-8bff-47ad-af07-a284233310f3,2023-10-30 13:58:30,4192,7564-5433-1803-9104,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,121.3,12.13,Utilities,104,Desktop,1000,866.57
+7bf9510d-6ca7-4558-a2aa-05e18b85542e,2023-06-18 13:58:30,7183,4299-3799-5112-6748,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,351.87,35.19,Entertainment,105,Mobile,1000,612.94
+f34c25ff-4fa2-4b4f-866f-37748943aaaf,2022-01-08 13:58:30,7415,8040-3100-7410-7860,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,52.09,5.21,Electronics,102,Mobile,1000,942.6999999999999
+b0442672-0dde-447b-a400-5e9d37378dcf,2023-04-05 13:58:30,2368,0601-2566-9934-3263,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,368.09,36.81,Electronics,102,In-Store Terminal,1000,595.1000000000001
+7abe44d9-1b14-49f3-ac3e-7bcef65d1a45,2022-05-15 13:58:30,8567,2697-2325-7869-9471,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,283.48,28.35,Electronics,102,Mobile,1000,688.17
+4fa7d12e-3010-4165-aa10-2af38016235d,2023-10-05 13:58:30,5784,7064-8614-8332-0592,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,205.04,20.5,Dining,103,Desktop,1000,774.46
+9adc8962-b7eb-4c7d-842e-758448467556,2023-11-21 13:58:30,8404,5588-4561-5335-3203,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,111.01,11.1,Dining,103,In-Store Terminal,1000,877.89
+0917e50b-759b-4347-baa9-31d33e6ada69,2023-05-13 13:58:30,2661,5205-3623-7977-1411,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,27.09,2.71,Entertainment,105,Mobile,1000,970.1999999999999
+d576428c-515b-49fb-8393-a4d1fe4ba2b3,2023-10-15 13:58:30,6804,4086-5579-2317-9401,Credit Card,Cleared,AMC,Entertainment purchase at AMC,285.85,28.59,Entertainment,105,In-Store Terminal,1000,685.56
+6b56f7b3-7ed6-48e1-a0da-a57ef31aab4b,2022-09-24 13:58:30,4228,6503-8376-4466-5570,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,188.05,18.81,Entertainment,105,In-Store Terminal,1000,793.1400000000001
+fb8a7e4b-57af-4d08-9930-b6a6239ede2f,2022-12-24 13:58:30,3279,8038-9180-1741-3297,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,390.21,39.02,Groceries,101,In-Store Terminal,1000,570.77
+5ea68e0a-6e41-4297-b776-3e27c84d2946,2022-11-02 13:58:30,2583,1894-8480-7394-4561,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,445.46,44.55,Groceries,101,Mobile,1000,509.98999999999995
+b553dacc-659b-4b46-8b58-a2bb115379a5,2022-12-11 13:58:30,2429,2557-8217-0549-9741,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,165.74,16.57,Groceries,101,Desktop,1000,817.6899999999999
+5180ab1e-105a-452a-9784-dffd1f066627,2022-05-09 13:58:30,7733,3897-6841-7781-0775,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,364.71,36.47,Entertainment,105,Desktop,1000,598.8199999999999
+9bd7c16f-1e7e-4b86-b5d6-6767ee1d3b4d,2023-03-01 13:58:30,9062,4950-7607-3362-3006,Credit Card,Cleared,AMC,Groceries purchase at AMC,165.71,16.57,Groceries,101,In-Store Terminal,1000,817.7199999999999
+6173c763-bbef-471d-a156-2ba7f87dfaff,2022-11-02 13:58:30,9693,4928-0987-8415-2371,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,176.44,17.64,Utilities,104,In-Store Terminal,1000,805.92
+af461b16-4df9-4990-8378-5f138ecf6985,2022-07-19 13:58:30,9212,9748-6326-4824-3342,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,143.94,14.39,Electronics,102,Mobile,1000,841.67
+be122aa8-d668-427b-aa40-391fbe344a9a,2022-09-11 13:58:30,5071,6958-2276-8158-1089,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,90.54,9.05,Electronics,102,In-Store Terminal,1000,900.4100000000001
+1ad829e3-4ea9-4f26-9a79-f73a59f05474,2023-05-17 13:58:30,8300,0439-8300-0067-0230,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,14.12,1.41,Entertainment,105,Desktop,1000,984.47
+97bcde47-d8c5-4862-8aa9-735a36df1592,2023-07-15 13:58:30,9871,7743-8864-0061-1359,Credit Card,Cleared,Whole Foods,Utilities purchase at Whole Foods,75.03,7.5,Utilities,104,Mobile,1000,917.47
+e4c2722e-b6e5-4967-ac61-bb805a5100ad,2023-05-03 13:58:30,5392,0684-7945-0952-0755,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,422.01,42.2,Electronics,102,Mobile,1000,535.79
+2157f620-6fa5-40de-afd4-ba04765f061b,2023-09-21 13:58:30,3593,5755-1873-1969-7572,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,216.32,21.63,Groceries,101,In-Store Terminal,1000,762.0500000000001
+f272fc5a-eb1d-4798-bb4b-439f999f9406,2022-05-06 13:58:30,6083,4968-5354-9669-8457,Credit Card,Cleared,Whole Foods,Utilities purchase at Whole Foods,7.21,0.72,Utilities,104,Mobile,1000,992.0699999999999
+c4b13085-3b76-4347-a1cc-2e0bfdf31090,2022-10-04 13:58:30,8060,2083-3754-0954-9213,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,59.33,5.93,Dining,103,In-Store Terminal,1000,934.74
+86020afa-0b21-49ee-8b8a-c04295d5fc2b,2022-03-21 13:58:30,5085,9283-6954-9955-5366,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,256.34,25.63,Groceries,101,In-Store Terminal,1000,718.0300000000001
+02db6563-271e-46f0-b229-a6315cd20658,2022-05-03 13:58:30,4596,0302-3701-8046-2483,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,131.45,13.14,Dining,103,Mobile,1000,855.41
+fe7b1ed5-12db-46fe-a9e3-4700f0abf586,2022-11-07 13:58:30,9329,0786-1899-5356-6835,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,346.49,34.65,Electronics,102,Desktop,1000,618.86
+87dfe2c6-d7c6-43f6-bf13-6dd1b1659301,2023-10-12 13:58:30,1894,0263-6495-9790-2645,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,218.24,21.82,Entertainment,105,Mobile,1000,759.9399999999999
+6cc9d894-8a4f-4987-ae3e-1048ecbdd4a5,2022-11-01 13:58:30,5573,9481-1142-5934-2427,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,172.0,17.2,Entertainment,105,Desktop,1000,810.8
+78ce1c9d-5f36-4f5a-a847-c4fe563efc2b,2023-07-17 13:58:30,6990,3776-4234-9228-2679,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,496.1,49.61,Groceries,101,Desktop,1000,454.28999999999996
+41f3bef4-80da-4831-8851-844a6ef39abe,2022-11-27 13:58:30,1437,8292-0607-3941-1067,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,13.69,1.37,Electronics,102,Mobile,1000,984.9399999999999
+78fe3d41-56c0-442d-962a-37c9ea840a49,2023-11-04 13:58:30,7411,6949-6982-6692-4233,Credit Card,Cleared,AMC,Dining purchase at AMC,150.21,15.02,Dining,103,Desktop,1000,834.77
+c7e22ea1-2a36-48eb-8533-f18fc405f95a,2023-07-31 13:58:30,7517,4858-7665-5790-9332,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,44.36,4.44,Groceries,101,Mobile,1000,951.1999999999999
+6e06f318-1341-408b-a849-2f96c211bcf4,2022-04-21 13:58:30,6346,3610-8209-9902-2574,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,10.23,1.02,Groceries,101,In-Store Terminal,1000,988.75
+1a5c0792-70fb-43c2-af4b-72d74ef87601,2023-03-13 13:58:30,4556,0990-2252-8110-0813,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,489.21,48.92,Utilities,104,Mobile,1000,461.87
+202bdb21-8458-45f6-8698-341f1db2c355,2023-05-20 13:58:30,7058,9685-8830-3253-0432,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,32.72,3.27,Entertainment,105,In-Store Terminal,1000,964.01
+424fc37b-60a9-4b87-b817-c40a687d91e5,2023-07-05 13:58:30,2469,3100-6503-8966-7956,Credit Card,Cleared,AMC,Entertainment purchase at AMC,252.04,25.2,Entertainment,105,Desktop,1000,722.76
+8e7275ec-8666-485b-ab7a-15129c1721c2,2022-09-15 13:58:30,5262,0299-5632-7395-8569,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,58.69,5.87,Dining,103,Desktop,1000,935.4399999999999
+b96a67ef-7632-47f1-915e-a80932db2dda,2023-05-10 13:58:30,7307,2818-6646-7413-1404,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,380.72,38.07,Electronics,102,In-Store Terminal,1000,581.2099999999999
+4c60c680-7448-487e-9e2d-897ddaef92c7,2023-05-05 13:58:30,5342,2736-3920-7686-2547,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,404.88,40.49,Utilities,104,Mobile,1000,554.63
+50d5385f-40e4-4315-a542-bcca324935f6,2022-07-23 13:58:30,7774,4266-8098-7939-6643,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,336.47,33.65,Electronics,102,Mobile,1000,629.88
+ad910bf2-b7a4-4bb8-bbe3-cf7dcc2d8c18,2023-07-20 13:58:30,3766,9956-7134-0831-2781,Credit Card,Cleared,City Water,Groceries purchase at City Water,167.9,16.79,Groceries,101,Mobile,1000,815.3100000000001
+b78e8a9e-1238-4b8b-81c5-7962c01d0830,2022-05-15 13:58:30,3309,3458-2466-1876-1498,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,492.32,49.23,Groceries,101,Mobile,1000,458.45
+6a681331-4cd1-4bb5-9332-8410477d60e3,2022-01-27 13:58:30,2571,4694-3851-5357-3587,Credit Card,Cleared,AMC,Entertainment purchase at AMC,460.75,46.08,Entertainment,105,Mobile,1000,493.17
+8fc326fd-7574-4ebb-ad3f-2442ab0ba6ed,2023-02-22 13:58:30,3927,2498-0159-6038-0855,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,229.25,22.93,Entertainment,105,Mobile,1000,747.82
+27dafaa5-7ef6-46e7-8bb1-61d18f7d26d9,2023-02-26 13:58:30,6055,0824-6823-9294-3882,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,202.72,20.27,Entertainment,105,Desktop,1000,777.01
+e300f0a9-f099-4462-9ffc-83108135015a,2023-09-08 13:58:30,3161,7477-3376-2286-1437,Credit Card,Cleared,City Water,Dining purchase at City Water,291.56,29.16,Dining,103,Desktop,1000,679.2800000000001
+ac3a644e-73fc-4bea-a9c4-9ae645fba0c8,2023-01-03 13:58:30,4899,0781-2086-8711-6233,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,336.86,33.69,Electronics,102,In-Store Terminal,1000,629.45
+539f2d18-c8b9-4412-a8a8-024532886046,2023-04-22 13:58:30,9682,8257-5416-7256-3603,Credit Card,Cleared,AMC,Electronics purchase at AMC,407.56,40.76,Electronics,102,Mobile,1000,551.6800000000001
+44b14b6b-8930-4621-b8f1-17532f9cf2f9,2022-09-20 13:58:30,4985,6275-1556-9477-0063,Credit Card,Cleared,AMC,Groceries purchase at AMC,25.1,2.51,Groceries,101,Mobile,1000,972.39
+1702c097-7841-4182-8a97-43994aa39869,2022-11-25 13:58:30,9060,3312-6022-9972-4235,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,63.82,6.38,Electronics,102,In-Store Terminal,1000,929.8
+281f8f1a-8293-4699-b9c6-1838cf5cbe22,2022-09-23 13:58:30,2808,8075-3889-7458-1419,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,249.18,24.92,Entertainment,105,Mobile,1000,725.9
+79f50c79-3af5-4b90-84e5-6d94da626127,2022-08-02 13:58:30,5552,3587-9928-6111-6598,Credit Card,Cleared,City Water,Electronics purchase at City Water,67.7,6.77,Electronics,102,Mobile,1000,925.53
+c1d71eca-e8c6-491c-a7d5-d7f04955ef2d,2023-08-18 13:58:30,2877,2271-8552-3526-7347,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,209.26,20.93,Groceries,101,Desktop,1000,769.8100000000001
+1ab1374f-3a13-42e9-b54b-a506734d88fe,2022-04-26 13:58:30,1178,5476-1176-2722-8091,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,146.31,14.63,Groceries,101,Desktop,1000,839.0600000000001
+dd89225e-c81b-4374-9077-2a85ca546f29,2022-08-16 13:58:30,5954,6828-1645-5525-6778,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,16.24,1.62,Groceries,101,Desktop,1000,982.14
+1b462d5c-5bec-42e9-8515-d1e211bd7661,2023-04-23 13:58:30,4491,1512-4626-3544-4944,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,140.82,14.08,Entertainment,105,Mobile,1000,845.1
+df5e48d3-9f8b-453a-b10e-f6924fe3d69d,2022-06-26 13:58:30,2740,0037-9453-1092-8636,Credit Card,Cleared,AMC,Entertainment purchase at AMC,334.26,33.43,Entertainment,105,Mobile,1000,632.3100000000001
+dca64725-d36f-41cc-b136-beb55d0c1184,2023-01-22 13:58:30,1769,2249-8364-4948-1487,Credit Card,Cleared,Chipotle,Utilities purchase at Chipotle,181.93,18.19,Utilities,104,In-Store Terminal,1000,799.8799999999999
+ae1b7773-8421-4623-95a7-edf57e074c59,2023-09-24 13:58:30,2141,1143-4793-1619-6387,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,8.94,0.89,Groceries,101,Mobile,1000,990.17
+12a8a984-2b44-4a91-986c-ddc7f9caf431,2022-07-11 13:58:30,5890,9311-4465-3710-1315,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,395.78,39.58,Groceries,101,In-Store Terminal,1000,564.64
+90bdcf52-612e-426c-b092-948ecc0cdacc,2023-01-29 13:58:30,6248,4289-6730-1175-3948,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,387.98,38.8,Electronics,102,In-Store Terminal,1000,573.22
+95989323-cd63-47d1-8532-d18e215e30b4,2023-08-30 13:58:30,8668,3995-0246-2724-8196,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,249.01,24.9,Groceries,101,In-Store Terminal,1000,726.09
+110a97ed-281f-45f5-8329-3e21c17677de,2023-10-28 13:58:30,9617,7074-4387-8055-8889,Credit Card,Cleared,Whole Foods,Utilities purchase at Whole Foods,60.23,6.02,Utilities,104,In-Store Terminal,1000,933.75
+65e270ea-b193-4b82-89b8-0088e66726c2,2022-09-14 13:58:30,3199,3653-2241-3220-1851,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,229.81,22.98,Dining,103,Desktop,1000,747.21
+fc90a183-7a12-4026-97a0-ad9620b5de87,2023-12-20 13:58:30,6114,8688-5971-7226-6367,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,126.27,12.63,Electronics,102,Desktop,1000,861.1
+2b2d618a-ebe9-473c-aea6-b70e0ea880b0,2023-11-15 13:58:30,4521,8578-2459-2662-3460,Credit Card,Cleared,City Water,Dining purchase at City Water,200.45,20.05,Dining,103,Mobile,1000,779.5
+11e151f8-67d4-4579-a86b-753e55e5ced2,2022-04-18 13:58:30,4941,3277-3109-6119-8276,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,114.42,11.44,Dining,103,Desktop,1000,874.14
+3e61cdac-1ab2-42e0-8a62-540560666c13,2022-06-30 13:58:30,4797,8061-4492-5943-8657,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,388.02,38.8,Entertainment,105,Mobile,1000,573.1800000000001
+ec94d7f9-4d60-4508-863c-e6aeadd30d2d,2022-02-20 13:58:30,4578,6018-4863-3896-7279,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,77.47,7.75,Groceries,101,Mobile,1000,914.78
+d62a8e2d-f728-466e-83cf-c36c165637a7,2022-01-22 13:58:30,8987,7729-5888-0836-5320,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,427.84,42.78,Electronics,102,Desktop,1000,529.3800000000001
+8413c47a-00a8-47b8-9447-6c58daf9366d,2022-01-31 13:58:30,1653,0317-5157-8509-7011,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,171.32,17.13,Electronics,102,In-Store Terminal,1000,811.5500000000001
+8251bd9f-0b62-4148-ad2d-1db554ff148e,2022-02-09 13:58:30,2990,3654-5983-2616-9572,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,350.71,35.07,Utilities,104,In-Store Terminal,1000,614.2199999999999
+b4f8b998-1a8e-4bcc-98dd-4e87324f21b6,2022-05-18 13:58:30,2576,5531-5274-6178-0873,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,28.78,2.88,Entertainment,105,Desktop,1000,968.34
+1829dae6-1658-49ea-997a-4268d6dc91b2,2022-04-14 13:58:30,5202,2179-2535-3170-6743,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,270.63,27.06,Utilities,104,Desktop,1000,702.3100000000001
+a95226c2-b05b-4e76-ad4c-38dd1d3fade8,2023-02-24 13:58:30,7364,3011-9069-5146-0258,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,259.53,25.95,Dining,103,Mobile,1000,714.52
+8da7442c-b31e-4313-907a-27c6472ff0b5,2022-08-13 13:58:30,2287,5014-5621-8161-1847,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,81.54,8.15,Utilities,104,Desktop,504.9200000000001,415.2300000000001
+87802f6f-613b-408b-a4ea-0e0e3d185920,2022-07-14 13:58:30,9655,7934-3046-1715-5462,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,269.65,26.96,Dining,103,In-Store Terminal,1000,703.39
+cc5a3952-1316-4fdf-8fa6-7b0971fa2377,2023-04-14 13:58:30,6430,5446-4651-4611-0080,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,492.16,49.22,Groceries,101,Mobile,1000,458.62
+9346e12c-c8f3-4c53-9a19-96713b38bca2,2022-03-09 13:58:30,8112,7916-4322-0702-7654,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,285.37,28.54,Entertainment,105,In-Store Terminal,1000,686.09
+c7babc5d-560d-471f-8a13-657ea22ca13d,2022-04-14 13:58:30,2698,1232-9656-0564-7822,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,492.22,49.22,Entertainment,105,In-Store Terminal,1000,458.55999999999995
+088d88d1-879f-4c63-947f-36ceeb1bc39c,2022-11-16 13:58:30,1888,9276-2350-6165-8150,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,360.31,36.03,Groceries,101,In-Store Terminal,1000,603.6600000000001
+7dd36bee-37d3-4814-98aa-80a788209dec,2023-04-03 13:58:30,7776,4899-3455-6308-0462,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,219.83,21.98,Groceries,101,Mobile,1000,758.1899999999999
+c4c8e67f-696e-46fd-9f63-ec779c215101,2022-07-06 13:58:30,3934,6167-7589-7437-0356,Credit Card,Cleared,AMC,Groceries purchase at AMC,304.02,30.4,Groceries,101,Desktop,1000,665.58
+ee4ccb1f-75e1-49b3-a354-3eaca904296c,2023-03-05 13:58:30,8855,5540-1369-9762-6182,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,70.57,7.06,Entertainment,105,Mobile,1000,922.3700000000001
+f0535472-c8ac-44fa-8bbd-a24fd6eb6fec,2022-03-16 13:58:30,2971,0036-4877-9397-3435,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,153.1,15.31,Utilities,104,In-Store Terminal,1000,831.59
+119a1c7c-222b-495e-b7ab-14b9a99f5fd1,2023-05-29 13:58:30,2830,9781-8813-0280-5146,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,378.96,37.9,Entertainment,105,Mobile,1000,583.14
+484a0599-ab59-4c46-bc1b-bbe23eca2787,2023-07-21 13:58:30,8179,1975-7087-5822-2171,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,255.36,25.54,Entertainment,105,In-Store Terminal,1000,719.1
+bc4a2cbd-2940-4d65-b882-b3131a22aaad,2022-08-18 13:58:30,1317,6992-3614-1793-8630,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,280.58,28.06,Entertainment,105,Desktop,1000,691.3600000000001
+10707c43-64b5-4c6f-bf9a-cff594ab8a6e,2022-10-06 13:58:30,4728,1384-3337-8517-8227,Credit Card,Cleared,City Water,Entertainment purchase at City Water,240.34,24.03,Entertainment,105,Mobile,1000,735.63
+96d3c86d-b7fa-4db7-9412-94886233f152,2023-05-22 13:58:30,5272,4445-7858-9374-9443,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,250.1,25.01,Entertainment,105,Desktop,1000,724.89
+3fd9cc62-cba2-48d5-afaf-bd1a49f1cb3c,2023-08-13 13:58:30,6989,2574-1763-0738-0812,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,127.95,12.8,Electronics,102,Desktop,1000,859.25
+516616e4-cfc3-47af-b2ba-bbb9985de04b,2023-04-03 13:58:30,1674,4287-8813-1030-2493,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,400.29,40.03,Utilities,104,Mobile,1000,559.6800000000001
+b1c37f29-292d-4f57-a7ed-01324466c75b,2023-02-26 13:58:30,5224,6095-1261-2587-7205,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,408.67,40.87,Groceries,101,In-Store Terminal,1000,550.4599999999999
+b710e958-9836-4151-8631-b69a8702d774,2023-10-22 13:58:30,6252,0639-7530-2252-1405,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,149.33,14.93,Utilities,104,Desktop,1000,835.74
+914c5351-8329-4c11-ab8b-18052594c0bf,2022-02-28 13:58:30,5603,6812-0331-8429-8419,Credit Card,Cleared,Walmart,Dining purchase at Walmart,457.89,45.79,Dining,103,Mobile,1000,496.32
+f93afc74-a43a-4c5e-9ac8-2b808bd617d6,2023-03-09 13:58:30,9019,6833-7870-3348-5397,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,324.76,32.48,Utilities,104,Mobile,1000,642.76
+6c34a537-077a-49ab-8983-00e7976d65b0,2022-12-31 13:58:30,6988,5977-2544-5034-2100,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,487.5,48.75,Utilities,104,Mobile,1000,463.75
+d2d67194-9c4d-47a5-85a7-96311f42c1b7,2023-06-27 13:58:30,8990,1543-7917-7803-1067,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,326.07,32.61,Utilities,104,In-Store Terminal,1000,641.32
+b28c9d35-dad0-4d81-a72c-831fcdf03dfe,2023-02-18 13:58:30,9158,5347-5708-1754-7827,Credit Card,Cleared,City Water,Electronics purchase at City Water,330.63,33.06,Electronics,102,In-Store Terminal,1000,636.31
+b1300500-8e82-4956-b049-6007feede672,2022-12-05 13:58:30,1653,3842-3273-1602-0528,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,87.02,8.7,Groceries,101,Desktop,811.5500000000001,715.83
+b9f95d4e-7e3c-4476-a998-18c5c448d47f,2023-06-28 13:58:30,9510,4924-8288-5988-6378,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,57.54,5.75,Groceries,101,In-Store Terminal,1000,936.71
+1b45338d-dfa4-4d4f-8a11-e5fc1c46e522,2023-11-29 13:58:30,9045,4487-8453-5433-1635,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,176.3,17.63,Electronics,102,Mobile,1000,806.07
+9bec727e-2f95-4379-9417-9b831a5d3743,2023-08-10 13:58:30,6872,0428-6755-0501-3704,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,337.55,33.76,Electronics,102,In-Store Terminal,1000,628.69
+77183687-5b80-404b-9d9f-1c0e9343ee8f,2023-11-17 13:58:30,9395,7560-3586-2420-4569,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,26.47,2.65,Groceries,101,Mobile,1000,970.88
+8a0a7fe0-7649-4433-8e69-08adb5e5212a,2023-09-23 13:58:30,2802,9061-5444-4753-1565,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,109.43,10.94,Dining,103,Desktop,1000,879.6299999999999
+e6c1a1f6-1b1d-4f29-bcba-00e359aeb0f6,2023-08-02 13:58:30,9505,5575-7857-8746-7130,Credit Card,Cleared,City Water,Utilities purchase at City Water,163.02,16.3,Utilities,104,Mobile,1000,820.6800000000001
+85aa26de-366b-4b1d-b077-6139f6b191f1,2023-09-24 13:58:30,9141,7876-0120-1411-7816,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,325.07,32.51,Utilities,104,In-Store Terminal,1000,642.4200000000001
+62dcbf41-69c5-4ab5-889a-8e72a4945302,2023-04-16 13:58:30,7717,9638-7746-6753-3950,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,343.42,34.34,Entertainment,105,Mobile,1000,622.2399999999999
+ec8152c0-9ed5-4e48-9800-1765f2c7509f,2023-04-06 13:58:30,2260,9056-7599-9240-7112,Credit Card,Cleared,Walmart,Dining purchase at Walmart,290.24,29.02,Dining,103,Mobile,1000,680.74
+64263aa0-207e-4655-9525-482be1e8f5ac,2023-11-01 13:58:30,9826,0956-0455-2542-2697,Credit Card,Cleared,AMC,Dining purchase at AMC,95.17,9.52,Dining,103,Mobile,1000,895.3100000000001
+ad4c8b94-6343-473e-9d07-e3438c4c147f,2022-03-28 13:58:30,6521,9490-6190-1004-8237,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,428.51,42.85,Groceries,101,Mobile,1000,528.64
+7d41658a-11d1-40bd-8d5d-b184e0d0dc7e,2022-12-26 13:58:30,1623,1792-1066-9142-1990,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,387.54,38.75,Electronics,102,In-Store Terminal,1000,573.71
+a537500a-fee6-4fee-9eb4-61f67343d559,2023-12-15 13:58:30,7717,8896-0683-8980-6671,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,180.93,18.09,Dining,103,Desktop,622.2399999999999,423.2199999999999
+b1c37821-4584-41fa-885f-9fc42431b7d7,2023-09-26 13:58:30,9609,7201-0538-3867-1552,Credit Card,Cleared,City Water,Electronics purchase at City Water,163.11,16.31,Electronics,102,Mobile,1000,820.58
+96c19f9c-e9ac-4772-8164-994792154785,2023-05-18 13:58:30,7911,5498-9890-1146-9230,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,334.87,33.49,Groceries,101,Mobile,1000,631.64
+560d5189-f718-438a-9e79-fd6de6a0b7f8,2022-01-28 13:58:30,1235,4061-4418-9576-1938,Credit Card,Cleared,Walmart,Dining purchase at Walmart,324.06,32.41,Dining,103,Mobile,1000,643.5300000000001
+2a076de5-a55a-4e6d-b0e9-45c1291c646a,2023-12-24 13:58:30,4368,8823-2313-2240-6785,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,50.27,5.03,Electronics,102,Desktop,1000,944.7
+cda0f89c-92af-4606-8826-522e89a7f750,2022-08-30 13:58:30,1095,0959-4441-6589-2593,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,188.38,18.84,Electronics,102,Mobile,1000,792.78
+d012ab34-5fb9-46f2-81cc-ac5307c389f6,2023-07-12 13:58:30,3853,5077-7616-4741-4117,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,312.16,31.22,Utilities,104,In-Store Terminal,1000,656.6199999999999
+b9589a7b-bce3-487f-9749-c651e69fd988,2023-05-05 13:58:30,5976,6625-5501-1586-5032,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,235.08,23.51,Groceries,101,Mobile,1000,741.41
+6d12775c-38aa-4497-b1b0-b11b199916e6,2023-05-29 13:58:30,9289,8859-9761-4313-8281,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,264.48,26.45,Electronics,102,Desktop,1000,709.0699999999999
+77c7c48b-f57e-47da-bcf3-72dbb1f0700b,2023-09-23 13:58:30,3057,0723-4386-2689-0092,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,104.83,10.48,Dining,103,In-Store Terminal,1000,884.6899999999999
+c8e8b98b-ed5d-4cd2-92a3-a951c6ac921c,2022-07-23 13:58:30,3461,3630-9448-9331-4209,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,99.95,10.0,Electronics,102,Mobile,1000,890.05
+0523072f-d01a-4870-8c63-fa1cec604ede,2023-11-03 13:58:30,3235,8536-0443-6425-9566,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,188.06,18.81,Groceries,101,Mobile,1000,793.1300000000001
+5b717607-4160-47b1-a70f-ee646a3d8c9b,2023-06-01 13:58:30,3277,0867-6214-6602-7747,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,113.61,11.36,Entertainment,105,Mobile,1000,875.03
+37f22ac0-e6d4-4daf-bb6b-6f4102e00b3a,2022-07-11 13:58:30,9499,9605-7150-1116-3837,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,17.38,1.74,Entertainment,105,Desktop,1000,980.88
+1257cd44-2959-430f-9548-f7a245d557f1,2023-05-09 13:58:30,6146,5429-9141-5334-7749,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,495.3,49.53,Dining,103,Mobile,1000,455.16999999999996
+c3a0465c-f99f-4352-a11f-2791e9f3ae0b,2023-07-20 13:58:30,1636,7943-0216-4558-9393,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,283.14,28.31,Entertainment,105,Mobile,1000,688.5500000000001
+13535342-b26d-44dc-a8aa-fac310b04581,2023-11-30 13:58:30,9459,6347-4063-1468-9577,Credit Card,Cleared,AMC,Groceries purchase at AMC,480.48,48.05,Groceries,101,Mobile,1000,471.46999999999997
+884bace5-3859-47df-b8ff-0cd98ae1f85d,2022-08-31 13:58:30,3918,2798-2214-0582-5363,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,291.31,29.13,Entertainment,105,In-Store Terminal,1000,679.5600000000001
+a206d77e-c799-4943-844b-5871b590f47d,2022-06-22 13:58:30,2465,0364-3509-0689-7123,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,283.53,28.35,Entertainment,105,In-Store Terminal,1000,688.12
+4f20d9ff-8a0d-4e51-9fdd-8154c47cef54,2023-11-02 13:58:30,7015,6543-0918-2987-9416,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,202.11,20.21,Groceries,101,Mobile,1000,777.68
+a0bd89e3-484f-4542-a3dc-0758ee493ece,2022-05-05 13:58:30,3224,8319-0740-5702-9830,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,203.5,20.35,Electronics,102,Desktop,1000,776.15
+1bb9d575-0830-4866-bb1e-cefd896e2962,2022-05-19 13:58:30,2980,0079-4733-7254-7528,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,139.08,13.91,Entertainment,105,Desktop,1000,847.01
+177cdee5-ac75-4042-bcda-51f8c874d0e2,2023-01-05 13:58:30,1459,4848-2154-3217-8485,Credit Card,Cleared,City Water,Electronics purchase at City Water,47.35,4.74,Electronics,102,In-Store Terminal,1000,947.91
+de68e8d5-b898-47f8-b431-8ce98436f742,2023-02-05 13:58:30,8969,3998-0291-5943-8219,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,423.37,42.34,Groceries,101,Desktop,1000,534.29
+45c94ed6-657c-4344-9612-74b439d804fd,2023-10-03 13:58:30,8140,4122-8498-6523-4291,Credit Card,Cleared,City Water,Groceries purchase at City Water,416.41,41.64,Groceries,101,Desktop,1000,541.9499999999999
+e2c2ca61-6892-4747-bbbe-f0f9da1cb962,2023-04-29 13:58:30,9162,1138-8746-9187-0909,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,430.11,43.01,Groceries,101,In-Store Terminal,1000,526.88
+e9c7669f-3378-4bcd-901d-3f7560b88730,2023-09-04 13:58:30,4949,5219-8290-4847-3489,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,7.21,0.72,Dining,103,In-Store Terminal,1000,992.0699999999999
+fbc4a5f4-bb52-4e16-9af8-41eabac6fae8,2023-10-16 13:58:30,9109,2818-7877-8247-3947,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,181.04,18.1,Utilities,104,In-Store Terminal,1000,800.86
+fd8a6a72-2156-4b4d-8780-dc0029231e76,2023-04-29 13:58:30,4704,4638-4237-4138-7043,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,107.53,10.75,Electronics,102,Mobile,1000,881.72
+aa3c2155-b0e2-4024-8f00-21e7420ea88a,2022-12-03 13:58:30,3459,9890-3993-4455-9615,Credit Card,Cleared,AMC,Entertainment purchase at AMC,467.23,46.72,Entertainment,105,Desktop,1000,486.04999999999995
+bf68eaa2-c120-4b52-8671-98f43c013433,2023-01-16 13:58:30,3016,7752-5984-2545-8248,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,427.85,42.79,Electronics,102,Mobile,1000,529.36
+b4011ae0-dc08-4df6-8d06-48acd6d8d8ec,2023-06-04 13:58:30,6764,8832-0464-6242-9162,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,154.56,15.46,Electronics,102,In-Store Terminal,1000,829.98
+9b656f33-485f-4d31-b771-f07a2f39650e,2023-09-30 13:58:30,3845,7825-1904-4706-0851,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,61.58,6.16,Electronics,102,Desktop,1000,932.26
+72805b47-57b1-424f-b04c-015c1ac417d0,2023-09-01 13:58:30,7463,7934-4379-7774-3130,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,250.97,25.1,Groceries,101,Mobile,1000,723.93
+40258d11-bb24-4a92-93e2-97dd9502826f,2023-06-12 13:58:30,5126,2661-4530-3820-7353,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,132.71,13.27,Groceries,101,In-Store Terminal,1000,854.02
+f5043f71-e847-441c-8772-fc3de38f9f5a,2022-11-15 13:58:30,9084,8811-2990-8904-5298,Credit Card,Cleared,City Water,Groceries purchase at City Water,445.53,44.55,Groceries,101,Desktop,1000,509.92
+0b46a3b8-fda6-419a-b1d2-b9ac24c49890,2022-05-04 13:58:30,4382,1187-5814-3031-2669,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,115.77,11.58,Groceries,101,Desktop,1000,872.65
+603f467d-f813-4fce-bf2c-faba3abdb789,2022-06-20 13:58:30,5600,4436-2467-3731-0636,Credit Card,Cleared,AMC,Electronics purchase at AMC,160.27,16.03,Electronics,102,In-Store Terminal,1000,823.7
+6fab2358-0f9c-48db-bd3d-da2286befc00,2023-03-14 13:58:30,9145,1702-8291-2297-4700,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,232.16,23.22,Utilities,104,Mobile,1000,744.62
+b4d626bc-0a90-41ec-9873-66eab3a004a0,2022-07-29 13:58:30,7477,7086-1488-6725-5704,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,246.1,24.61,Utilities,104,In-Store Terminal,1000,729.29
+41237a5e-8526-4076-9203-2b5579ea23d8,2022-05-28 13:58:30,7909,9648-5344-4813-8033,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,110.16,11.02,Dining,103,Desktop,1000,878.82
+19517f8a-67e9-4faa-9f30-71fdc4a44a0c,2022-05-21 13:58:30,4932,4015-9701-3256-2754,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,132.13,13.21,Entertainment,105,In-Store Terminal,1000,854.66
+023bddf4-bd22-4b8e-9492-ed74509cb606,2023-05-03 13:58:30,7894,5569-3347-9258-5445,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,349.89,34.99,Dining,103,Mobile,1000,615.12
+58a673a5-f603-47be-a81e-e1dd199851fa,2022-02-18 13:58:30,3740,7034-2750-6840-5255,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,355.29,35.53,Groceries,101,Desktop,1000,609.1800000000001
+71dd0651-6668-4dc0-bf48-3b5e0de610d0,2023-05-17 13:58:30,2048,6416-8961-9470-7774,Credit Card,Cleared,Whole Foods,Utilities purchase at Whole Foods,36.29,3.63,Utilities,104,Desktop,1000,960.08
+b70e5e33-7966-44bb-9246-5c6e336e6998,2022-07-20 13:58:30,1486,8131-7416-9912-5716,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,57.54,5.75,Electronics,102,Mobile,1000,936.71
+c1d845fc-b3e6-456f-bcbe-9436083e7247,2023-09-16 13:58:30,1083,5489-4463-5354-1184,Credit Card,Cleared,AMC,Utilities purchase at AMC,16.45,1.65,Utilities,104,In-Store Terminal,1000,981.9
+1104bec5-4538-4e02-ad9c-43006b484b66,2023-02-12 13:58:30,9249,4330-0740-5183-5922,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,291.93,29.19,Entertainment,105,Mobile,1000,678.8799999999999
+c371d0a9-beb2-4b22-aca6-8f27666d8601,2023-08-16 13:58:30,5149,5178-8410-6106-7254,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,84.71,8.47,Dining,103,Mobile,1000,906.8199999999999
+308125eb-62ac-4353-b0a1-9a438d82025b,2022-08-16 13:58:30,5383,1261-8241-6208-5963,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,63.64,6.36,Groceries,101,In-Store Terminal,1000,930.0
+95dd5b58-07bd-441b-b893-0177eb621d92,2022-05-20 13:58:30,9086,2095-3340-9317-4402,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,51.15,5.12,Groceries,101,Desktop,1000,943.73
+b8cea584-f4f5-40dc-953b-ee22dfbfe5b1,2022-04-04 13:58:30,4106,6994-7995-6301-3932,Credit Card,Cleared,AMC,Groceries purchase at AMC,386.69,38.67,Groceries,101,Desktop,1000,574.64
+e5c98573-fdb1-416c-a49c-cebcc1d5b750,2023-02-16 13:58:30,8863,2695-9397-7432-6850,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,25.78,2.58,Dining,103,In-Store Terminal,1000,971.64
+83714eb9-fec5-437a-b4ae-635e57f7264d,2023-01-24 13:58:30,2227,2791-6999-2906-5948,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,38.01,3.8,Utilities,104,Mobile,1000,958.19
+6b4897b9-59d3-4030-85da-6019a7be9bcb,2022-09-07 13:58:30,5366,7807-4561-5411-1072,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,391.44,39.14,Entertainment,105,Mobile,1000,569.42
+a6f552f6-397b-4f0e-9fa1-078a1209986f,2022-09-25 13:58:30,9762,9402-6510-1106-8210,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,488.59,48.86,Groceries,101,Desktop,1000,462.55
+69cdfdcc-b83c-4fa6-b5aa-cb36752988ab,2022-09-19 13:58:30,6497,0657-9877-4791-0727,Credit Card,Cleared,AMC,Entertainment purchase at AMC,192.56,19.26,Entertainment,105,Desktop,565.04,353.21999999999997
+fa48d688-525c-4d1d-b809-606f01034ac9,2023-04-06 13:58:30,3846,9883-6549-5425-5489,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,63.84,6.38,Utilities,104,In-Store Terminal,1000,929.78
+bd11f93f-63ce-4345-80e3-07bb4b1b7f0b,2023-01-19 13:58:30,8890,2375-8267-7892-1636,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,171.02,17.1,Groceries,101,Mobile,1000,811.88
+bf62f3f8-c049-4ef8-a021-1fced3324936,2023-07-24 13:58:30,6273,7679-5240-4364-8585,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,76.53,7.65,Electronics,102,Mobile,465.5800000000001,381.4000000000001
+d02707ba-2c8d-4155-a1d0-a702907447e0,2023-01-25 13:58:30,3898,3210-3207-8809-0525,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,75.0,7.5,Groceries,101,Mobile,1000,917.5
+78c6f591-64ea-48a8-b065-9dff4424be97,2023-04-10 13:58:30,3923,5262-4146-2217-9646,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,11.02,1.1,Entertainment,105,Desktop,1000,987.88
+27f95929-bebb-41a2-ade3-03db18b21acd,2022-07-05 13:58:30,1415,3914-6205-6254-5016,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,136.95,13.7,Groceries,101,Mobile,1000,849.3499999999999
+d6d11ddd-beef-4820-acbd-8bce53ce33d8,2023-11-01 13:58:30,3961,7063-2291-4879-2934,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,165.62,16.56,Utilities,104,Mobile,1000,817.82
+8145a684-2aa1-4493-9e33-e5e100bddb62,2022-06-29 13:58:30,2395,5218-3220-9949-5877,Credit Card,Cleared,City Water,Groceries purchase at City Water,497.04,49.7,Groceries,101,Desktop,1000,453.26
+0ebdbdf1-fb1f-4c7e-baa8-da9fcd5ca837,2022-04-28 13:58:30,3407,1381-1881-9627-3732,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,50.77,5.08,Electronics,102,Desktop,1000,944.15
+2cf3cdd5-e719-4f3a-bc37-ad7a7e539c23,2022-05-11 13:58:30,3484,6396-2667-8041-0690,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,494.48,49.45,Entertainment,105,Mobile,1000,456.07
+378cee78-ac96-4efd-a7bc-f47f881b4c97,2022-10-02 13:58:30,8218,1250-8277-7937-6348,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,268.51,26.85,Groceries,101,Mobile,1000,704.64
+0eeccaa9-4a11-4fa6-950b-a97415333da0,2023-10-28 13:58:30,4927,2189-0928-5050-8106,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,149.33,14.93,Entertainment,105,Mobile,1000,835.74
+fed5f5a5-8ed6-40f3-8984-18f71efba72e,2022-11-20 13:58:30,8330,1178-7434-4920-6798,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,449.54,44.95,Electronics,102,Desktop,1000,505.51000000000005
+414936d2-6d0f-4fd1-8e6b-b18a7ca7fbf0,2023-06-04 13:58:30,9427,6557-2727-8995-4328,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,18.75,1.88,Dining,103,Desktop,1000,979.37
+0b2ad537-fd32-42bb-8d1e-f5eba08afc06,2023-10-17 13:58:30,6708,7009-3409-3763-6599,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,287.61,28.76,Electronics,102,Mobile,1000,683.63
+e1e5707c-b496-426d-9d8c-56c36b714d47,2022-08-03 13:58:30,2702,8467-1715-7123-2889,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,233.41,23.34,Electronics,102,Mobile,1000,743.25
+d36cfccc-b6f8-437c-a1b5-5f50ab619cd3,2023-05-10 13:58:30,7866,0755-0433-2470-8140,Credit Card,Cleared,Netflix,Dining purchase at Netflix,206.02,20.6,Dining,103,In-Store Terminal,1000,773.38
+d5c8bae7-f296-4180-aa47-90a53254edd5,2022-07-08 13:58:30,5558,1027-6650-3535-5471,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,335.5,33.55,Groceries,101,In-Store Terminal,1000,630.95
+fbc05a48-4051-4b1f-9311-bb2f2e43e67e,2023-11-30 13:58:30,1331,6548-2473-2710-7700,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,240.95,24.09,Entertainment,105,In-Store Terminal,1000,734.9599999999999
+eedddb8c-1b87-40b5-8f5c-3c36ff1d5f96,2022-08-30 13:58:30,1182,3628-2980-2879-1878,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,201.34,20.13,Entertainment,105,In-Store Terminal,1000,778.53
+f0e7f5b5-9a98-4d2a-9dd8-ae627489dfe6,2022-12-25 13:58:30,6929,1187-8623-5840-0255,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,436.77,43.68,Dining,103,In-Store Terminal,1000,519.5500000000001
+8672f65c-cb38-45bd-9cf0-f63c7f7f7e3a,2023-01-10 13:58:30,9692,9335-5920-0749-0015,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,101.75,10.18,Electronics,102,Mobile,1000,888.07
+93943cce-1a84-407c-9744-7b1ddbae1aad,2023-05-24 13:58:30,6583,5570-3257-9318-7507,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,440.87,44.09,Utilities,104,Mobile,683.1100000000001,198.15000000000012
+7c3a83bc-5cac-4632-8826-140298c46e5b,2023-10-02 13:58:30,8944,6271-2750-1812-5247,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,245.15,24.52,Utilities,104,In-Store Terminal,1000,730.33
+8224b6ed-78ec-4570-bb5d-40615a17dcf3,2023-04-24 13:58:30,4205,4182-9705-5689-2149,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,126.38,12.64,Groceries,101,Desktop,1000,860.98
+531c82aa-70b3-4f6e-bfcc-5ad1dfbd670b,2023-06-14 13:58:30,6805,4897-4674-8077-0915,Credit Card,Cleared,City Water,Utilities purchase at City Water,150.95,15.09,Utilities,104,In-Store Terminal,1000,833.9599999999999
+50b73fc7-5cb1-487c-8556-86db7b756f99,2023-01-28 13:58:30,1297,0499-8881-1489-9520,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,98.76,9.88,Electronics,102,In-Store Terminal,1000,891.36
+215ce537-25ec-489b-8fae-087c08c8ee5e,2022-01-07 13:58:30,2134,3905-5307-3007-5003,Credit Card,Cleared,AMC,Groceries purchase at AMC,184.04,18.4,Groceries,101,Desktop,1000,797.5600000000001
+8117f10c-7b18-441f-b6ea-e5bc9fe92e8d,2023-09-14 13:58:30,3433,4734-0038-1649-8832,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,44.02,4.4,Groceries,101,Desktop,1000,951.58
+d761ea66-bf3b-4e53-b686-45387b942027,2023-08-30 13:58:30,4469,0083-9902-3125-3078,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,114.17,11.42,Groceries,101,Desktop,1000,874.4100000000001
+f8963366-2ae0-454f-9a69-39a19caa2830,2022-07-15 13:58:30,2585,8275-1198-9701-1366,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,187.52,18.75,Entertainment,105,Desktop,1000,793.73
+bbfd4448-667d-4c82-aaa4-a97a46c7a92f,2023-04-24 13:58:30,8070,1087-7756-7012-1470,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,453.79,45.38,Dining,103,In-Store Terminal,1000,500.83000000000004
+f2de2ee3-6fb8-47fd-aa61-b19ba9756cc7,2022-11-05 13:58:30,1094,2503-7932-7776-8201,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,192.68,19.27,Dining,103,In-Store Terminal,1000,788.05
+f8f3006e-83ee-4cfc-a06e-b789a7553d05,2023-04-25 13:58:30,4137,4331-8514-4754-4537,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,166.68,16.67,Groceries,101,Mobile,1000,816.65
+7de19956-1b34-4bbc-9677-011de0760e45,2022-11-08 13:58:30,9353,5125-9243-9289-9468,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,68.96,6.9,Utilities,104,In-Store Terminal,1000,924.14
+33edd11d-7919-48ef-b9cb-97fbf1384fc1,2022-09-14 13:58:30,9670,1775-9950-3559-6492,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,70.38,7.04,Utilities,104,Mobile,1000,922.58
+afcd1336-c163-470a-8674-9c57987aacd5,2023-07-13 13:58:30,5957,3284-8759-0118-1486,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,336.56,33.66,Groceries,101,In-Store Terminal,1000,629.7800000000001
+e45b132d-b7bb-4ed0-bc17-845a4d701e06,2022-11-17 13:58:30,6379,8149-4466-8122-1699,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,118.2,11.82,Entertainment,105,Desktop,1000,869.9799999999999
+dd4de7b4-74da-4587-91a8-e4a45920b735,2022-06-17 13:58:30,9661,4616-7557-4271-1616,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,87.29,8.73,Utilities,104,Desktop,1000,903.98
+e1b7ffb2-6595-4dba-9a7d-9f04a79e27b9,2023-01-14 13:58:30,2839,7300-8352-4578-0599,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,30.83,3.08,Groceries,101,Mobile,1000,966.0899999999999
+89f4347b-3d42-4e16-8a10-c9c3334dda67,2022-12-26 13:58:30,9769,7461-3178-9720-0118,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,483.95,48.4,Electronics,102,In-Store Terminal,1000,467.65
+90834ced-5f97-4590-b152-a9af82af600c,2022-03-31 13:58:30,9430,7884-0603-6460-7160,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,341.43,34.14,Entertainment,105,Desktop,1000,624.43
+d05dbabc-7424-4b7a-b0cf-8f62a19fd370,2022-07-12 13:58:30,8991,5267-6124-3696-8377,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,485.55,48.56,Electronics,102,In-Store Terminal,918.1999999999999,384.0899999999999
+556b6be0-53b5-464d-b1e2-00255a2dfaa7,2023-06-11 13:58:30,8520,0029-0286-2836-1308,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,221.04,22.1,Groceries,101,Desktop,1000,756.86
+913aef86-0a29-48ff-b105-a2dd816dd5a2,2022-03-23 13:58:30,1854,5449-2611-9586-6294,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,421.58,42.16,Electronics,102,Desktop,1000,536.2600000000001
+c6f705f4-cbf9-4dc5-affc-283c3e198cfb,2022-02-04 13:58:30,9324,3212-2200-9304-6916,Credit Card,Cleared,AMC,Utilities purchase at AMC,54.86,5.49,Utilities,104,Mobile,1000,939.65
+102615f6-0227-436c-9dd1-fedf7efbdbb8,2022-07-16 13:58:30,6293,0246-9760-8666-4722,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,481.0,48.1,Entertainment,105,Mobile,1000,470.9
+ce5f406c-478a-4fba-b706-08738e872217,2023-07-14 13:58:30,1004,7972-8084-9611-0884,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,164.09,16.41,Utilities,104,In-Store Terminal,1000,819.5
+e0ea176b-a061-45e9-8658-e4d05f7db659,2023-12-01 13:58:30,9064,6618-6971-8242-5809,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,332.15,33.21,Groceries,101,In-Store Terminal,1000,634.64
+3ef48eb0-6d9b-4ec6-b9fb-043b83c775d1,2023-09-04 13:58:30,7773,6105-1258-9332-6284,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,450.95,45.09,Utilities,104,In-Store Terminal,1000,503.9599999999999
+4c1e95f8-1d20-410b-b67c-3f6e7e14a770,2023-04-11 13:58:30,6893,9155-0115-0104-0230,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,428.44,42.84,Entertainment,105,Mobile,1000,528.7199999999999
+21deccd5-9076-47ca-93d8-3b236f8c0213,2022-05-20 13:58:30,4280,8284-1600-0241-3164,Credit Card,Cleared,City Water,Dining purchase at City Water,402.75,40.28,Dining,103,Desktop,1000,556.97
+cab9fb0b-bfdf-42d7-9fe2-35914e8cdfe6,2022-07-28 13:58:30,3572,6496-2965-5427-0791,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,344.81,34.48,Electronics,102,Desktop,1000,620.71
+272cde6d-c4c7-4fbe-847e-887c7fc5456e,2022-02-05 13:58:30,2528,6915-4192-1703-3858,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,356.52,35.65,Groceries,101,Mobile,1000,607.83
+47402305-800f-4291-b9f1-d53fcd5abed5,2022-08-19 13:58:30,5845,7423-6629-8310-4271,Credit Card,Cleared,Walmart,Dining purchase at Walmart,193.3,19.33,Dining,103,Mobile,1000,787.37
+cab41212-dfdb-427a-b52d-495529581a91,2023-04-26 13:58:30,2459,7132-1969-7746-1612,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,494.36,49.44,Utilities,104,In-Store Terminal,1000,456.2
+ff2cb68e-aab7-4be9-b0e2-405b897387db,2022-01-15 13:58:30,6684,3384-8321-9613-4932,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,430.12,43.01,Electronics,102,Mobile,1000,526.87
+c31a0457-2514-4b02-bf54-8d87e1f61947,2023-04-29 13:58:30,3448,4984-3261-0562-2138,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,48.52,4.85,Entertainment,105,In-Store Terminal,1000,946.63
+a1b96878-ccce-41ac-a796-d1cca6c293ae,2022-09-04 13:58:30,9381,9643-5551-2356-5605,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,61.54,6.15,Utilities,104,Desktop,1000,932.3100000000001
+272c8b66-8a46-4836-a927-1e9a43ce5097,2022-05-06 13:58:30,6309,4397-2130-1406-5391,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,416.1,41.61,Entertainment,105,Desktop,1000,542.29
+c8663f79-c541-423d-a1a7-1f531e0031c9,2023-08-14 13:58:30,5744,0276-9932-4882-1886,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,393.08,39.31,Groceries,101,In-Store Terminal,1000,567.6100000000001
+ec83fe87-ad5d-48e6-a599-fb303eae9bd7,2022-05-23 13:58:30,5251,3948-1374-3502-4819,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,489.33,48.93,Entertainment,105,Mobile,1000,461.74
+992948f9-7cae-48b5-af26-9783ffe9dee3,2022-08-20 13:58:30,4414,5571-2133-6691-1926,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,295.4,29.54,Utilities,104,Mobile,1000,675.0600000000001
+37ef9425-94a0-4f8a-87f2-db76144e7173,2022-08-15 13:58:30,3722,3352-1707-2682-8918,Credit Card,Cleared,Netflix,Dining purchase at Netflix,92.66,9.27,Dining,103,In-Store Terminal,1000,898.07
+330b5d35-fe86-4293-8568-1e6c388a5fb4,2022-03-21 13:58:30,8709,0249-6809-0224-5613,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,471.26,47.13,Groceries,101,Mobile,1000,481.61
+2882a4f3-2678-4178-8496-7e4bf9e24853,2023-10-16 13:58:30,5934,4415-0477-9254-7576,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,47.47,4.75,Dining,103,Mobile,1000,947.78
+d2d5624f-50e5-4400-9924-5fe459b65a7b,2022-03-07 13:58:30,2186,7880-4846-4370-4619,Credit Card,Cleared,AMC,Dining purchase at AMC,190.88,19.09,Dining,103,Desktop,1000,790.03
+9e9ec22a-ad0c-4252-8925-30c6690b900a,2023-08-19 13:58:30,2793,6337-4578-4291-1760,Credit Card,Cleared,AMC,Electronics purchase at AMC,288.92,28.89,Electronics,102,Desktop,1000,682.1899999999999
+d36f8974-d803-4658-a299-ceb9ddf014fd,2023-10-24 13:58:30,6223,0010-4375-6919-1851,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,381.3,38.13,Entertainment,105,Mobile,1000,580.57
+547242a6-28bc-4b8b-8219-622fd6c1a43f,2022-02-14 13:58:30,9109,7743-8747-2461-3196,Credit Card,Cleared,AMC,Dining purchase at AMC,375.03,37.5,Dining,103,Desktop,800.86,388.33000000000004
+5a45cc17-786e-44f9-8e7d-d8f87f85cd66,2022-08-27 13:58:30,5287,6636-5869-7716-6972,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,263.58,26.36,Groceries,101,Mobile,1000,710.0600000000001
+215035c5-c8c4-4db8-8ed2-1fc1019a9604,2022-06-10 13:58:30,3568,3988-6179-6904-9461,Credit Card,Cleared,Chipotle,Utilities purchase at Chipotle,13.51,1.35,Utilities,104,Mobile,1000,985.14
+3500d77d-c3c1-4ccc-82b9-3c8fe56cb419,2023-03-20 13:58:30,8897,0219-2491-4840-5687,Credit Card,Cleared,AMC,Entertainment purchase at AMC,105.31,10.53,Entertainment,105,Mobile,1000,884.1600000000001
+edb614be-10a3-4cdb-9339-6c59606279bc,2023-05-11 13:58:30,7066,8372-7099-6727-0173,Credit Card,Cleared,City Water,Groceries purchase at City Water,391.92,39.19,Groceries,101,Desktop,1000,568.8899999999999
+619f0e6a-29d4-4049-9848-0ad05bcb6d8c,2023-03-21 13:58:30,9587,5991-0422-8445-8082,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,165.93,16.59,Dining,103,In-Store Terminal,1000,817.4799999999999
+c5da8cc6-7537-47da-87ce-491285075190,2023-08-05 13:58:30,2120,1569-3146-9037-7499,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,458.12,45.81,Groceries,101,In-Store Terminal,1000,496.07
+0a99acbd-ec8a-4c48-84d4-5dd0a73a5b40,2023-07-05 13:58:30,2713,6244-0268-5702-9906,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,305.33,30.53,Electronics,102,Mobile,1000,664.1400000000001
+5da7ca1a-a27a-4465-9218-598114508d37,2023-11-22 13:58:30,7669,1792-4872-7245-8828,Credit Card,Cleared,AMC,Entertainment purchase at AMC,420.31,42.03,Entertainment,105,In-Store Terminal,1000,537.6600000000001
+2cab17c6-f30d-4eb3-a61d-dbfe688176bf,2023-12-11 13:58:30,8227,7726-7093-5759-6124,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,67.01,6.7,Dining,103,In-Store Terminal,1000,926.29
+905c76d2-d8e8-474c-bad9-d1d47a31f63e,2022-10-10 13:58:30,3171,5971-8994-0769-9413,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,277.38,27.74,Electronics,102,In-Store Terminal,1000,694.88
+158671f2-4179-4669-b5d8-b8b6a64abc6c,2022-06-13 13:58:30,5061,2765-5761-8115-3198,Credit Card,Cleared,City Water,Utilities purchase at City Water,286.88,28.69,Utilities,104,Mobile,1000,684.43
+79125f24-e24e-43d9-af07-6a22bd277b58,2023-03-24 13:58:30,3230,8233-4213-1533-6130,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,222.79,22.28,Groceries,101,Mobile,1000,754.9300000000001
+8b20c422-3b7b-4132-8cc7-0845fb6a88bd,2022-11-08 13:58:30,4971,9392-5947-3749-0954,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,447.54,44.75,Entertainment,105,In-Store Terminal,1000,507.71000000000004
+7105403c-06b3-494e-80dd-07998ff04907,2022-04-23 13:58:30,4174,9341-7774-1742-7170,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,171.17,17.12,Electronics,102,In-Store Terminal,1000,811.71
+176d64c9-932e-4def-b948-ac8a5c45916e,2021-12-29 13:58:30,4560,4418-5427-7591-6432,Credit Card,Cleared,City Water,Entertainment purchase at City Water,100.79,10.08,Entertainment,105,In-Store Terminal,1000,889.13
+1dde1000-ad24-4d43-a60c-b1677a4cbc0b,2022-10-27 13:58:30,7749,6744-8502-9175-2174,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,119.47,11.95,Utilities,104,Desktop,1000,868.5799999999999
+e1c07465-158c-466c-9731-8e3331c4db5a,2023-04-13 13:58:30,6428,3022-7062-3494-9661,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,278.63,27.86,Groceries,101,Desktop,1000,693.51
+ce0856bd-3ace-41b2-8599-73c1b4726389,2022-01-24 13:58:30,2228,9449-9933-8433-8662,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,353.83,35.38,Groceries,101,In-Store Terminal,1000,610.7900000000001
+72d0d0df-dc20-45a5-9628-9955b3afe9db,2022-02-08 13:58:30,4527,0168-3098-0481-6039,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,92.66,9.27,Electronics,102,Desktop,1000,898.07
+c39062d2-c66c-4a5b-8c4c-5a1296f03818,2023-08-22 13:58:30,2199,4496-6989-5998-9631,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,375.84,37.58,Groceries,101,In-Store Terminal,1000,586.58
+bb0fa24c-8872-409d-8f20-6894e7f6433e,2023-05-16 13:58:30,6111,0463-8663-2035-7037,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,315.74,31.57,Electronics,102,In-Store Terminal,1000,652.6899999999999
+7492c64d-5285-46df-954a-4b80842608cc,2023-09-14 13:58:30,2767,8621-6935-7826-0273,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,183.38,18.34,Electronics,102,Mobile,1000,798.28
+41334692-81ec-4ee0-b434-68972e746b4e,2023-06-26 13:58:30,3242,5414-0462-3271-3163,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,64.22,6.42,Utilities,104,In-Store Terminal,1000,929.36
+2be4ab23-5dc7-4cde-a5a9-37099a3d2637,2023-11-25 13:58:30,3275,8542-7428-2950-4053,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,81.15,8.12,Dining,103,In-Store Terminal,1000,910.73
+370330a6-cc6d-4d4b-8f9b-c6d30baf7fec,2022-09-05 13:58:30,6218,3478-5591-6623-2579,Credit Card,Cleared,AMC,Electronics purchase at AMC,281.44,28.14,Electronics,102,Desktop,1000,690.42
+bce8f9b0-c026-4637-a2b2-53d5e9ce2947,2022-09-29 13:58:30,6254,3020-8918-0528-5082,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,338.97,33.9,Groceries,101,In-Store Terminal,1000,627.13
+2b856f3a-7a94-4446-94e3-3f991230377b,2022-12-11 13:58:30,4235,7352-3316-1530-8917,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,23.63,2.36,Electronics,102,In-Store Terminal,1000,974.01
+c719ee62-e476-4f13-89ab-1fdb23fdc14c,2022-03-04 13:58:30,8360,9176-2566-5694-0226,Credit Card,Cleared,AMC,Utilities purchase at AMC,290.47,29.05,Utilities,104,In-Store Terminal,1000,680.48
+386a9f44-8c01-4105-97b4-da6b06671f92,2023-10-06 13:58:30,5098,1559-4057-0657-0960,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,284.83,28.48,Groceries,101,Desktop,1000,686.69
+e94345b1-0610-4807-b468-72d2530396f6,2022-01-01 13:58:30,7194,1524-2994-2030-6170,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,307.9,30.79,Utilities,104,In-Store Terminal,1000,661.3100000000001
+734274d1-30fd-4f00-be40-d242b98b3e5c,2023-03-08 13:58:30,9084,5053-2399-0891-6995,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,216.44,21.64,Entertainment,105,In-Store Terminal,509.92,271.84000000000003
+c03e50bc-193b-467a-b580-18aef4eaadff,2023-05-22 13:58:30,7608,3727-0024-3395-4510,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,133.74,13.37,Entertainment,105,Desktop,1000,852.89
+ee4eba80-505a-4d49-a1bf-c68c180d3a7e,2022-11-23 13:58:30,4918,3618-0052-1985-1387,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,316.44,31.64,Groceries,101,Mobile,1000,651.92
+6496fd46-086c-4384-842f-2a9adee03353,2023-10-28 13:58:30,5007,5844-5189-6238-2575,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,406.76,40.68,Dining,103,Desktop,1000,552.5600000000001
+78b30a05-10aa-47b0-9534-62391d1e1bc4,2023-12-02 13:58:30,8665,5247-9116-0318-1020,Credit Card,Cleared,Netflix,Dining purchase at Netflix,418.36,41.84,Dining,103,Mobile,1000,539.8
+a37bf279-b323-4874-87d4-9b5ac64fc37f,2022-04-28 13:58:30,4776,6403-2009-4523-2827,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,184.46,18.45,Utilities,104,Desktop,1000,797.0899999999999
+4b236130-fc86-45cc-bcfd-acb3278b9141,2023-03-23 13:58:30,5931,7365-2374-5786-3413,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,120.42,12.04,Utilities,104,Mobile,1000,867.5400000000001
+8e8d6598-8c89-4fa7-829f-013f4a8fed09,2022-09-07 13:58:30,7334,1580-0319-7118-4829,Credit Card,Cleared,Spotify,Dining purchase at Spotify,403.39,40.34,Dining,103,Desktop,1000,556.27
+fa48a172-64fd-4676-8e55-6b3a4b895134,2023-05-10 13:58:30,9332,9531-5772-7580-6482,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,446.84,44.68,Entertainment,105,Mobile,1000,508.4800000000001
+87f99363-8eac-4ce9-9ee5-40bcb89403a2,2022-12-24 13:58:30,7651,8098-3127-3681-8475,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,242.74,24.27,Electronics,102,Mobile,1000,732.99
+4f02eb7c-5634-473c-ad97-5ed4c1537359,2022-11-16 13:58:30,8409,7291-4857-2864-2164,Credit Card,Cleared,City Water,Electronics purchase at City Water,69.57,6.96,Electronics,102,In-Store Terminal,1000,923.47
+00f0f57f-5016-40ce-8c79-dc0f7c92822f,2022-06-26 13:58:30,8852,3544-8920-3001-0180,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,205.44,20.54,Entertainment,105,In-Store Terminal,1000,774.02
+9f964711-e3c1-4e40-ad17-d62660d5ca6d,2023-11-20 13:58:30,7894,7701-9544-2914-4988,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,376.46,37.65,Electronics,102,In-Store Terminal,615.12,201.01000000000002
+280aafc7-373b-4bdb-8066-2bda46b039eb,2023-05-16 13:58:30,3415,8214-1142-7201-6157,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,452.31,45.23,Utilities,104,Mobile,1000,502.46000000000004
+482ab54b-920f-4df2-8e35-47a1302ba25b,2023-07-27 13:58:30,3259,1597-6378-6839-7764,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,309.16,30.92,Utilities,104,Desktop,1000,659.92
+7ad7cd5c-ea5a-43d9-88b0-ac8f61c9bb07,2023-07-24 13:58:30,3786,3084-1864-0615-3198,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,183.05,18.31,Entertainment,105,In-Store Terminal,1000,798.6400000000001
+a534751f-dbca-4559-89ac-b6c6fd5be2c6,2023-09-25 13:58:30,8574,1446-0952-6532-4291,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,463.79,46.38,Entertainment,105,Desktop,1000,489.83000000000004
+3f9405aa-c89d-4c5d-96d5-8322edc1dab6,2022-08-21 13:58:30,3018,3693-1034-2164-6341,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,205.0,20.5,Dining,103,In-Store Terminal,1000,774.5
+33a5636b-37f2-4a87-94cd-8d8ae013dceb,2023-05-30 13:58:30,2203,3597-0037-9139-3032,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,444.69,44.47,Electronics,102,In-Store Terminal,1000,510.8399999999999
+636a4dab-076d-498c-9568-94ef03478c9d,2023-11-30 13:58:30,1227,1210-6404-5993-1405,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,122.48,12.25,Groceries,101,Mobile,1000,865.27
+125b6cf4-353e-4f2e-b578-f8c1183dfec4,2023-03-20 13:58:30,8171,5264-2996-4767-6709,Credit Card,Cleared,AMC,Groceries purchase at AMC,352.93,35.29,Groceries,101,Desktop,1000,611.78
+9e2040c8-c058-40f0-86a5-0aa9059315a0,2022-08-30 13:58:30,8825,5910-6490-0016-2832,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,279.24,27.92,Electronics,102,Mobile,1000,692.84
+d70db843-1776-4f73-9582-3bafead6eb60,2022-11-14 13:58:30,7250,0889-8421-8318-2586,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,15.07,1.51,Entertainment,105,Mobile,1000,983.42
+cf1b5246-8e9a-4443-b032-f96ccf98cda1,2023-07-20 13:58:30,6453,0863-7943-5306-9767,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,345.15,34.52,Electronics,102,In-Store Terminal,1000,620.33
+e72c31e6-9756-46c1-95d0-8755af189e9c,2023-10-22 13:58:30,2473,3214-2434-8912-5244,Credit Card,Cleared,AMC,Dining purchase at AMC,441.48,44.15,Dining,103,Desktop,1000,514.37
+fabeeba8-2c11-4b20-8d82-746184f3bd22,2023-09-21 13:58:30,3047,1102-1728-1519-5872,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,282.92,28.29,Groceries,101,In-Store Terminal,1000,688.79
+b03dce61-b0da-4500-a6f6-efc6062a21f3,2023-04-10 13:58:30,3135,3599-9262-0951-5267,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,129.55,12.96,Entertainment,105,In-Store Terminal,1000,857.49
+97689cf3-be03-42a0-9c28-6699f4ec663f,2023-02-11 13:58:30,4908,2863-9324-4516-8951,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,218.07,21.81,Electronics,102,In-Store Terminal,1000,760.1200000000001
+385be354-bd1a-41b8-94ca-a5c707b47046,2023-07-11 13:58:30,4572,7769-6046-2934-6265,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,496.59,49.66,Entertainment,105,Mobile,1000,453.75
+dd3f7cac-a26d-44ac-9eda-93f25da06423,2022-08-04 13:58:30,7256,4948-2344-2150-9795,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,128.81,12.88,Utilities,104,Mobile,1000,858.3100000000001
+94991071-6475-4fef-b1b6-695e011ac7f0,2022-07-21 13:58:30,9468,9704-7518-8726-5585,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,81.41,8.14,Groceries,101,In-Store Terminal,1000,910.45
+205f17f9-e8db-48df-ad77-d09ee21de69e,2023-12-23 13:58:30,1666,4013-3106-2643-7812,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,209.26,20.93,Groceries,101,Desktop,1000,769.8100000000001
+ac482d0f-6292-4142-b50b-b35937f3bc48,2022-12-17 13:58:30,9669,4454-2229-0798-3248,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,217.82,21.78,Dining,103,In-Store Terminal,1000,760.4000000000001
+5fe43d27-4880-4483-84aa-15836bdd4fc9,2023-08-25 13:58:30,3467,8257-5949-3568-0608,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,63.78,6.38,Electronics,102,Desktop,1000,929.84
+5b270461-d69a-4707-989f-2409876fc6d8,2022-06-02 13:58:30,2655,4853-6624-3455-0982,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,117.63,11.76,Groceries,101,In-Store Terminal,1000,870.61
+9c590078-fe58-423a-9acf-133941614fbe,2023-07-08 13:58:30,7420,1785-2335-3973-3709,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,272.34,27.23,Electronics,102,Desktop,1000,700.4300000000001
+ba949712-229c-4447-98c3-c5cb88f9862f,2022-01-23 13:58:30,1071,0848-6536-0811-5426,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,371.77,37.18,Electronics,102,In-Store Terminal,1000,591.0500000000001
+6b5f4a47-3f6a-47d5-a83f-b59a4be2d2a1,2023-09-05 13:58:30,2246,4994-1039-0754-6460,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,425.37,42.54,Electronics,102,Mobile,1000,532.09
+c4c2625d-3833-42aa-b8d7-4d05300e07e5,2022-05-20 13:58:30,5906,6892-0929-6852-5000,Credit Card,Cleared,Walmart,Dining purchase at Walmart,32.22,3.22,Dining,103,Desktop,1000,964.56
+3c43e94f-88bb-4b06-913d-5ccb5639f9b6,2023-11-11 13:58:30,5465,2837-3814-4025-7102,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,66.34,6.63,Electronics,102,Desktop,1000,927.03
+ab77f5f4-5573-4b47-9d38-aa4f709cefa4,2023-05-26 13:58:30,6579,0473-7347-3386-4138,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,9.21,0.92,Utilities,104,Mobile,1000,989.87
+5fd28191-6545-4a7c-b350-fddbef03a471,2022-07-09 13:58:30,7104,3098-5487-1851-4573,Credit Card,Cleared,City Water,Dining purchase at City Water,454.16,45.42,Dining,103,Desktop,1000,500.4199999999999
+41b3b0a4-c9be-4c3c-bf0b-1e14fb3be17e,2023-12-22 13:58:30,9718,3708-7456-8755-3757,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,443.37,44.34,Utilities,104,In-Store Terminal,1000,512.29
+a5822788-03e5-4214-bebb-14a6f6ccf2b9,2023-01-25 13:58:30,4623,7558-4089-6078-1513,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,215.68,21.57,Electronics,102,Desktop,585.22,347.97
+8b1633ae-5203-48b5-aaff-88f03b8e6e74,2022-10-17 13:58:30,3913,4294-2606-1138-3227,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,287.71,28.77,Groceries,101,In-Store Terminal,840.91,524.4300000000001
+8e911f26-0cce-44b5-ba51-f3a755109876,2023-05-12 13:58:30,4264,2821-5846-3145-2371,Credit Card,Cleared,City Water,Dining purchase at City Water,36.7,3.67,Dining,103,In-Store Terminal,1000,959.63
+357a3f3d-0dde-4310-8732-d8e9a955b3aa,2022-11-15 13:58:30,5603,2207-4813-1569-9554,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,110.47,11.05,Dining,103,In-Store Terminal,496.32,374.8
+475351c5-f228-40e4-bf14-f0171fc550cc,2022-08-22 13:58:30,5611,2254-1371-7474-3381,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,223.8,22.38,Electronics,102,In-Store Terminal,1000,753.82
+119998b7-8ac4-4c68-9b7d-cb562c9a4a87,2022-09-15 13:58:30,9875,3030-8399-5978-1679,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,72.72,7.27,Entertainment,105,Mobile,1000,920.01
+6fbe6185-6b0a-46e2-86e3-4d580462f3c3,2023-11-19 13:58:30,7831,3573-9815-3857-9160,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,293.51,29.35,Electronics,102,In-Store Terminal,1000,677.14
+e4c25b63-7762-4470-ad11-5701a51fc163,2022-09-09 13:58:30,6126,1397-3126-0206-7434,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,25.93,2.59,Electronics,102,In-Store Terminal,1000,971.48
+3e242941-9c81-4c5b-8f95-ca87c1c3e634,2022-03-12 13:58:30,3244,4882-0409-3090-5235,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,331.13,33.11,Utilities,104,In-Store Terminal,1000,635.76
+dfdbbec9-8a61-494d-8b06-47e7c64644bc,2023-01-22 13:58:30,5320,5543-3288-9741-6846,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,48.83,4.88,Electronics,102,Desktop,1000,946.29
+1d4a8e5d-0456-4ea3-9372-8c929d929a80,2023-07-13 13:58:30,9969,1477-8011-1304-2879,Credit Card,Cleared,AMC,Entertainment purchase at AMC,293.7,29.37,Entertainment,105,Desktop,1000,676.93
+93c779cd-07ea-40f7-b4c7-771d1f3d711c,2023-07-08 13:58:30,7144,8420-7408-5910-4329,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,483.76,48.38,Entertainment,105,Mobile,1000,467.86
+29444b32-302e-4319-b0c5-213de38b40f9,2022-08-19 13:58:30,4591,2618-4318-8853-8772,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,139.59,13.96,Electronics,102,Desktop,807.87,654.3199999999999
+d23b4894-609f-47d1-86e8-23bd8c04e4ff,2022-06-06 13:58:30,6538,1711-5836-9634-2920,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,202.84,20.28,Electronics,102,In-Store Terminal,1000,776.88
+49304eac-4243-4247-8792-ba0b4cc4ca80,2023-06-24 13:58:30,7286,9462-1109-6332-0907,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,242.84,24.28,Groceries,101,Desktop,1000,732.88
+8642c489-1f00-4d3b-8749-1f1a29f59bff,2023-11-23 13:58:30,1559,6797-0158-8233-9411,Credit Card,Cleared,City Water,Utilities purchase at City Water,479.46,47.95,Utilities,104,In-Store Terminal,1000,472.59
+16a15af4-f6db-483d-b3c0-960291068d9a,2022-06-10 13:58:30,7548,6959-6770-3993-7529,Credit Card,Cleared,AMC,Dining purchase at AMC,266.35,26.64,Dining,103,In-Store Terminal,1000,707.01
+c945575d-69f6-47fb-a46b-a46ceb5fcc5d,2022-07-13 13:58:30,9723,1901-7092-2944-9448,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,427.71,42.77,Dining,103,Mobile,1000,529.52
+0ea092dc-8ffc-4e33-af67-5e4d03e70655,2022-03-22 13:58:30,6326,2981-3174-0621-0268,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,144.52,14.45,Groceries,101,Mobile,1000,841.03
+deb182f6-f86b-40cc-a00c-e3e90d67e65f,2023-01-04 13:58:30,9269,0751-8484-9693-3063,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,243.31,24.33,Dining,103,In-Store Terminal,1000,732.36
+81dda77c-a02c-4700-897a-a19e4cab8b6d,2022-01-14 13:58:30,2019,6615-6030-1114-6096,Credit Card,Cleared,City Water,Entertainment purchase at City Water,181.46,18.15,Entertainment,105,Mobile,1000,800.39
+dd15899d-e617-4700-8562-249c79bce1be,2022-11-26 13:58:30,8735,2934-9966-2298-8146,Credit Card,Cleared,AMC,Dining purchase at AMC,201.89,20.19,Dining,103,Desktop,1000,777.92
+845c1d8d-122e-4df5-b547-50acf6eb93f1,2023-05-24 13:58:30,7008,9616-8492-0983-9792,Credit Card,Cleared,City Water,Dining purchase at City Water,370.63,37.06,Dining,103,Desktop,1000,592.31
+37da19b5-c9dc-45a3-bcb2-b700c3b71490,2023-01-30 13:58:30,2042,2933-3232-7339-2148,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,262.7,26.27,Dining,103,Desktop,1000,711.03
+0acf50d7-89e4-4b40-b25c-1a439f3d79af,2022-11-28 13:58:30,7702,1739-0688-5492-0700,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,230.14,23.01,Electronics,102,In-Store Terminal,1000,746.85
+841ec748-1479-433a-87ad-fe081cf32b7e,2023-08-04 13:58:30,4541,1514-9119-9931-7779,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,336.68,33.67,Dining,103,Mobile,1000,629.65
+ec1e8e6f-7a1a-45f0-8f97-8317f5f61da5,2022-07-02 13:58:30,2755,2982-8643-8529-9240,Credit Card,Cleared,City Water,Groceries purchase at City Water,227.35,22.73,Groceries,101,In-Store Terminal,1000,749.92
+e0bdbf52-6eba-458d-a792-d43f6cc33fe3,2023-10-07 13:58:30,8876,5521-5292-4291-4761,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,31.97,3.2,Utilities,104,Mobile,1000,964.8299999999999
+971b64fa-d3a1-40f6-bd86-950238040da6,2022-06-27 13:58:30,4334,2287-9883-4577-3206,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,168.34,16.83,Electronics,102,Desktop,1000,814.8299999999999
+5409e44f-59e7-4245-9508-093444bcf778,2022-12-17 13:58:30,9096,8035-5043-2398-9148,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,209.52,20.95,Electronics,102,Desktop,1000,769.53
+4817d9f4-b1fa-49cb-9952-f34198ed31f7,2023-09-19 13:58:30,8360,9961-6759-6250-7220,Credit Card,Cleared,City Water,Electronics purchase at City Water,410.61,41.06,Electronics,102,Mobile,680.48,228.81
+0ca9964b-5b2f-429c-b5b3-50d85f5e42d0,2023-01-12 13:58:30,7190,6250-6920-6357-9633,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,417.02,41.7,Dining,103,In-Store Terminal,1000,541.28
+47a6c4dd-78e2-42c8-949d-f9517a2cd477,2023-10-14 13:58:30,2380,5412-4149-2315-8158,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,130.91,13.09,Utilities,104,Desktop,1000,856.0
+cf0f0cee-d6ce-4691-b6fb-a66047757c4f,2022-06-06 13:58:30,2362,8137-8012-1557-8361,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,391.45,39.15,Utilities,104,In-Store Terminal,1000,569.4
+2e0ad96d-b1a8-474e-b810-cbd2e55cf4eb,2022-09-28 13:58:30,6555,6157-9964-8384-9947,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,79.08,7.91,Dining,103,Desktop,1000,913.01
+f40cb8d3-1ee4-46aa-a025-2cfc9da1613e,2022-09-28 13:58:30,5407,5788-8992-5026-2689,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,228.86,22.89,Groceries,101,Desktop,1000,748.25
+399b8ccb-3f1a-4d84-b302-2fa9ec921ad4,2022-07-09 13:58:30,2900,3796-2913-2039-9832,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,361.18,36.12,Entertainment,105,In-Store Terminal,1000,602.6999999999999
+2e01f563-3fd9-4116-be3e-52e22fbe359a,2023-05-11 13:58:30,7234,5426-2453-8914-2567,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,41.25,4.12,Electronics,102,Mobile,1000,954.63
+15765d0b-a89e-4db2-80e2-d9d19db42e69,2023-07-11 13:58:30,3435,3389-5818-9040-2050,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,162.83,16.28,Utilities,104,Desktop,1000,820.89
+03d77543-d6da-4f4d-a354-2e9530c96987,2022-12-03 13:58:30,2550,2805-8789-1043-5834,Credit Card,Cleared,Spotify,Dining purchase at Spotify,450.34,45.03,Dining,103,Mobile,1000,504.6300000000001
+8e54ef3f-5033-47f8-bec6-a72a936db44e,2022-12-08 13:58:30,4533,9693-9260-7929-7184,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,56.37,5.64,Entertainment,105,In-Store Terminal,1000,937.99
+c31b79fb-426f-489f-a308-12e67ee96fef,2023-08-03 13:58:30,2119,7890-5065-0218-1697,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,481.37,48.14,Utilities,104,In-Store Terminal,1000,470.49
+759b0cb8-ee52-4987-aec8-a19354e449b1,2023-08-24 13:58:30,7527,6394-7028-5235-8230,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,345.55,34.55,Electronics,102,In-Store Terminal,1000,619.9000000000001
+0bf6600a-869d-4954-84bd-a592ab932179,2022-12-24 13:58:30,6863,7618-6480-0888-8824,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,428.04,42.8,Groceries,101,Mobile,1000,529.1600000000001
+7d1ffd5b-25b4-4da9-85dc-89c89b15e69c,2022-11-28 13:58:30,5256,6704-6708-6192-5989,Credit Card,Cleared,AMC,Utilities purchase at AMC,141.3,14.13,Utilities,104,Desktop,1000,844.57
+dc81825e-0ad3-4696-9857-f16dd8b01dc4,2023-02-25 13:58:30,2379,7406-7594-1566-1993,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,113.67,11.37,Entertainment,105,Desktop,1000,874.96
+39742dd6-8a48-420b-94ce-37222dbe7b35,2022-01-30 13:58:30,3207,8691-6080-7859-9021,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,296.9,29.69,Electronics,102,Desktop,1000,673.41
+f8a10883-0dc3-490b-a251-0c965cad8ff5,2022-04-19 13:58:30,6950,8167-5868-0641-9688,Credit Card,Cleared,City Water,Electronics purchase at City Water,377.98,37.8,Electronics,102,In-Store Terminal,1000,584.22
+cd915c88-3be1-4409-afc4-ad172c9b1d15,2023-03-29 13:58:30,9726,1136-7367-2398-2810,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,490.13,49.01,Utilities,104,In-Store Terminal,1000,460.86
+21c02387-5557-44db-ab7c-0501c62eb1a4,2022-02-04 13:58:30,1136,0657-6630-0303-1136,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,485.94,48.59,Dining,103,Mobile,1000,465.4699999999999
+519f41ad-93ab-471d-a547-85dd9ca97997,2023-11-21 13:58:30,6007,6743-6147-9024-1998,Credit Card,Cleared,AMC,Electronics purchase at AMC,159.4,15.94,Electronics,102,Desktop,1000,824.66
+424cc18f-1822-462c-acf7-bf8506fe03fc,2023-02-26 13:58:30,5027,5486-7868-9795-7306,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,200.31,20.03,Entertainment,105,Desktop,1000,779.6600000000001
+214327fe-e858-4164-b2c3-c4f7aec6392c,2023-03-10 13:58:30,3595,0405-6810-0119-5004,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,258.49,25.85,Groceries,101,Mobile,1000,715.66
+aa1784d7-9eef-4f52-b6cf-307739300230,2022-02-12 13:58:30,9112,9328-2791-8674-7588,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,322.48,32.25,Dining,103,Desktop,1000,645.27
+4de528e4-869c-4e5f-b6f3-2f0543066b7a,2022-11-03 13:58:30,4105,5988-0051-3253-3092,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,301.97,30.2,Utilities,104,In-Store Terminal,1000,667.8299999999999
+a0f11fb4-1ad2-403e-9103-8a268d620f22,2023-02-26 13:58:30,5525,8844-7278-6557-5345,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,332.96,33.3,Entertainment,105,Mobile,1000,633.74
+607c2217-5f06-4c58-86a9-e5688d1a711f,2022-01-05 13:58:30,9923,8542-9055-7014-5038,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,333.94,33.39,Groceries,101,In-Store Terminal,1000,632.67
+b74cbe08-0c5e-4bc0-9e08-d4a063efe575,2022-05-20 13:58:30,9757,0719-0383-8153-0584,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,252.84,25.28,Groceries,101,In-Store Terminal,1000,721.88
+a17cc691-c318-4b85-a5e0-b1b7fc809875,2022-12-05 13:58:30,7646,9044-0552-1879-4175,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,368.73,36.87,Groceries,101,In-Store Terminal,1000,594.4
+5d70fc10-c62c-45d6-a3c4-5588a05df984,2023-09-20 13:58:30,5724,4461-8385-3898-3382,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,371.63,37.16,Dining,103,In-Store Terminal,1000,591.21
+ca00a41f-3da8-4827-924f-88d614b806e3,2023-01-31 13:58:30,8313,4833-7010-7821-4865,Credit Card,Cleared,City Water,Entertainment purchase at City Water,477.7,47.77,Entertainment,105,Mobile,1000,474.53
+1d192ba7-b620-458e-8b8d-6811b2be5290,2023-01-12 13:58:30,2388,4400-9672-8793-9947,Credit Card,Cleared,AMC,Utilities purchase at AMC,308.05,30.81,Utilities,104,Desktop,1000,661.1400000000001
+19c5eeb4-4dda-48a1-b299-64f892faebe0,2023-12-16 13:58:30,8951,9052-1170-8039-9400,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,367.21,36.72,Electronics,102,In-Store Terminal,1000,596.0699999999999
+6046e7e7-d248-4e12-b41b-7fc0f7a9c6ad,2023-03-05 13:58:30,4468,2831-4875-6300-6768,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,191.67,19.17,Dining,103,Desktop,1000,789.1600000000001
+7e0c997e-7037-458d-a6b0-9626b090ebe1,2022-05-18 13:58:30,9654,7092-6510-6192-5676,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,204.3,20.43,Groceries,101,Desktop,1000,775.2700000000001
+e7a6adfb-cb39-4c7f-b3fc-d8e8796aa2e9,2023-04-24 13:58:30,5674,5999-9351-1246-5667,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,311.55,31.16,Entertainment,105,Mobile,1000,657.2900000000001
+6f7ab534-6cd0-494b-a154-863a359b81dc,2023-09-21 13:58:30,2309,5513-1727-6864-6764,Credit Card,Cleared,AMC,Entertainment purchase at AMC,136.14,13.61,Entertainment,105,In-Store Terminal,1000,850.25
+03cd675c-0450-4976-8eb3-1ff386633107,2023-08-08 13:58:30,6991,7477-0947-1494-5644,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,347.41,34.74,Entertainment,105,In-Store Terminal,1000,617.8499999999999
+541515bc-76f3-4e98-9e88-58b2025c9902,2023-08-18 13:58:30,6970,7184-0655-2114-5464,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,314.24,31.42,Utilities,104,In-Store Terminal,1000,654.34
+3994b272-ec50-4f82-ac6b-1e4812d6deef,2021-12-29 13:58:30,8806,9425-7256-1184-7069,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,303.63,30.36,Entertainment,105,Desktop,1000,666.01
+349732ef-e9ba-4725-9f2b-6361b28b55ac,2022-09-23 13:58:30,9150,2562-1631-7041-5043,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,91.75,9.18,Entertainment,105,Mobile,1000,899.07
+b0ca8a85-0532-4a80-8185-df0df1238b0c,2023-08-12 13:58:30,1184,5726-3626-8140-0847,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,434.74,43.47,Entertainment,105,Mobile,1000,521.79
+5b792911-75dd-4046-b1b0-74d84e3a2967,2023-11-21 13:58:30,5565,2633-0205-6865-6449,Credit Card,Cleared,Newegg,Dining purchase at Newegg,129.54,12.95,Dining,103,Desktop,1000,857.51
+8c7250dd-a942-4535-8281-a2d19e883153,2022-07-10 13:58:30,5596,9443-1966-1204-9943,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,194.94,19.49,Electronics,102,Mobile,1000,785.5699999999999
+d5cee29a-073e-4002-89f0-17c4cd8c61c0,2023-12-17 13:58:30,3530,9660-6384-3519-0481,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,418.8,41.88,Entertainment,105,In-Store Terminal,1000,539.32
+885f375b-2f68-4d06-ab50-3e103a0c9b17,2022-03-18 13:58:30,1430,2059-8056-5642-7805,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,377.33,37.73,Groceries,101,In-Store Terminal,1000,584.94
+fc255244-2a40-448f-8908-0fc9ade67c1f,2022-10-14 13:58:30,2930,0010-4450-0073-0610,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,386.36,38.64,Electronics,102,Desktop,1000,575.0
+8f32279b-d10c-4925-b2c5-ea28ed972741,2023-04-14 13:58:30,2526,5744-4773-8277-9492,Credit Card,Cleared,Starbucks,Utilities purchase at Starbucks,64.65,6.47,Utilities,104,In-Store Terminal,1000,928.88
+70a8a24e-efde-41d1-8dae-fd13e363c553,2022-05-27 13:58:30,7606,2894-3911-0107-0620,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,408.52,40.85,Groceries,101,In-Store Terminal,1000,550.63
+0135723d-9224-4d57-bd14-a121435c0fc1,2022-02-17 13:58:30,3352,5531-5528-1128-6752,Credit Card,Cleared,City Water,Entertainment purchase at City Water,121.55,12.16,Entertainment,105,Desktop,1000,866.2900000000001
+cf2daf41-0091-41e1-9d65-6680ac134aaa,2023-10-09 13:58:30,1552,2313-7740-3835-5498,Credit Card,Cleared,City Water,Entertainment purchase at City Water,6.67,0.67,Entertainment,105,Mobile,1000,992.6600000000001
+ab0fee9d-dd70-4012-bb97-6b0c33a06b0e,2023-12-15 13:58:30,3836,5562-5112-8056-6177,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,264.63,26.46,Utilities,104,In-Store Terminal,1000,708.91
+cf80928d-cedc-4def-af22-ceb5017547d9,2022-01-29 13:58:30,9819,9821-5071-0223-9660,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,195.84,19.58,Groceries,101,Desktop,1000,784.5799999999999
+e0b26a05-ed81-431f-9210-3b96fb38adf3,2023-08-04 13:58:30,9008,3965-0336-8111-9416,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,406.89,40.69,Groceries,101,Desktop,1000,552.4200000000001
+7320dc17-a527-44f6-89e7-58fcf6fcf592,2022-05-06 13:58:30,4181,9700-1795-7949-6951,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,355.79,35.58,Entertainment,105,Desktop,1000,608.63
+9336360a-93f6-446b-be0c-94adf5050282,2022-06-15 13:58:30,4446,4004-3685-0583-9962,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,28.66,2.87,Electronics,102,Desktop,1000,968.47
+d646f32d-f5b9-4c9b-a225-3ec144f31331,2023-04-01 13:58:30,3212,5484-8586-6043-3526,Credit Card,Cleared,AMC,Electronics purchase at AMC,481.82,48.18,Electronics,102,In-Store Terminal,1000,470.00000000000006
+8197d610-90c8-415b-9364-41e7a11cbcf5,2022-06-23 13:58:30,7130,1575-4636-2162-3037,Credit Card,Cleared,Whole Foods,Utilities purchase at Whole Foods,171.93,17.19,Utilities,104,In-Store Terminal,1000,810.8799999999999
+2f5a096c-c851-407d-a0ef-16c8eff40ed0,2022-06-12 13:58:30,3372,1383-5364-7215-2777,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,247.06,24.71,Entertainment,105,Desktop,1000,728.23
+c9aa5e73-562f-45d9-ae9b-0e79bf45f67d,2023-05-16 13:58:30,4465,4815-3602-7667-2614,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,13.35,1.33,Groceries,101,Desktop,1000,985.3199999999999
+b3876863-3b92-4860-8ae1-d4b500202dd2,2023-02-10 13:58:30,8482,4493-0577-5601-1357,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,127.08,12.71,Dining,103,In-Store Terminal,1000,860.2099999999999
+674cfbf3-6be1-4881-b136-23d3631cc05e,2022-04-18 13:58:30,4628,9775-3690-4201-3317,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,434.39,43.44,Electronics,102,Desktop,1000,522.1700000000001
+e8c05d13-8a6b-42e5-a832-0ebfe93415d5,2022-10-25 13:58:30,1061,7519-4573-0147-7756,Credit Card,Cleared,Spotify,Dining purchase at Spotify,109.58,10.96,Dining,103,Mobile,503.7099999999999,383.16999999999996
+dd013f95-1c78-42ba-8a2c-7ee18df382c3,2023-03-06 13:58:30,6605,2239-3653-5155-4435,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,299.91,29.99,Groceries,101,Mobile,1000,670.0999999999999
+5e4385df-3a5c-4070-83d8-3260a8c69b41,2023-03-12 13:58:30,4729,8346-4058-1716-0162,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,42.37,4.24,Dining,103,In-Store Terminal,1000,953.39
+20908cd2-a630-4752-8fb6-e3441e4bf0b7,2023-11-06 13:58:30,7569,0627-7863-9990-7023,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,159.73,15.97,Groceries,101,Mobile,1000,824.3
+4395d7fe-6db6-475f-8431-6a5796425e2c,2022-04-11 13:58:30,2089,4662-7129-6712-9100,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,153.92,15.39,Dining,103,Mobile,1000,830.69
+e62ea45d-ad75-4df4-9939-05b17e3d76c2,2022-02-21 13:58:30,1637,9320-7700-2653-2255,Credit Card,Cleared,AMC,Electronics purchase at AMC,154.01,15.4,Electronics,102,In-Store Terminal,1000,830.59
+05170db2-37c8-45f7-8362-6bae7bd80769,2022-10-06 13:58:30,7473,8107-4128-5140-1455,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,427.54,42.75,Electronics,102,In-Store Terminal,1000,529.71
+afb77be2-4f0b-4bfc-ad79-e4a6f3e9359e,2023-07-31 13:58:30,1212,9810-3462-0370-7644,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,45.34,4.53,Entertainment,105,Mobile,1000,950.13
+972014f1-32b1-48c7-b81b-22aca4c17305,2022-03-16 13:58:30,2415,8691-7336-1818-2576,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,122.93,12.29,Groceries,101,In-Store Terminal,1000,864.78
+633523dc-4218-4918-8030-5870cdfc457d,2023-10-05 13:58:30,5060,3496-9350-5503-1934,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,81.86,8.19,Utilities,104,Desktop,873.75,783.6999999999999
+c0537c16-9705-43d4-adfc-eb771e022cee,2023-07-28 13:58:30,9820,8205-8953-7878-1271,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,457.33,45.73,Groceries,101,Desktop,1000,496.94000000000005
+c604082f-70e2-426b-97a0-fece4721d6f7,2023-03-26 13:58:30,4657,8458-1417-9683-3767,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,485.24,48.52,Utilities,104,Mobile,1000,466.24
+ee02d7c6-0abe-4394-9c6e-46024db6d959,2022-10-24 13:58:30,2190,6445-9111-1129-8802,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,26.1,2.61,Groceries,101,Desktop,1000,971.29
+79b831d4-400d-4726-ae29-bddd83851310,2022-10-21 13:58:30,7982,5042-4182-2745-2996,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,20.32,2.03,Entertainment,105,Desktop,1000,977.65
+c770cf96-cf1d-406e-b398-2000d49a1516,2022-09-04 13:58:30,4132,3060-2676-2004-5883,Credit Card,Cleared,AMC,Electronics purchase at AMC,451.72,45.17,Electronics,102,In-Store Terminal,1000,503.10999999999996
+651de974-0ea7-4dce-8de3-db1af1a2b52c,2023-03-23 13:58:30,1738,3029-4609-0876-6552,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,343.92,34.39,Utilities,104,Mobile,1000,621.6899999999999
+e1aa47ed-7f8c-49e6-bd70-55342124e392,2023-06-25 13:58:30,3161,6524-3862-4041-1933,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,466.95,46.7,Groceries,101,In-Store Terminal,679.2800000000001,165.6300000000001
+350b08bb-951e-47da-9042-406b0c21b715,2022-12-19 13:58:30,7476,4593-2945-4820-9282,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,109.0,10.9,Electronics,102,Mobile,1000,880.1
+ecb87534-477b-4413-84a2-67c5c22a12df,2022-11-25 13:58:30,2113,9540-8378-9899-6447,Credit Card,Cleared,AMC,Entertainment purchase at AMC,84.88,8.49,Entertainment,105,Mobile,1000,906.63
+9bb75903-050b-4cee-b204-a7daf00d1b14,2023-10-20 13:58:30,4686,8006-7720-2666-2535,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,257.56,25.76,Entertainment,105,Desktop,1000,716.6800000000001
+16a18f18-9c0d-4b34-9fb7-c68547510c82,2023-01-31 13:58:30,4851,9761-7014-4482-1879,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,355.12,35.51,Entertainment,105,In-Store Terminal,1000,609.37
+10a968ee-e82a-46dd-8686-ee77a2eb6b16,2022-07-28 13:58:30,5920,5377-0832-5646-2605,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,162.2,16.22,Dining,103,In-Store Terminal,1000,821.5799999999999
+4bd1d419-4b83-43d4-8070-f5db9f065ff4,2023-12-25 13:58:30,5998,0102-6078-5844-3046,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,387.43,38.74,Dining,103,Mobile,1000,573.8299999999999
+a06a33db-81e0-469f-9f72-34c142a3b4fc,2023-10-01 13:58:30,9828,6181-3949-7911-1590,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,460.76,46.08,Utilities,104,Desktop,1000,493.16
+75f67cec-19f8-4298-80b6-c7355de93970,2022-03-30 13:58:30,3648,1687-4973-3015-7978,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,487.19,48.72,Entertainment,105,Desktop,1000,464.0899999999999
+d1cd29b8-0755-4886-8fd0-6aabe3df8c18,2023-08-14 13:58:30,3494,3492-0037-2094-0129,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,189.86,18.99,Utilities,104,In-Store Terminal,1000,791.15
+6ac7e08c-a2d5-4528-b1cf-9eb4a5d37f40,2022-02-21 13:58:30,1874,5002-5514-6790-3777,Credit Card,Cleared,Netflix,Dining purchase at Netflix,114.57,11.46,Dining,103,Desktop,1000,873.97
+426e41f9-736a-4554-b72a-bb11ba66c2f3,2022-03-02 13:58:30,1802,1690-0571-9388-0937,Credit Card,Cleared,AMC,Entertainment purchase at AMC,439.02,43.9,Entertainment,105,Mobile,1000,517.08
+d741ad07-9523-4fa2-aa67-603a818f7468,2022-07-11 13:58:30,6645,9882-8995-5350-8672,Credit Card,Cleared,Netflix,Dining purchase at Netflix,40.29,4.03,Dining,103,Mobile,1000,955.6800000000001
+d3e8150c-ea5d-481a-b380-ceea596337a8,2023-08-15 13:58:30,6468,4644-1997-9935-8682,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,289.98,29.0,Dining,103,Mobile,1000,681.02
+5c3ddefc-46d6-4e40-b99e-29842d885749,2022-03-15 13:58:30,6911,0202-8297-2318-8029,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,463.09,46.31,Groceries,101,Mobile,1000,490.6000000000001
+70262f63-9ca8-497e-a9ae-49df3241d638,2022-02-15 13:58:30,7973,4269-9201-5445-5040,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,271.59,27.16,Electronics,102,In-Store Terminal,1000,701.2500000000001
+21a71514-7adf-42b3-bb68-961c71044f37,2022-11-10 13:58:30,2022,8395-0930-7669-3714,Credit Card,Cleared,City Water,Entertainment purchase at City Water,73.51,7.35,Entertainment,105,In-Store Terminal,1000,919.14
+c408e181-436e-4f49-a3ea-4dbf25dfe53c,2023-10-05 13:58:30,2898,4644-0128-4068-3155,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,403.8,40.38,Entertainment,105,Mobile,1000,555.82
+8be5892b-f7ba-42d6-be29-208e21be2c60,2022-01-14 13:58:30,3881,7548-2070-6272-8235,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,425.74,42.57,Entertainment,105,Mobile,1000,531.6899999999999
+ad8a4e68-a829-447c-8465-ef6a53da8828,2022-06-03 13:58:30,2987,9265-1129-1142-6958,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,319.49,31.95,Electronics,102,Mobile,1000,648.56
+e1b76a01-ac3a-4313-9b82-7bfca05c7f97,2023-05-22 13:58:30,8850,5533-8303-1484-6237,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,108.5,10.85,Electronics,102,Desktop,1000,880.65
+27e9dabe-a2c1-4944-9a08-83e1b0ef7e05,2022-05-09 13:58:30,1137,8590-8186-6922-9324,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,319.66,31.97,Electronics,102,In-Store Terminal,1000,648.3699999999999
+45693ca7-ce7c-4895-8caa-fbed09908674,2023-09-02 13:58:30,9416,4745-2979-7724-3154,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,323.9,32.39,Dining,103,Mobile,1000,643.71
+53f27749-ef3f-4c95-9205-b469ad946a01,2022-12-13 13:58:30,5831,9322-7757-6182-7320,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,100.38,10.04,Utilities,104,In-Store Terminal,1000,889.58
+48e5a0aa-3206-4242-b051-b308b59b7acc,2023-03-11 13:58:30,1145,7829-9528-7874-0805,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,470.69,47.07,Utilities,104,Mobile,1000,482.23999999999995
+96e78c6c-6929-43ef-b2db-b52a6f6ce89a,2023-04-19 13:58:30,2047,1993-7457-2784-9076,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,61.65,6.17,Groceries,101,In-Store Terminal,1000,932.1800000000001
+eda6c9e7-ecc5-488e-b312-fe965bc6b5b3,2023-10-13 13:58:30,3070,0203-4351-4505-0158,Credit Card,Cleared,City Water,Groceries purchase at City Water,251.32,25.13,Groceries,101,Desktop,1000,723.5500000000001
+fcf2489e-f9d7-4ccc-ad1f-a68e3c567b0e,2022-11-13 13:58:30,4772,2782-7152-0984-0457,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,325.13,32.51,Entertainment,105,Mobile,1000,642.36
+18640fae-4314-435c-b611-2bf89448f136,2022-01-26 13:58:30,5558,5564-6752-5911-2313,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,361.28,36.13,Electronics,102,In-Store Terminal,630.95,233.54000000000008
+6a66d2c5-6f76-4121-a482-deb3ac7f6c49,2023-04-06 13:58:30,4365,4599-4072-4340-1254,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,58.68,5.87,Groceries,101,Mobile,1000,935.45
+3bb26ff8-f769-41a2-a47a-ea82458eef89,2022-08-02 13:58:30,9358,5619-9333-9488-7938,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,32.08,3.21,Groceries,101,Desktop,1000,964.7099999999999
+55089ca3-5569-42f3-983a-48290b012f2f,2022-06-25 13:58:30,2399,1130-6336-6331-4980,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,139.5,13.95,Groceries,101,In-Store Terminal,1000,846.55
+986f4209-879c-4795-be3c-29ccd0a6fc81,2023-12-22 13:58:30,4270,1113-9794-4455-9380,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,405.5,40.55,Utilities,104,Desktop,1000,553.95
+48dfd1f3-7b56-45f3-815a-8dadd0276ea3,2022-10-29 13:58:30,6944,2899-2991-8865-0829,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,330.26,33.03,Groceries,101,Mobile,1000,636.71
+0da4216f-93ce-40fb-8124-503353eb7df9,2022-05-23 13:58:30,6701,9497-0539-4116-0244,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,434.23,43.42,Electronics,102,In-Store Terminal,1000,522.35
+8f35898b-d2b9-4142-a52d-3e23beeca0c6,2022-04-05 13:58:30,3695,5606-8217-9412-8222,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,55.18,5.52,Entertainment,105,In-Store Terminal,1000,939.3000000000001
+d6c8e691-d060-44e9-b40c-c1525807ef7c,2022-06-20 13:58:30,1477,6773-2037-1542-5172,Credit Card,Cleared,City Water,Entertainment purchase at City Water,458.74,45.87,Entertainment,105,Desktop,1000,495.39
+9048d901-54ee-411a-bada-184fd46fbc56,2023-04-15 13:58:30,1987,0803-6770-5096-0201,Credit Card,Cleared,Walmart,Dining purchase at Walmart,284.43,28.44,Dining,103,Desktop,1000,687.1299999999999
+98f4325d-5785-4cb8-acb1-73844e1a809b,2022-06-04 13:58:30,3935,6773-6990-2855-8492,Credit Card,Cleared,AMC,Groceries purchase at AMC,333.51,33.35,Groceries,101,Mobile,1000,633.14
+a912c70d-fe9e-4628-84ad-e5f071cc1098,2023-12-09 13:58:30,6408,7405-5459-3615-2453,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,162.54,16.25,Utilities,104,Desktop,1000,821.21
+ee160aca-330b-465e-b170-b8c1a34f29b7,2023-07-12 13:58:30,8681,6958-5067-8884-1249,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,312.75,31.28,Groceries,101,In-Store Terminal,1000,655.97
+d5d5f09f-5feb-4360-b771-e2042b3d1b04,2023-06-28 13:58:30,8579,3457-5681-0002-8345,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,113.01,11.3,Entertainment,105,Mobile,1000,875.69
+e736006e-1006-45b7-9b2d-362a70346914,2022-05-20 13:58:30,7949,7727-6052-7897-9824,Credit Card,Cleared,City Water,Entertainment purchase at City Water,226.54,22.65,Entertainment,105,Desktop,1000,750.8100000000001
+e31bc0b4-6ea3-4b43-917b-ac4407cd6720,2022-12-02 13:58:30,2314,8398-9723-2275-4452,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,266.33,26.63,Electronics,102,Mobile,1000,707.0400000000001
+9c7f0821-b69b-486f-a029-bc49f9bdb520,2023-08-31 13:58:30,4186,7441-7026-4081-7274,Credit Card,Cleared,Netflix,Dining purchase at Netflix,220.62,22.06,Dining,103,Mobile,1000,757.32
+0c7013bf-9b3d-4f8b-86a0-bd0e75afb1c2,2022-02-03 13:58:30,3865,0468-4605-8008-7811,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,231.1,23.11,Entertainment,105,In-Store Terminal,1000,745.79
+2b3a3600-f70e-4174-95bd-c22c48eda5a6,2022-09-25 13:58:30,9524,4966-5223-1826-9895,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,491.7,49.17,Utilities,104,In-Store Terminal,1000,459.13
+71b24bd6-bf39-46b6-a66a-e8526d308c29,2023-07-22 13:58:30,1883,6447-0802-7424-9435,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,394.86,39.49,Groceries,101,Mobile,1000,565.65
+e6b155bc-6319-4065-8c3d-fa8a8cc30e0f,2023-10-29 13:58:30,8189,7598-8041-1201-4225,Credit Card,Cleared,AMC,Utilities purchase at AMC,20.28,2.03,Utilities,104,Mobile,1000,977.69
+f50da06d-3f1f-493c-8eca-2155aefd9c05,2022-04-29 13:58:30,9117,6987-4827-0067-4266,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,371.76,37.18,Utilities,104,Mobile,1000,591.0600000000001
+ed2878a8-b7b2-44f9-a598-47cb1d37bcb1,2022-04-02 13:58:30,4076,0056-2112-7349-2311,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,134.42,13.44,Entertainment,105,Mobile,1000,852.14
+156c3600-e77b-4783-815e-fd01f942a23f,2022-11-08 13:58:30,9678,7473-4037-3961-4268,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,464.51,46.45,Dining,103,Desktop,1000,489.04
+22ab4a8d-031b-4bc5-9398-ed769fcba856,2022-10-25 13:58:30,3409,5311-3350-2097-1778,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,352.75,35.27,Electronics,102,Mobile,1000,611.98
+f554bf26-930f-4690-af4d-c4e6f58502fa,2023-09-25 13:58:30,5621,8557-0818-5433-3585,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,412.91,41.29,Dining,103,Mobile,1000,545.8
+c5967694-f085-4cb8-9b20-211204e1cb11,2022-06-01 13:58:30,3760,5140-0819-5959-2790,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,206.96,20.7,Groceries,101,In-Store Terminal,1000,772.3399999999999
+774651ca-79e8-47bf-8041-efc9a04a8c8b,2023-04-16 13:58:30,6304,7352-4978-3692-5571,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,312.53,31.25,Groceries,101,Mobile,1000,656.22
+e50d44a0-eb42-49eb-9823-dfe9fb8b72df,2022-07-24 13:58:30,5161,8020-1617-1269-6190,Credit Card,Cleared,Newegg,Dining purchase at Newegg,308.93,30.89,Dining,103,Mobile,1000,660.18
+14479a93-beea-4221-b43a-e9f31836f37f,2023-03-01 13:58:30,3790,5095-5012-1373-1536,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,274.81,27.48,Utilities,104,Desktop,1000,697.71
+f1fcc34a-9a7e-40b8-aa59-cf540ff3235d,2023-11-19 13:58:30,5799,5937-0575-7899-6333,Credit Card,Cleared,AMC,Entertainment purchase at AMC,55.65,5.57,Entertainment,105,Desktop,1000,938.78
+82aa31ea-7494-4622-9470-cd7c6c18d434,2022-05-30 13:58:30,2883,9459-9390-4674-8314,Credit Card,Cleared,City Water,Groceries purchase at City Water,295.12,29.51,Groceries,101,Desktop,1000,675.37
+a8c6f934-f000-46b3-9f19-2b6d2fac0fb2,2022-09-30 13:58:30,1673,1047-6169-8214-7864,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,140.39,14.04,Utilities,104,Mobile,1000,845.57
+e2bcdd56-b469-439b-9060-190a0c9ed375,2022-04-23 13:58:30,6681,1177-7962-4317-2525,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,412.51,41.25,Utilities,104,In-Store Terminal,1000,546.24
+cf763af0-0456-4370-9cee-96358621a355,2022-11-28 13:58:30,2363,4064-7230-8360-6410,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,487.33,48.73,Groceries,101,Mobile,1000,463.94000000000005
+e2e17b53-b8a5-4b3f-b22e-941d0fd84822,2023-11-15 13:58:30,7535,6778-4529-2209-4773,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,446.4,44.64,Groceries,101,Desktop,1000,508.96000000000004
+9cdcf9e1-06ec-4280-b7a4-eb800b91baf5,2023-06-06 13:58:30,6462,6571-8180-3598-1071,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,132.73,13.27,Utilities,104,Mobile,1000,854.0
+95be9946-fce3-413b-b4e3-e44035bd7d59,2022-04-25 13:58:30,8363,2699-2494-8337-4360,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,304.29,30.43,Entertainment,105,In-Store Terminal,1000,665.2800000000001
+54daa85d-0a58-4e18-8441-4f4d31427dcb,2022-02-13 13:58:30,7916,6546-1470-0732-1767,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,346.69,34.67,Groceries,101,Desktop,1000,618.64
+3b552646-ec6d-493c-9c03-8f30d8200c15,2023-05-12 13:58:30,2455,5436-5532-4790-7923,Credit Card,Cleared,Walmart,Dining purchase at Walmart,373.21,37.32,Dining,103,In-Store Terminal,1000,589.4699999999999
+3cd235d9-998a-452a-9bfa-6f80eeaf8e6b,2023-01-05 13:58:30,5248,0107-4175-7197-6508,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,326.58,32.66,Dining,103,Mobile,1000,640.7600000000001
+53fc5540-2d9c-411d-b01c-abcc947d75f1,2023-06-03 13:58:30,7320,5280-1592-5999-2406,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,309.11,30.91,Utilities,104,Mobile,1000,659.98
+67bfb9ef-25d9-4c01-9949-a60358668fe7,2022-06-13 13:58:30,5375,6342-1500-5446-6240,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,436.31,43.63,Groceries,101,Mobile,1000,520.0600000000001
+10901d96-e022-433f-95c6-476020b51ab2,2023-11-14 13:58:30,7854,0169-5693-6772-8557,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,263.06,26.31,Groceries,101,In-Store Terminal,1000,710.6300000000001
+485dd8d3-67a8-4733-904f-8ecdd497546f,2023-11-16 13:58:30,4688,3474-2789-5634-8194,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,497.36,49.74,Electronics,102,Desktop,1000,452.9
+9a5d1c49-6922-4bea-8adf-a701b867e06b,2023-04-15 13:58:30,7988,8127-7332-9575-4489,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,322.08,32.21,Electronics,102,Desktop,1000,645.71
+fbf73684-ad46-4b47-92c1-1179167080e7,2023-12-07 13:58:30,2998,0238-6547-0178-6986,Credit Card,Cleared,City Water,Entertainment purchase at City Water,247.6,24.76,Entertainment,105,Mobile,1000,727.64
+40bcb00e-d827-4293-b49f-213fd62a3ba2,2023-04-08 13:58:30,7586,2032-2458-6424-2264,Credit Card,Cleared,City Water,Utilities purchase at City Water,43.85,4.39,Utilities,104,Desktop,1000,951.76
+02633b0f-d124-483d-8192-ca2f4f63268f,2023-02-22 13:58:30,9513,6461-0020-1906-3242,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,32.36,3.24,Entertainment,105,In-Store Terminal,1000,964.4
+2e86974d-e416-42d8-8c7b-a342354db5ed,2023-04-04 13:58:30,7495,2944-9099-8143-1571,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,154.39,15.44,Electronics,102,Mobile,1000,830.17
+5f5b6d98-16ac-461c-9637-accb8625b4d0,2022-10-29 13:58:30,6835,5935-1395-6937-2474,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,263.7,26.37,Dining,103,Desktop,1000,709.93
+1ee6e8d4-7154-4982-b71e-5667c4a65e41,2023-03-23 13:58:30,4204,0876-8750-0235-4193,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,463.51,46.35,Utilities,104,Mobile,1000,490.14
+b51494d5-be5d-444c-babd-023d4b97d804,2023-11-18 13:58:30,7228,6686-2433-5311-9850,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,425.19,42.52,Utilities,104,In-Store Terminal,1000,532.29
+37058f31-7e4f-4204-87c6-006f8ed87d8b,2023-04-23 13:58:30,3694,3103-3386-1706-0596,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,77.13,7.71,Utilities,104,Desktop,1000,915.16
+c7b4c092-5309-4ebb-8f7a-ddc21046e934,2022-11-26 13:58:30,9168,4505-8698-4850-8849,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,238.39,23.84,Entertainment,105,Desktop,1000,737.77
+bfe0c2a2-175b-4677-9695-d29b93f53d76,2023-04-05 13:58:30,7518,0594-7865-8317-8170,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,120.73,12.07,Electronics,102,Desktop,1000,867.1999999999999
+4ae92205-1134-4c7b-916e-b6b2ae3384be,2022-06-23 13:58:30,8428,5778-0059-7580-7388,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,472.17,47.22,Electronics,102,Desktop,1000,480.6099999999999
+d48505e0-9566-46a8-bc4f-2e5dfdb0ef3f,2023-06-17 13:58:30,1788,3310-8211-4947-0470,Credit Card,Cleared,City Water,Dining purchase at City Water,184.51,18.45,Dining,103,Desktop,1000,797.04
+2823808e-3b37-4128-ac75-da9ac8e34097,2023-07-20 13:58:30,9272,2163-6237-8587-6564,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,54.5,5.45,Dining,103,Desktop,1000,940.05
+f0cb3f09-bd31-4664-ac20-8087bca8109d,2022-10-31 13:58:30,3430,3904-7027-1057-8125,Credit Card,Cleared,Netflix,Dining purchase at Netflix,22.74,2.27,Dining,103,Mobile,1000,974.99
+987f7680-8d8e-416e-b39f-2b22a35f6fc7,2023-11-03 13:58:30,9614,1435-1269-7772-1210,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,371.93,37.19,Utilities,104,In-Store Terminal,1000,590.8799999999999
+fdd06a28-6be1-4b08-8826-4b2f9fae8659,2023-02-05 13:58:30,5397,6055-4520-7461-1368,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,153.6,15.36,Utilities,104,Desktop,1000,831.04
+1b8ba883-2d16-4b90-b060-1457297c1032,2023-03-08 13:58:30,9510,1518-9530-7128-1618,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,137.05,13.71,Groceries,101,Desktop,936.71,785.95
+8c26452d-5c7c-48e9-ad2f-abe1f9d63cba,2023-08-28 13:58:30,6918,6336-9443-6208-3908,Credit Card,Cleared,City Water,Dining purchase at City Water,351.47,35.15,Dining,103,Desktop,1000,613.38
+4309e5a0-c869-4307-8c49-4badfd86fe0c,2022-09-24 13:58:30,7460,7211-8603-3778-6937,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,490.62,49.06,Utilities,104,Mobile,1000,460.32
+bc0cbb9a-33dd-4b0d-92be-11b679164cb8,2023-02-06 13:58:30,9678,7518-4967-3510-7153,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,47.47,4.75,Entertainment,105,Desktop,489.04,436.82000000000005
+f5c3a4fc-a9bd-4920-b615-c680f514a53d,2023-08-03 13:58:30,2732,4261-9088-8863-5259,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,35.15,3.52,Utilities,104,Mobile,1000,961.33
+74b22cf5-27db-4a3e-bd73-109af177aa01,2022-04-24 13:58:30,2615,0736-6687-7361-3325,Credit Card,Cleared,City Water,Groceries purchase at City Water,114.05,11.41,Groceries,101,Desktop,1000,874.5400000000001
+05fd8177-d59d-4bf7-a4b7-41405009df75,2022-07-09 13:58:30,6272,7437-4963-2833-5409,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,9.79,0.98,Groceries,101,In-Store Terminal,1000,989.23
+26938d7a-0289-4ebf-b220-136885625280,2023-12-07 13:58:30,9443,7417-3940-7222-6534,Credit Card,Cleared,Spotify,Dining purchase at Spotify,371.09,37.11,Dining,103,Desktop,1000,591.8000000000001
+e905ffeb-44d5-4439-9d6b-c4663c6839c3,2023-05-19 13:58:30,5792,1300-8131-7258-5445,Credit Card,Cleared,City Water,Groceries purchase at City Water,475.3,47.53,Groceries,101,Mobile,1000,477.1700000000001
+d77e8e88-7cf5-4738-989e-690cb50c4383,2023-10-10 13:58:30,8559,3139-2606-2679-0185,Credit Card,Cleared,Walmart,Dining purchase at Walmart,190.16,19.02,Dining,103,In-Store Terminal,1000,790.82
+7cdecea6-1cf8-4a95-ad17-5b9b93c0490a,2023-01-31 13:58:30,1124,7890-5078-8153-4032,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,167.72,16.77,Utilities,104,Mobile,1000,815.51
+7cf7f4db-4c13-4d10-aa2e-433fb5395aaf,2022-05-14 13:58:30,1996,9184-7600-5877-0134,Credit Card,Cleared,Chipotle,Utilities purchase at Chipotle,205.37,20.54,Utilities,104,In-Store Terminal,1000,774.09
+70f5b89c-c1fe-4aa6-a709-48bcab436778,2022-04-11 13:58:30,4125,5838-1515-7428-1074,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,152.26,15.23,Utilities,104,Desktop,1000,832.51
+47717d4a-19be-4ecf-9e2d-801ac3e97a77,2023-04-29 13:58:30,2524,6434-3949-5113-5503,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,127.48,12.75,Entertainment,105,In-Store Terminal,1000,859.77
+ecf71985-2b39-46c4-ac42-a1aeefafb381,2022-04-10 13:58:30,9764,6477-0132-5314-2178,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,173.06,17.31,Entertainment,105,Mobile,1000,809.6300000000001
+607935b1-33bc-4348-9e0a-cb763b1f45f0,2022-03-22 13:58:30,1808,9321-6065-9765-5001,Credit Card,Cleared,Newegg,Dining purchase at Newegg,463.03,46.3,Dining,103,Desktop,1000,490.67
+08886535-b328-4395-b9e1-eaf4179652f5,2022-11-23 13:58:30,4446,0772-8145-9113-5803,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,57.91,5.79,Dining,103,Desktop,968.47,904.7700000000001
+479f3afe-d48a-435c-88a6-55a38cd86991,2023-10-19 13:58:30,2275,1149-8876-3303-5220,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,244.34,24.43,Groceries,101,In-Store Terminal,1000,731.23
+62d841ba-6e0b-42ac-affa-e7df7bc29cbf,2022-06-07 13:58:30,7063,6566-2677-4692-6452,Credit Card,Cleared,City Water,Utilities purchase at City Water,267.21,26.72,Utilities,104,Desktop,1000,706.0699999999999
+050c4202-e250-4135-a470-5cfb7a41599c,2023-02-09 13:58:30,9239,1154-6737-3293-0040,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,488.0,48.8,Groceries,101,In-Store Terminal,1000,463.2
+558aa6fb-bbc5-40dc-a12d-14f568ab6af7,2022-01-27 13:58:30,8741,7354-8689-1055-5807,Credit Card,Cleared,Newegg,Dining purchase at Newegg,434.19,43.42,Dining,103,In-Store Terminal,1000,522.39
+4c42f999-484f-413b-8b64-3793129e23cc,2023-01-31 13:58:30,2145,0098-7587-6689-8025,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,48.57,4.86,Groceries,101,Mobile,1000,946.5699999999999
+6ebc83a4-5986-43a9-a165-0c32c6f0bc31,2022-05-19 13:58:30,6691,5252-8296-6776-7318,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,326.8,32.68,Groceries,101,In-Store Terminal,1000,640.5200000000001
+0bf783a7-33b2-48c4-bf5d-c6564f1fdb4b,2022-08-31 13:58:30,2412,0780-9446-5351-3166,Credit Card,Cleared,Starbucks,Utilities purchase at Starbucks,196.2,19.62,Utilities,104,In-Store Terminal,1000,784.18
+2e7e020d-7199-4894-bfec-897835b148fe,2022-01-16 13:58:30,7447,1007-3830-6395-8220,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,13.31,1.33,Groceries,101,In-Store Terminal,854.26,839.62
+97007e54-7940-4f72-a488-15b48bed74ec,2022-01-03 13:58:30,7531,1361-8824-8581-4710,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,293.5,29.35,Groceries,101,In-Store Terminal,1000,677.15
+985640d1-b289-44d1-9791-4473fd47603c,2022-08-10 13:58:30,8842,4102-0781-5234-2387,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,254.53,25.45,Electronics,102,Mobile,1000,720.02
+b339ff35-dbb3-4d9a-b2ce-48df1c7fcfd2,2023-01-31 13:58:30,9854,5576-6998-8397-7308,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,262.5,26.25,Electronics,102,Mobile,1000,711.25
+5b1f5e93-22d4-441a-8c39-50f10d224c85,2023-12-22 13:58:30,7903,8209-0196-5462-1841,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,227.92,22.79,Dining,103,Mobile,1000,749.2900000000001
+55e36ee9-fb2e-4b50-9ea0-b8d44cdb1f14,2022-08-09 13:58:30,7692,7630-5557-3508-2531,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,354.01,35.4,Electronics,102,Mobile,1000,610.59
+d28ea850-d32d-47cb-8e27-69f54d52252b,2023-12-11 13:58:30,1906,4282-0285-0101-4630,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,73.64,7.36,Entertainment,105,Mobile,715.57,634.57
+b34aa300-db2b-43b4-a7b6-41a676799a6d,2023-11-25 13:58:30,6080,3863-0531-3533-0300,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,441.82,44.18,Groceries,101,Mobile,1000,514.0000000000001
+4473e22d-bcae-4bbb-adea-5b4b87a7e217,2022-12-26 13:58:30,7083,5095-7633-2060-3116,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,56.93,5.69,Utilities,104,Desktop,1000,937.38
+90cef7cb-aa2b-455a-8c56-484b73ef0a5c,2023-06-18 13:58:30,4461,0429-6858-9412-2198,Credit Card,Cleared,AMC,Electronics purchase at AMC,139.21,13.92,Electronics,102,Desktop,1000,846.87
+0f65e534-0238-4493-9134-41ccac0acc1e,2023-08-18 13:58:30,7209,1347-5532-5996-0906,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,286.1,28.61,Dining,103,Desktop,1000,685.29
+929b7f86-db9b-493d-9616-00a4fc76c8a1,2022-04-03 13:58:30,8189,8274-1743-2647-4529,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,259.53,25.95,Utilities,104,In-Store Terminal,977.69,692.21
+9785e955-8007-44fd-90d1-390836f23444,2022-06-17 13:58:30,6638,8311-1202-7640-1676,Credit Card,Cleared,City Water,Utilities purchase at City Water,427.54,42.75,Utilities,104,Desktop,1000,529.71
+d3514c93-0b2f-4aee-a0d6-3b5e8e0d3d15,2022-11-04 13:58:30,7471,2719-3576-1096-1528,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,301.94,30.19,Utilities,104,Desktop,1000,667.8699999999999
+588de3ff-79c6-457e-96d0-fa2d5828471b,2022-07-22 13:58:30,3384,9280-7354-0011-0246,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,67.44,6.74,Entertainment,105,Desktop,1000,925.8199999999999
+57471e1e-392c-4e57-9251-b35523ae6373,2022-12-12 13:58:30,1131,3742-5121-5756-4258,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,268.79,26.88,Electronics,102,Desktop,1000,704.33
+a9da8994-f89e-497a-bc1d-d32ae48e7b33,2022-11-10 13:58:30,8315,6352-7750-4685-6986,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,308.07,30.81,Entertainment,105,Desktop,1000,661.1200000000001
+51669033-1749-457c-9ea3-250ac959e9db,2023-09-24 13:58:30,2659,9203-8174-5592-5873,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,150.18,15.02,Utilities,104,In-Store Terminal,1000,834.8
+a715ce5a-599f-4373-91e3-2ec37c54c831,2022-07-15 13:58:30,6775,2619-7018-4286-4028,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,195.0,19.5,Entertainment,105,Desktop,1000,785.5
+21b7b30e-f817-4977-bc4f-16c24ddabe3f,2022-05-01 13:58:30,1751,3076-3654-6321-5749,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,144.31,14.43,Utilities,104,Desktop,1000,841.2600000000001
+92e925d4-7034-4bc1-8b58-030c1b423723,2023-04-28 13:58:30,8478,3323-1093-0653-6410,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,415.91,41.59,Utilities,104,In-Store Terminal,1000,542.4999999999999
+7803ec9a-0e95-46d3-b9ea-9056ba842d7e,2023-02-27 13:58:30,4331,3795-2328-1900-2274,Credit Card,Cleared,City Water,Dining purchase at City Water,122.21,12.22,Dining,103,Desktop,1000,865.5699999999999
+03a8166b-e677-4a8d-9f52-726499fa215f,2023-12-16 13:58:30,8881,4150-5251-8594-3365,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,171.24,17.12,Entertainment,105,Mobile,1000,811.64
+2b0de0d6-cf3a-4887-aa7f-7a57f2a308d7,2022-05-22 13:58:30,9177,8116-3577-2204-0165,Credit Card,Cleared,Spotify,Dining purchase at Spotify,472.78,47.28,Dining,103,Mobile,1000,479.94000000000005
+43d46685-13a9-4387-ade3-d36f6808a604,2022-05-10 13:58:30,1976,8001-4693-8072-6239,Credit Card,Cleared,AMC,Utilities purchase at AMC,485.07,48.51,Utilities,104,Desktop,897.4999999999999,363.9199999999999
+dbdf4571-4ce9-4c40-a276-c2287a3ebfd7,2022-02-04 13:58:30,5085,4761-5125-6920-5568,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,64.63,6.46,Entertainment,105,Desktop,718.0300000000001,646.94
+16da4282-0efa-450f-a2be-fd68cae6873c,2022-01-24 13:58:30,6500,7786-9540-3348-3695,Credit Card,Cleared,Newegg,Entertainment purchase at Newegg,192.83,19.28,Entertainment,105,Mobile,1000,787.89
+6ff0dfc6-f1cb-4420-b1de-0cac88754d2f,2022-10-03 13:58:30,5441,9757-2140-1266-6758,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,114.3,11.43,Utilities,104,In-Store Terminal,1000,874.2700000000001
+89f516bc-3769-421a-9002-4361f9d1a8ec,2022-07-28 13:58:30,8163,1976-8476-9212-2431,Credit Card,Cleared,Spotify,Dining purchase at Spotify,151.52,15.15,Dining,103,Desktop,1000,833.33
+b0205adc-3708-4ab1-8f18-774481792199,2023-08-07 13:58:30,6277,9518-7673-7394-1673,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,333.62,33.36,Dining,103,In-Store Terminal,1000,633.02
+88356272-bdc3-4b4f-8fda-5af80905bc7f,2022-06-02 13:58:30,3316,5613-2782-8739-9472,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,181.69,18.17,Groceries,101,Mobile,1000,800.14
+c3fa58dc-2bd2-4179-9ee9-b1efae24e198,2022-05-21 13:58:30,9098,3714-5079-6626-8817,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,249.76,24.98,Electronics,102,Desktop,1000,725.26
+d5f1895e-2370-4a7b-ab43-e21c23e66271,2022-12-19 13:58:30,5614,6862-6424-1939-5470,Credit Card,Cleared,AMC,Electronics purchase at AMC,237.26,23.73,Electronics,102,Mobile,1000,739.01
+8f9ab05a-d388-4327-a656-90700de60ad1,2022-01-10 13:58:30,7113,3842-8990-4505-0914,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,93.36,9.34,Groceries,101,In-Store Terminal,1000,897.3
+779a98a8-2465-4f82-9e10-0bdf49493970,2023-08-20 13:58:30,9687,4221-0194-6883-0969,Credit Card,Cleared,AMC,Electronics purchase at AMC,188.76,18.88,Electronics,102,Mobile,1000,792.36
+550590bd-24ad-4cf6-bb62-26e8d40c940e,2021-12-31 13:58:30,7701,2124-3717-7343-3691,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,105.64,10.56,Groceries,101,Mobile,1000,883.8000000000001
+d6fbcf4c-f1f5-4dae-9a48-55d5c33b7bde,2022-04-20 13:58:30,3443,4680-6724-5221-2192,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,161.38,16.14,Utilities,104,Mobile,1000,822.48
+4cbfbdff-7ac7-49cd-8c8a-924ea9e2f8bf,2023-01-15 13:58:30,7625,6040-0089-3650-8819,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,20.67,2.07,Groceries,101,Desktop,1000,977.26
+9d7bfa22-d5a3-4b9b-82af-ada86e6f04b8,2023-08-17 13:58:30,5604,0623-4878-2085-9851,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,380.38,38.04,Electronics,102,Mobile,793.6,375.18
+0aafbe0b-78be-467f-a5ab-00090e897cd8,2023-03-16 13:58:30,3588,4403-6880-0789-8513,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,400.03,40.0,Utilities,104,Desktop,1000,559.97
+567353c5-ed44-4129-a67e-32442b287c0a,2023-09-23 13:58:30,9638,6893-7308-6583-8402,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,465.1,46.51,Utilities,104,Mobile,1000,488.39
+cdef5c77-64b0-420a-a536-86b188460a2d,2022-07-26 13:58:30,1980,9176-2053-1804-3513,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,316.97,31.7,Groceries,101,In-Store Terminal,1000,651.3299999999999
+3f2a6d7f-25ba-4c4d-a4d1-0ecf68129bae,2022-08-03 13:58:30,6315,0379-7153-7337-1821,Credit Card,Cleared,Spotify,Dining purchase at Spotify,266.47,26.65,Dining,103,In-Store Terminal,1000,706.88
+7b3a866c-31bc-4a91-bfcf-2aee43388dd2,2022-01-23 13:58:30,2020,9288-6821-9022-1766,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,243.57,24.36,Utilities,104,In-Store Terminal,1000,732.07
+e627871c-c4f2-499a-a400-0d97711f47b0,2022-02-21 13:58:30,9550,3882-1718-5420-7781,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,130.34,13.03,Entertainment,105,Mobile,1000,856.63
+17289c22-e029-4ab1-bfa3-d6aa6c05f208,2023-03-05 13:58:30,7740,5997-5337-5078-1676,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,69.99,7.0,Entertainment,105,Desktop,1000,923.01
+6e321105-f80d-4d46-a903-d9a4a182d42d,2022-09-08 13:58:30,9934,6094-6523-7593-4784,Credit Card,Cleared,AMC,Utilities purchase at AMC,468.89,46.89,Utilities,104,Desktop,1000,484.22
+8e0fe701-9fc6-45b6-9250-7d52c07aa803,2022-06-21 13:58:30,3296,4832-5725-0745-0658,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,313.77,31.38,Entertainment,105,Mobile,1000,654.85
+8bc08f7f-c261-4120-b8f2-eca8b93aa1f0,2022-01-13 13:58:30,3216,1092-4325-3288-0896,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,192.03,19.2,Entertainment,105,In-Store Terminal,1000,788.77
+52d2fc39-d1c3-463b-8965-f65be4fe1423,2023-05-05 13:58:30,7671,4692-6258-2297-8249,Credit Card,Cleared,AMC,Electronics purchase at AMC,59.53,5.95,Electronics,102,In-Store Terminal,1000,934.52
+1c34ba5c-a164-45b1-990f-48e0b7d21dc6,2023-08-01 13:58:30,8123,1256-0019-3830-8704,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,419.45,41.95,Dining,103,In-Store Terminal,1000,538.5999999999999
+8a00d6ef-43df-40c6-a55e-89abdbeac28a,2023-10-25 13:58:30,8811,5705-9618-4439-0657,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,58.09,5.81,Entertainment,105,In-Store Terminal,1000,936.1
+f5917c05-8d24-4232-84c8-90cb5b720edd,2022-07-14 13:58:30,2004,9670-2627-2330-8927,Credit Card,Cleared,AMC,Groceries purchase at AMC,180.23,18.02,Groceries,101,Desktop,1000,801.75
+ff59160c-8cf5-4b77-ad28-9a8dde2905b5,2022-02-28 13:58:30,6162,4015-3853-2886-9096,Credit Card,Cleared,City Water,Entertainment purchase at City Water,208.08,20.81,Entertainment,105,In-Store Terminal,956.21,727.32
+2fd14d25-e726-49df-ae78-40c4f0f295d8,2022-05-06 13:58:30,4770,4404-1607-7785-3571,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,460.82,46.08,Entertainment,105,In-Store Terminal,1000,493.1000000000001
+c7ead378-ce62-4085-8503-dcbfdc195867,2022-10-11 13:58:30,6689,1234-0427-5652-6006,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,405.43,40.54,Electronics,102,Desktop,1000,554.03
+9c2f5692-390d-4030-af08-aa69d3a3e57a,2022-08-20 13:58:30,8068,4308-8994-1433-2232,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,406.35,40.64,Electronics,102,Mobile,1000,553.01
+aab6eb99-aff0-4861-a100-dd33f3bb80c6,2023-05-01 13:58:30,2727,8608-1741-1141-3252,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,366.39,36.64,Utilities,104,Desktop,1000,596.97
+2bd9aa88-f8af-4a46-98e3-eba18e5ad3fc,2023-05-16 13:58:30,3708,7673-6244-8996-5984,Credit Card,Cleared,City Water,Utilities purchase at City Water,67.22,6.72,Utilities,104,Desktop,1000,926.06
+d39cdae3-9904-452b-b6ef-ea584c93c0e7,2022-06-29 13:58:30,3339,6721-6696-3271-4484,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,75.83,7.58,Dining,103,Desktop,1000,916.5899999999999
+d13cedd6-d1e0-47f9-825a-0623c7f60202,2023-11-15 13:58:30,1162,9754-4031-8117-6152,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,242.36,24.24,Groceries,101,Desktop,1000,733.4
+55a51ed7-6fdc-4bf3-bc36-890fe5cb4555,2023-02-22 13:58:30,6474,9357-4606-2752-5759,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,269.0,26.9,Groceries,101,Desktop,1000,704.1
+f91442a2-df26-4724-ac55-cf892825288c,2023-03-20 13:58:30,8619,8606-8454-4317-6608,Credit Card,Cleared,AMC,Dining purchase at AMC,44.92,4.49,Dining,103,Mobile,1000,950.59
+0120424b-d4fc-43ce-96dd-17e8cae0d9d3,2023-07-29 13:58:30,9637,3374-5623-6159-1412,Credit Card,Cleared,AMC,Utilities purchase at AMC,5.58,0.56,Utilities,104,In-Store Terminal,1000,993.86
+5cd088c5-6ee5-4a8c-85df-53e5b314e390,2022-12-09 13:58:30,4903,9576-1123-5278-7257,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,201.88,20.19,Utilities,104,Mobile,1000,777.93
+920fa850-2d79-4f56-a6d8-d2d1b1e8aee9,2022-12-06 13:58:30,2881,4663-2493-9047-7216,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,90.7,9.07,Electronics,102,In-Store Terminal,1000,900.2299999999999
+3ea3f7ed-0e7f-46bf-8af5-a73e56c78761,2023-06-15 13:58:30,5191,7049-8922-5562-7971,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,331.64,33.16,Groceries,101,In-Store Terminal,1000,635.2
+986dbd2c-ae8b-41e1-b466-da727874524d,2022-09-15 13:58:30,1515,8489-1875-8535-7400,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,466.46,46.65,Electronics,102,Desktop,1000,486.89
+1a185f90-7c86-45be-91f3-b6f4e64723c8,2022-09-02 13:58:30,8877,9858-6151-2729-2041,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,347.79,34.78,Electronics,102,In-Store Terminal,1000,617.4300000000001
+2ffabefa-7ba6-453f-98b3-9bb462300ddc,2022-08-17 13:58:30,7425,3743-4183-1433-3437,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,251.48,25.15,Electronics,102,Desktop,1000,723.37
+7ff2320a-6e49-4f04-b4a4-8ede9c31b676,2022-08-01 13:58:30,6133,1540-7435-9384-8224,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,373.56,37.36,Electronics,102,Mobile,1000,589.08
+d9108ef7-e35c-4574-b61d-b05f89067871,2023-05-29 13:58:30,7530,1215-4571-2365-9608,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,359.34,35.93,Dining,103,Mobile,1000,604.7300000000001
+88eb80e8-59dc-4c60-8bea-b7d2c6d326fa,2022-07-10 13:58:30,2628,5727-3118-8357-6878,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,433.85,43.39,Entertainment,105,Mobile,1000,522.76
+4157d174-0652-44b9-aa5b-19a8ddc76c2b,2023-10-19 13:58:30,2943,5604-2522-0452-3904,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,51.81,5.18,Dining,103,In-Store Terminal,1000,943.0100000000001
+82f89f6f-5291-4c49-b398-e75e602970ee,2023-04-11 13:58:30,3952,5287-8949-9024-9755,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,167.46,16.75,Electronics,102,Desktop,1000,815.79
+74db35b7-db61-4191-9c4d-eabc5ac5fc9a,2022-01-12 13:58:30,5899,8318-1588-6849-6209,Credit Card,Cleared,City Water,Entertainment purchase at City Water,428.76,42.88,Entertainment,105,Mobile,1000,528.36
+3c2212c6-d218-4d4f-8f71-6cdce19b7255,2023-07-22 13:58:30,3189,7923-1587-8254-1028,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,421.04,42.1,Entertainment,105,In-Store Terminal,1000,536.86
+9d914f38-4885-470f-9286-d5998b87692f,2022-12-23 13:58:30,4129,6214-6961-6648-3328,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,473.26,47.33,Utilities,104,In-Store Terminal,1000,479.41
+8f42afab-8175-4f3b-9d53-fdf58a4f39e9,2022-12-03 13:58:30,3814,0643-0849-0850-2879,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,147.8,14.78,Electronics,102,In-Store Terminal,1000,837.4200000000001
+c1c0ce1b-1710-40f1-b967-242b2dfad006,2023-10-28 13:58:30,5600,7951-3839-5241-6577,Credit Card,Cleared,AMC,Entertainment purchase at AMC,93.88,9.39,Entertainment,105,In-Store Terminal,823.7,720.4300000000001
+9bd0b0bc-a424-4933-a927-56459ad550ea,2023-04-17 13:58:30,7839,5392-3296-3203-7394,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,362.02,36.2,Entertainment,105,In-Store Terminal,1000,601.78
+c272a591-7a45-4725-a466-992e28a52e4d,2023-03-21 13:58:30,6373,7548-6201-1839-3495,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,237.6,23.76,Electronics,102,Mobile,1000,738.64
+5332c718-707b-4a14-a4a9-3483efae0445,2022-09-20 13:58:30,7706,8446-9398-9462-3187,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,265.23,26.52,Utilities,104,Desktop,1000,708.25
+2f5a55c8-c496-4bd2-a92b-0c6319d604c4,2023-08-08 13:58:30,3522,5391-1721-0871-5822,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,70.26,7.03,Electronics,102,In-Store Terminal,1000,922.71
+ac1f8f5f-57aa-4eea-81d3-4c9ad076d7b3,2022-11-07 13:58:30,1875,8143-2404-6281-8183,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,130.24,13.02,Utilities,104,Mobile,1000,856.74
+7194bad9-335c-4834-bced-b2b5bea2c7c9,2023-11-11 13:58:30,1147,9528-0901-8132-1579,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,487.76,48.78,Electronics,102,In-Store Terminal,1000,463.46000000000004
+cd11124d-90e6-4dd2-bf31-d14f926fad1b,2023-05-31 13:58:30,1688,6869-3218-4310-7261,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,34.28,3.43,Electronics,102,Desktop,1000,962.2900000000001
+ad1ae2a7-5697-447d-9a76-4382e32ef868,2022-06-23 13:58:30,5616,5732-2840-0538-3966,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,40.32,4.03,Electronics,102,Mobile,1000,955.65
+291b8ff9-6546-463e-9714-ca1cb19761fd,2022-12-11 13:58:30,6100,9971-7909-8214-9048,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,348.51,34.85,Electronics,102,In-Store Terminal,1000,616.64
+6ee31b35-2a2a-440e-8b79-84ab4196e8ec,2022-02-12 13:58:30,6130,3472-9856-0033-8227,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,272.19,27.22,Groceries,101,Desktop,1000,700.5899999999999
+d6e6de9a-b9ce-40b3-9362-3fddae70233b,2023-04-12 13:58:30,7324,5376-7392-2630-3266,Credit Card,Cleared,AMC,Electronics purchase at AMC,124.63,12.46,Electronics,102,Mobile,1000,862.91
+151ec814-5fec-46dc-b5e2-4bbca80ebc14,2022-11-22 13:58:30,8129,3070-8569-4184-1127,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,256.97,25.7,Entertainment,105,Desktop,1000,717.3299999999999
+d29b7d3a-b096-455d-9539-9780521162cf,2022-04-30 13:58:30,1520,0081-1444-2189-3251,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,364.29,36.43,Groceries,101,In-Store Terminal,959.5,558.7800000000001
+47f88002-2718-4788-9d72-e6559ce68a72,2023-11-24 13:58:30,3542,6803-6607-7597-3499,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,252.98,25.3,Entertainment,105,In-Store Terminal,1000,721.72
+48dcbe6c-343d-46d3-ae68-0a512070a53b,2022-10-20 13:58:30,9659,5359-1697-2764-8377,Credit Card,Cleared,Spotify,Dining purchase at Spotify,339.32,33.93,Dining,103,Desktop,1000,626.7500000000001
+3cf3960a-4d4a-4845-89ef-5217b900f2c6,2023-03-22 13:58:30,2621,6510-3859-1139-2850,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,333.69,33.37,Dining,103,Mobile,1000,632.9399999999999
+e45851cd-cd82-491a-83f4-5a19cc5b4f60,2022-07-03 13:58:30,9796,8043-8135-7539-2394,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,421.99,42.2,Entertainment,105,Desktop,1000,535.81
+df93e8fa-2736-411e-b2c5-5fa6e493256c,2023-06-02 13:58:30,4019,0523-4679-0604-7917,Credit Card,Cleared,City Water,Groceries purchase at City Water,161.78,16.18,Groceries,101,Mobile,1000,822.0400000000001
+14be9d91-06e9-4a85-8854-db9493fe3aa8,2023-04-18 13:58:30,6405,1303-5010-7581-4391,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,150.55,15.06,Dining,103,Mobile,1000,834.3900000000001
+a2543acb-908e-44ae-acee-546b3815eb65,2023-02-21 13:58:30,7997,0530-2624-7634-2596,Credit Card,Cleared,Newegg,Dining purchase at Newegg,148.26,14.83,Dining,103,Desktop,1000,836.91
+2ba1cde8-38d4-4053-8551-bd211948be21,2022-02-13 13:58:30,9825,2577-8931-8373-3648,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,126.0,12.6,Entertainment,105,Mobile,1000,861.4
+7a63a716-1b83-4a8f-a1a0-af00eb8000c2,2022-01-04 13:58:30,1907,3261-3986-5868-8435,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,60.53,6.05,Groceries,101,Desktop,1000,933.4200000000001
+f0bf15c5-69e5-462b-b8a6-1c142e7d740c,2023-07-30 13:58:30,7420,0948-5995-6401-1656,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,445.19,44.52,Utilities,104,Desktop,700.4300000000001,210.72000000000006
+10fa81a1-3928-4bb4-8cb5-b79d10f3ba5d,2022-02-25 13:58:30,8130,5282-0160-2973-7584,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,476.82,47.68,Entertainment,105,Mobile,1000,475.50000000000006
+e2c6bbfc-5b23-4d20-8a7f-52f5dea5b162,2023-07-28 13:58:30,6528,8029-1695-7611-5677,Credit Card,Cleared,City Water,Dining purchase at City Water,478.82,47.88,Dining,103,Mobile,1000,473.30000000000007
+fcd18e48-5b69-494d-b000-62404d630728,2023-02-08 13:58:30,7728,8981-8751-3747-0184,Credit Card,Cleared,AMC,Dining purchase at AMC,256.38,25.64,Dining,103,Desktop,1000,717.98
+caa2fed0-6a4b-4c42-864e-ad096d215e41,2023-10-15 13:58:30,6152,3565-6610-4674-9425,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,30.59,3.06,Entertainment,105,In-Store Terminal,1000,966.35
+e6d76e2c-f59b-4c42-9ca8-701be506528d,2023-10-27 13:58:30,9796,6453-0169-5750-1026,Credit Card,Cleared,Newegg,Dining purchase at Newegg,191.08,19.11,Dining,103,Mobile,535.81,325.6199999999999
+3a2ea615-d734-42c2-aeae-9bc6f773afa3,2022-09-06 13:58:30,7936,2686-5293-7520-3018,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,145.03,14.5,Dining,103,Desktop,1000,840.47
+c69efc97-7010-4d8d-97f9-53426479bd6d,2022-07-06 13:58:30,6689,8290-2882-4234-8032,Credit Card,Cleared,Whole Foods,Utilities purchase at Whole Foods,434.93,43.49,Utilities,104,In-Store Terminal,554.03,75.60999999999996
+d1877a28-1e18-4159-be71-0102dd385154,2022-07-26 13:58:30,4648,6738-7044-2525-5091,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,425.68,42.57,Electronics,102,In-Store Terminal,1000,531.7499999999999
+c813c7ab-4e23-4795-8ae2-45401bbbbdf6,2023-08-23 13:58:30,9129,9287-4167-9467-7487,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,343.23,34.32,Utilities,104,Mobile,1000,622.4499999999999
+61805fb2-643b-4be8-8861-9a62503c205e,2023-11-23 13:58:30,1458,7196-0542-4621-1902,Credit Card,Cleared,McDonald's,Dining purchase at McDonald's,296.25,29.62,Dining,103,Desktop,1000,674.13
+81cba418-0c27-4817-b3d2-4d0943147f02,2023-05-05 13:58:30,7294,4939-9015-1347-7790,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,70.02,7.0,Dining,103,Desktop,1000,922.98
+50a74838-4b02-423b-8941-5195d655d103,2022-03-01 13:58:30,3915,6791-6813-1511-8475,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,158.68,15.87,Entertainment,105,In-Store Terminal,1000,825.4499999999999
+0b8e0aa2-9cba-44eb-8a97-79fb7f44de2c,2022-09-30 13:58:30,4614,5114-6156-2464-3876,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,255.38,25.54,Groceries,101,Desktop,1000,719.08
+29d81f8f-ed1d-4c59-b398-b813f21a93fb,2022-03-04 13:58:30,4941,9029-2895-3130-4894,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,264.21,26.42,Electronics,102,In-Store Terminal,874.14,583.5100000000001
+818d1f11-61d6-49c0-b60a-1375286e2e69,2022-11-27 13:58:30,6447,2782-6911-5413-5128,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,41.28,4.13,Dining,103,Mobile,1000,954.59
+234f636e-f56c-4218-bdf6-b15b3a7024e4,2022-10-09 13:58:30,1828,5780-1832-8760-5052,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,151.86,15.19,Utilities,104,Mobile,1000,832.9499999999999
+38825e6a-e594-4dc2-8951-de3fe39e2991,2022-12-18 13:58:30,5395,5118-6413-4182-3509,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,220.63,22.06,Utilities,104,Mobile,1000,757.3100000000001
+ff155fcc-9444-441f-a18e-1735b33ac201,2022-11-27 13:58:30,9853,6966-2015-9600-6459,Credit Card,Cleared,AMC,Dining purchase at AMC,203.06,20.31,Dining,103,Desktop,1000,776.6300000000001
+5e7284dc-1354-4458-b4f4-b96316433e59,2022-04-11 13:58:30,4171,0579-4012-0826-9873,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,369.78,36.98,Dining,103,In-Store Terminal,1000,593.24
+3f1a84bd-b593-4863-acb6-ee771ff5bc69,2023-09-04 13:58:30,9132,9456-8831-6834-8965,Credit Card,Cleared,City Water,Dining purchase at City Water,18.5,1.85,Dining,103,Desktop,1000,979.65
+e57c0898-0297-424b-b461-e662066b1c89,2022-11-22 13:58:30,1737,3461-0419-0965-5842,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,222.07,22.21,Electronics,102,In-Store Terminal,1000,755.72
+7c17ab06-c1bd-4060-9d3e-7f1d127bf538,2023-05-23 13:58:30,9324,2830-8282-8349-2736,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,340.46,34.05,Utilities,104,Mobile,939.65,565.1400000000001
+5dcd5e18-3993-408b-baa9-8919e2b303ca,2022-09-03 13:58:30,6587,3410-0297-4902-9431,Credit Card,Cleared,Best Buy,Dining purchase at Best Buy,84.58,8.46,Dining,103,Desktop,1000,906.9599999999999
+9b7e4add-78f0-4edb-93d3-d3e3923fd1f5,2022-01-19 13:58:30,9105,5985-9123-1787-7016,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,27.7,2.77,Utilities,104,In-Store Terminal,1000,969.53
+d70eadcb-f31b-4ba9-80e1-d5a60da3f48f,2023-09-15 13:58:30,8509,2111-1653-8404-2102,Credit Card,Cleared,Netflix,Groceries purchase at Netflix,132.04,13.2,Groceries,101,Mobile,1000,854.76
+efc28716-27a5-4956-9980-edbda0bbfc1b,2022-12-17 13:58:30,3950,3557-6443-3173-8883,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,276.07,27.61,Groceries,101,Desktop,1000,696.32
+806ccbf5-66a4-41b6-aa69-37da18078fae,2022-11-24 13:58:30,2510,7037-3737-1137-2611,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,490.06,49.01,Groceries,101,Mobile,1000,460.93
+c01bbfdb-ab78-4629-baf6-3282f7d08060,2022-05-02 13:58:30,2839,0469-3987-4472-4955,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,498.15,49.81,Entertainment,105,Desktop,966.0899999999999,418.12999999999994
+56e0eb80-c062-4ad4-bec5-ad3c5c30ea83,2023-09-11 13:58:30,9791,1621-6501-6761-2087,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,386.69,38.67,Utilities,104,Desktop,1000,574.64
+58f0c19d-3591-40df-ba90-506014798bba,2023-09-24 13:58:30,9970,8740-5826-6723-0238,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,43.84,4.38,Utilities,104,In-Store Terminal,1000,951.78
+2cd46e4d-b6de-4bb1-8d7c-90d964693c0b,2022-07-16 13:58:30,8979,4523-0400-2228-8214,Credit Card,Cleared,Walmart,Dining purchase at Walmart,366.36,36.64,Dining,103,In-Store Terminal,1000,597.0
+73535c03-c1da-43e6-96bd-95a36546e1a3,2022-10-09 13:58:30,9520,3975-2261-1464-9783,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,296.13,29.61,Utilities,104,In-Store Terminal,1000,674.26
+e4f66cc7-79a1-4c68-853f-3370180e23d5,2023-07-08 13:58:30,1743,8075-0450-2226-8271,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,159.01,15.9,Entertainment,105,Mobile,1000,825.09
+e8602b61-c95b-4dc6-b857-bc1266d3e75d,2023-02-25 13:58:30,8765,8563-4022-6003-3541,Credit Card,Cleared,Starbucks,Utilities purchase at Starbucks,285.69,28.57,Utilities,104,Mobile,1000,685.7399999999999
+78621816-e5a6-43c1-abc8-5f5a602cc64d,2023-09-06 13:58:30,1249,1622-3816-1519-9492,Credit Card,Cleared,Best Buy,Groceries purchase at Best Buy,173.05,17.31,Groceries,101,In-Store Terminal,1000,809.6400000000001
+fff1543d-5bf6-41f3-9b01-8637a9500b58,2023-06-01 13:58:30,3880,1047-2505-8753-6424,Credit Card,Cleared,City Water,Utilities purchase at City Water,241.26,24.13,Utilities,104,In-Store Terminal,1000,734.61
+eb4923be-bfa1-4956-97a2-3696b1e3506f,2023-02-10 13:58:30,2607,4110-0761-6699-3153,Credit Card,Cleared,Starbucks,Utilities purchase at Starbucks,437.36,43.74,Utilities,104,Desktop,1000,518.9
+5fa4d8e2-8fad-46f2-b7f4-96b4bb48170f,2023-03-31 13:58:30,2531,6900-9624-9901-1489,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,290.97,29.1,Entertainment,105,In-Store Terminal,1000,679.93
+67aa3562-6eb2-4ca7-8bc0-8084d870272e,2022-10-29 13:58:30,7843,4070-6052-7873-2969,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,195.63,19.56,Electronics,102,Desktop,1000,784.8100000000001
+97af0afc-c54d-40ff-b122-3d8e409b8f88,2022-08-05 13:58:30,7611,8175-1819-2465-1505,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,119.13,11.91,Groceries,101,Desktop,1000,868.96
+e6c133da-a03a-46e1-a40d-643c5bf84797,2022-05-25 13:58:30,4574,9259-2659-8373-0490,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,62.47,6.25,Utilities,104,Desktop,1000,931.28
+f8310d7b-e5b6-47c4-a924-ff26690c2f05,2022-05-15 13:58:30,5358,0274-0685-4170-1253,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,251.04,25.1,Dining,103,Mobile,1000,723.86
+bfaf5e2e-dbc0-4552-a5c7-dfb7d5e39800,2023-06-06 13:58:30,6725,5247-3260-0174-1808,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,48.55,4.86,Groceries,101,In-Store Terminal,1000,946.59
+6e8bece1-ff70-4c0f-8d05-605e0e087ad3,2022-09-02 13:58:30,5206,0498-5985-9794-4038,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,234.92,23.49,Entertainment,105,Mobile,1000,741.59
+731f54e0-5c43-4b8b-82a0-598cb7feef05,2023-09-07 13:58:30,1222,5041-6199-9325-5095,Credit Card,Cleared,Netflix,Dining purchase at Netflix,90.17,9.02,Dining,103,In-Store Terminal,1000,900.8100000000001
+3691a63f-95ea-4102-92d4-d71154710401,2023-01-21 13:58:30,3058,8629-8651-0687-8442,Credit Card,Cleared,City Water,Dining purchase at City Water,277.01,27.7,Dining,103,Desktop,1000,695.29
+0a270e0b-dafa-433e-95df-f0f818f96d53,2023-04-03 13:58:30,4498,5472-3595-2329-1346,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,109.19,10.92,Dining,103,Desktop,1000,879.89
+3fd8c47f-a2e6-448e-902f-c25a8e452c39,2023-08-11 13:58:30,6526,3575-6164-6946-2100,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,276.47,27.65,Electronics,102,Mobile,1000,695.88
+168e7876-84ea-4ca4-9af9-4a0d8fa17594,2022-07-14 13:58:30,9340,2248-2906-0447-9840,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,53.73,5.37,Utilities,104,Mobile,1000,940.9
+b1a3e66c-e4a8-454e-a7be-4e722ad85360,2023-08-04 13:58:30,8071,5131-4377-9084-5730,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,335.67,33.57,Electronics,102,Desktop,1000,630.7599999999999
+99639ca9-5ee1-4f2e-95eb-8c46840cc000,2023-06-18 13:58:30,9969,9252-3201-3610-1993,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,374.56,37.46,Electronics,102,In-Store Terminal,676.93,264.90999999999997
+1b1e46cc-dfc1-4c18-b411-4956345cd714,2022-01-15 13:58:30,2158,5128-6423-2748-0777,Credit Card,Cleared,AMC,Electronics purchase at AMC,496.9,49.69,Electronics,102,Mobile,1000,453.41
+64a28c3d-876e-42a2-bf77-113fb5fdd5fb,2022-11-02 13:58:30,1203,4331-8932-1646-7366,Credit Card,Cleared,City Water,Electronics purchase at City Water,224.32,22.43,Electronics,102,In-Store Terminal,1000,753.2500000000001
+bc13a291-8854-42a6-bd19-cf73d3003957,2023-04-14 13:58:30,8818,2834-6919-2445-5121,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,281.29,28.13,Entertainment,105,In-Store Terminal,1000,690.58
+1473527e-e6f5-403a-bd70-53a8302cba6c,2023-04-20 13:58:30,1157,7242-1935-7524-2867,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,374.25,37.43,Groceries,101,Mobile,1000,588.32
+431b6a95-52d0-4698-81f0-337a14f9600d,2023-08-02 13:58:30,8754,1408-2183-7572-1275,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,289.06,28.91,Electronics,102,In-Store Terminal,1000,682.0300000000001
+fbc682b5-bc63-4f54-9563-d98f3047f137,2023-02-11 13:58:30,8534,3938-4087-1076-2319,Credit Card,Cleared,City Water,Dining purchase at City Water,266.95,26.7,Dining,103,In-Store Terminal,1000,706.3499999999999
+c6b8953f-0fb5-4b1e-bb67-09b672a8d261,2022-05-09 13:58:30,2614,5478-9834-9121-2616,Credit Card,Cleared,City Water,Utilities purchase at City Water,427.0,42.7,Utilities,104,Mobile,1000,530.3
+00b09a7c-429f-4bc6-987e-c56a50f63b3e,2022-12-20 13:58:30,1318,2185-8356-0746-5853,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,426.24,42.62,Electronics,102,Desktop,1000,531.14
+61057c43-d144-4831-93b8-ffa063aa5ea7,2023-06-05 13:58:30,4316,1228-8808-2282-2652,Credit Card,Cleared,Apple Store,Electronics purchase at Apple Store,418.05,41.81,Electronics,102,In-Store Terminal,1000,540.1400000000001
+f59585f9-6c98-4442-871c-127a8015a615,2022-11-11 13:58:30,4686,6801-0651-5883-3808,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,486.2,48.62,Entertainment,105,In-Store Terminal,716.6800000000001,181.86000000000007
+7addc297-3b0c-47a2-8899-b8a66e9b8078,2022-07-06 13:58:30,3246,5817-8535-8673-3056,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,197.62,19.76,Groceries,101,Desktop,1000,782.62
+5c0add73-e3b6-4cc6-aa63-f727c56903f6,2022-10-02 13:58:30,7475,5504-2619-8653-4262,Credit Card,Cleared,Energy Power,Electronics purchase at Energy Power,331.31,33.13,Electronics,102,Desktop,1000,635.5600000000001
+f9b8fda4-89f2-4f52-8492-36c4575917ad,2022-12-07 13:58:30,3785,7319-4549-7982-4063,Credit Card,Cleared,Apple Store,Utilities purchase at Apple Store,227.27,22.73,Utilities,104,Mobile,1000,750.0
+60fe4e34-7ddd-41ce-9ecd-656ac2c2a8f2,2023-05-12 13:58:30,8329,9677-2141-6913-4667,Credit Card,Cleared,AMC,Electronics purchase at AMC,118.5,11.85,Electronics,102,Desktop,1000,869.65
+9aa4aae8-47ff-44c1-be32-a7759bae43ea,2022-05-28 13:58:30,1025,4302-6368-5609-7665,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,183.7,18.37,Entertainment,105,Mobile,1000,797.93
+ce02565e-cbe6-45e4-be9f-cf171759877c,2022-11-15 13:58:30,5295,9276-1416-8145-2122,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,305.52,30.55,Electronics,102,In-Store Terminal,1000,663.9300000000001
+78654685-3d25-4850-87d5-322ff537e5d1,2023-01-15 13:58:30,9837,8982-1822-3263-7669,Credit Card,Cleared,Whole Foods,Groceries purchase at Whole Foods,109.05,10.91,Groceries,101,In-Store Terminal,1000,880.0400000000001
+6350ee49-e34b-40dd-b051-8cd0c4cf37b3,2023-07-22 13:58:30,9943,0713-0530-7483-6314,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,431.15,43.12,Dining,103,Mobile,1000,525.73
+969b1acb-2791-4c58-a158-e6147612e5de,2023-03-15 13:58:30,4605,2685-4574-4325-0190,Credit Card,Cleared,McDonald's,Entertainment purchase at McDonald's,320.29,32.03,Entertainment,105,Desktop,1000,647.6800000000001
+54e6ada5-4486-4cef-9253-353bbb4145f1,2022-03-28 13:58:30,9849,7518-9913-8887-0706,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,348.78,34.88,Utilities,104,Desktop,1000,616.34
+9d032fa8-c51f-437d-94b8-240ba1e527ed,2023-11-05 13:58:30,7882,8099-1448-1404-5070,Credit Card,Cleared,City Water,Utilities purchase at City Water,483.51,48.35,Utilities,104,Mobile,1000,468.14
+879e6799-a2e7-46c4-a9f5-49e04b32d9ca,2022-09-23 13:58:30,5035,8899-7636-8257-9117,Credit Card,Cleared,Chipotle,Entertainment purchase at Chipotle,228.46,22.85,Entertainment,105,Desktop,1000,748.6899999999999
+8384c5b9-7eab-4539-b55b-b4dc6d5010d0,2023-02-12 13:58:30,5658,7070-1495-6191-4363,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,197.68,19.77,Entertainment,105,In-Store Terminal,1000,782.55
+4ba1a248-873e-4a1d-b884-0684f55935d0,2022-05-30 13:58:30,5595,1981-3616-4715-9825,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,400.0,40.0,Entertainment,105,Desktop,1000,560.0
+8bb8cce7-c345-479c-86c6-095bae490808,2023-11-12 13:58:30,9505,8589-2458-2847-5124,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,287.5,28.75,Entertainment,105,In-Store Terminal,820.6800000000001,504.43000000000006
+20b369d4-c0e3-49c1-b1fa-f61fcf7bae72,2023-08-31 13:58:30,9253,2610-1324-6523-1565,Credit Card,Cleared,AMC,Groceries purchase at AMC,132.4,13.24,Groceries,101,In-Store Terminal,1000,854.36
+d984dbcc-34cc-4f12-aa7e-22e167e87ac7,2023-04-06 13:58:30,9292,3349-6868-8274-1573,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,19.07,1.91,Dining,103,Mobile,1000,979.02
+30af7325-5175-4c90-b40e-0231ef4b3e6e,2022-07-21 13:58:30,4862,0669-5425-2627-3359,Credit Card,Cleared,AMC,Groceries purchase at AMC,181.83,18.18,Groceries,101,Mobile,1000,799.99
+464272e4-e828-445b-b162-f46a2f0e727c,2023-02-13 13:58:30,5775,1467-7776-5312-3269,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,7.06,0.71,Dining,103,In-Store Terminal,1000,992.23
+f4fb84e3-90f9-4d0e-a37b-256e63083262,2023-11-04 13:58:30,7029,1640-1318-8751-4125,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,104.51,10.45,Electronics,102,Desktop,1000,885.04
+7781e665-d369-4dad-b6d0-93d4bfac1ab0,2022-08-30 13:58:30,9220,4481-3690-6402-9804,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,469.65,46.97,Electronics,102,Desktop,1000,483.38
+b34fd26c-de9d-471f-a1ce-c8639cec3621,2023-03-13 13:58:30,4797,6822-5084-5494-3398,Credit Card,Cleared,City Water,Groceries purchase at City Water,367.1,36.71,Groceries,101,In-Store Terminal,573.1800000000001,169.37000000000003
+17d1e54c-5c2f-44f9-8eee-a9c71419d228,2023-09-26 13:58:30,6101,1786-3420-3435-3523,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,499.58,49.96,Groceries,101,In-Store Terminal,1000,450.46000000000004
+0bc7d5dd-22cd-40fe-83a7-aa3d9cb0441d,2023-04-15 13:58:30,5181,5757-3758-4177-2229,Credit Card,Cleared,AMC,Entertainment purchase at AMC,264.19,26.42,Entertainment,105,Desktop,1000,709.39
+1e2aefaf-6902-4911-9fd0-0ff5a2d25070,2022-04-26 13:58:30,9598,5326-9967-4675-1934,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,238.25,23.83,Entertainment,105,Desktop,1000,737.92
+26a68f1e-c73c-447c-8411-e0d25c498ef9,2022-09-27 13:58:30,9184,1886-9541-2836-1318,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,236.87,23.69,Dining,103,Desktop,1000,739.4399999999999
+a5311c8b-0b5e-4578-aff0-74ad58ab427b,2023-07-19 13:58:30,3334,7002-8988-7502-9202,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,375.16,37.52,Electronics,102,In-Store Terminal,1000,587.3199999999999
+0ed5184e-9b37-4406-82bd-211fd24b41c1,2023-02-01 13:58:30,4415,8011-3369-1962-9462,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,199.24,19.92,Dining,103,Mobile,1000,780.84
+02bef3c5-204c-49bb-92a7-d9874679e2b3,2023-03-16 13:58:30,3797,6295-6518-5129-8842,Credit Card,Cleared,Trader Joe's,Dining purchase at Trader Joe's,64.3,6.43,Dining,103,In-Store Terminal,1000,929.2700000000001
+dcc3548e-3d3c-4b4e-bc0c-34d2866a1ca0,2022-11-10 13:58:30,2738,8572-8503-2370-0929,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,273.79,27.38,Entertainment,105,In-Store Terminal,1000,698.83
+840495b2-a3df-4638-9cc0-ead7b7c67e98,2022-08-26 13:58:30,9298,6351-1257-2653-7197,Credit Card,Cleared,Netflix,Dining purchase at Netflix,53.09,5.31,Dining,103,Desktop,1000,941.6
+84a6f86b-7ce7-49d9-a638-dbd95c535280,2023-11-22 13:58:30,8142,8344-2874-1765-8463,Credit Card,Cleared,InternetCo,Dining purchase at InternetCo,380.95,38.09,Dining,103,Desktop,1000,580.9599999999999
+24e01204-017d-45fa-8c24-fe864345d342,2022-12-03 13:58:30,4414,4640-9907-1302-0009,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,48.6,4.86,Entertainment,105,Desktop,675.0600000000001,621.6
+d8658968-911c-4f4a-817a-132e3ba5f431,2022-12-16 13:58:30,2320,8198-1416-4336-2620,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,400.68,40.07,Electronics,102,Mobile,661.61,220.86
+cb340774-21a0-4dcc-9acf-bd58faab4525,2023-01-08 13:58:30,7290,0777-0751-5158-7596,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,139.1,13.91,Entertainment,105,In-Store Terminal,1000,846.99
+427dcfd6-695e-423a-9dad-f76a35ce7bfb,2022-07-02 13:58:30,5027,2276-5336-8207-1017,Credit Card,Cleared,Walmart,Utilities purchase at Walmart,45.65,4.57,Utilities,104,Mobile,779.6600000000001,729.44
+740dec38-30cc-45c0-84ae-5e8992679387,2023-07-23 13:58:30,5780,0234-4474-9606-6952,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,20.11,2.01,Groceries,101,In-Store Terminal,1000,977.88
+1c043e1f-0331-4a90-a568-70ca1f433542,2022-01-17 13:58:30,2464,5130-3590-0137-2827,Credit Card,Cleared,Chipotle,Groceries purchase at Chipotle,402.32,40.23,Groceries,101,In-Store Terminal,1000,557.45
+e95dd58c-e930-490b-a861-c5e29c44066f,2022-11-10 13:58:30,2594,1071-8525-1445-5958,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,496.35,49.64,Entertainment,105,Mobile,1000,454.01
+8023ca12-c1e3-4007-8bf5-641787986261,2022-12-09 13:58:30,3417,2612-7014-3632-8646,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,175.91,17.59,Dining,103,Desktop,1000,806.5
+d5f609ba-60e7-40a3-9b9b-7c626ff46fda,2023-05-29 13:58:30,7581,1526-3110-5848-6700,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,39.21,3.92,Electronics,102,Desktop,1000,956.87
+d4ee936f-7b1b-4027-babc-cd0f197ccce6,2022-11-23 13:58:30,8258,0605-5284-4826-3222,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,126.62,12.66,Groceries,101,Mobile,1000,860.72
+7dc6fe60-49b7-4e93-94bd-cb35ecf861b6,2023-08-14 13:58:30,9277,3642-3190-4515-7319,Credit Card,Cleared,Whole Foods,Dining purchase at Whole Foods,43.76,4.38,Dining,103,In-Store Terminal,1000,951.86
+7022053c-75f1-4995-b5ba-7587f2209827,2023-03-05 13:58:30,5477,1019-4721-7969-8966,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,151.03,15.1,Electronics,102,Mobile,1000,833.87
+6e2a6aad-5987-4385-8301-05997f3613fa,2022-03-26 13:58:30,3491,7671-0558-5720-5600,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,244.82,24.48,Electronics,102,Mobile,1000,730.7
+28f0355d-84ac-4e0a-9792-3eeb38fd3f6c,2023-06-26 13:58:30,1004,7834-3961-7249-7835,Credit Card,Cleared,City Water,Electronics purchase at City Water,272.08,27.21,Electronics,102,Desktop,819.5,520.21
+e0dd5602-fcda-4b98-8746-be8e819bd3a4,2023-05-28 13:58:30,7126,7922-8677-5875-0442,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,284.72,28.47,Groceries,101,Desktop,1000,686.81
+e474a607-6ab7-477c-a6b6-0c69d8d28664,2023-02-17 13:58:30,3566,0930-0022-6952-0868,Credit Card,Cleared,City Water,Electronics purchase at City Water,40.5,4.05,Electronics,102,Mobile,1000,955.45
+e07a0a19-3e4d-47c3-8b55-0f154ebfcb9b,2023-09-23 13:58:30,2297,2536-6238-2821-5798,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,482.52,48.25,Groceries,101,Desktop,1000,469.23
+ddcd73bc-af40-4187-9f06-db3fe69fb4ff,2023-03-16 13:58:30,9020,2721-2223-3128-5380,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,448.79,44.88,Groceries,101,In-Store Terminal,1000,506.33000000000004
+62f2f5cf-a006-4421-a0e0-5a2d312d7502,2023-07-24 13:58:30,2134,7770-4824-7607-0418,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,469.64,46.96,Entertainment,105,In-Store Terminal,797.5600000000001,280.9600000000001
+67a6a904-34bf-4d66-bab1-2f85a7f9a9bb,2022-07-23 13:58:30,3136,5708-8730-0028-9029,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,372.16,37.22,Groceries,101,In-Store Terminal,1000,590.6199999999999
+04f0d055-f8f0-42cb-b4bf-92a91bc1c580,2023-01-19 13:58:30,8937,6776-7181-7296-1160,Credit Card,Cleared,InternetCo,Electronics purchase at InternetCo,268.44,26.84,Electronics,102,Mobile,1000,704.7199999999999
+5053a39e-8df8-4e85-9228-bac386bd7efa,2022-06-13 13:58:30,7155,7058-3306-1413-8482,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,203.31,20.33,Entertainment,105,Desktop,1000,776.36
+cefec52c-c95f-4c50-bc41-81af62ad34b8,2022-10-08 13:58:30,4656,4033-9066-8226-4682,Credit Card,Cleared,Spotify,Dining purchase at Spotify,193.11,19.31,Dining,103,Mobile,1000,787.58
+5c09988a-5fab-4e1b-9948-7e87b38c3b7a,2023-01-24 13:58:30,5509,5398-8619-5952-3550,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,301.54,30.15,Electronics,102,Mobile,1000,668.3100000000001
+1529f65a-9bcd-4157-a085-2c8d54324b1e,2023-02-14 13:58:30,9364,5756-9582-4348-3949,Credit Card,Cleared,Trader Joe's,Groceries purchase at Trader Joe's,308.51,30.85,Groceries,101,Mobile,1000,660.64
+9f5a92c9-4601-44d5-a9c2-aa43a37fa5da,2022-11-30 13:58:30,2703,7379-4672-3730-5964,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,241.51,24.15,Utilities,104,Desktop,1000,734.34
+8f6062a7-7c76-40ad-8e16-21f0f7f13911,2023-04-24 13:58:30,9803,2903-3875-9783-2720,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,315.18,31.52,Entertainment,105,In-Store Terminal,1000,653.3
+8c054c27-e942-411a-a2a8-1abeb058b2a5,2022-03-02 13:58:30,2846,8376-5423-9954-6613,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,289.72,28.97,Entertainment,105,Desktop,1000,681.31
+6f780f24-ec9d-4abe-ba2e-fa36ec5a32e3,2023-11-23 13:58:30,1023,7807-6497-6540-4769,Credit Card,Cleared,Walmart,Dining purchase at Walmart,143.08,14.31,Dining,103,In-Store Terminal,1000,842.61
+031ec969-b864-4a46-a85d-63e88d8761ed,2022-12-22 13:58:30,2057,7422-4514-1057-3928,Credit Card,Cleared,AMC,Groceries purchase at AMC,386.01,38.6,Groceries,101,Desktop,1000,575.39
+f0ccc374-db0e-4e44-bf64-1dddbc6b0a4d,2023-08-19 13:58:30,5592,8929-3119-5227-2225,Credit Card,Cleared,Starbucks,Dining purchase at Starbucks,452.62,45.26,Dining,103,Mobile,1000,502.12
+46df2f6b-b2c4-43c1-a3cb-9a5313057828,2022-10-17 13:58:30,3789,5414-0192-8227-0480,Credit Card,Cleared,Trader Joe's,Utilities purchase at Trader Joe's,323.3,32.33,Utilities,104,Desktop,1000,644.37
+95a28d17-0c40-4b00-9177-5e30c8b1c5a8,2022-02-21 13:58:30,9628,8189-6943-5134-3925,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,93.48,9.35,Groceries,101,Mobile,1000,897.17
+ea826f98-8c19-4038-a872-cc055bad3792,2022-05-01 13:58:30,9400,0126-5249-1234-0964,Credit Card,Cleared,Netflix,Electronics purchase at Netflix,130.97,13.1,Electronics,102,Mobile,1000,855.93
+b4c12ac0-b04f-48f2-b7b9-747f2185906c,2022-09-08 13:58:30,1516,2636-3093-9344-9779,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,325.63,32.56,Electronics,102,Mobile,1000,641.81
+f0e8202b-5cce-4d30-b2c5-0d9d0b2d9b7d,2023-09-18 13:58:30,7018,1091-1689-5702-3049,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,381.71,38.17,Utilities,104,Mobile,1000,580.12
+b2bb232f-5163-4055-86c3-410ef2720dbb,2023-03-20 13:58:30,6793,3062-0935-4312-3641,Credit Card,Cleared,Spotify,Dining purchase at Spotify,42.68,4.27,Dining,103,Desktop,1000,953.0500000000001
+f8302ae4-565c-4bab-845a-2a2bcce24962,2023-02-25 13:58:30,8882,0123-9552-5055-2215,Credit Card,Cleared,Apple Store,Entertainment purchase at Apple Store,30.9,3.09,Entertainment,105,Desktop,1000,966.01
+ca1bcd66-e2f0-42b5-9fa8-e0e7da41fb07,2022-06-16 13:58:30,9547,4752-8033-6640-3323,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,30.56,3.06,Groceries,101,Desktop,1000,966.3800000000001
+b70feabe-84ee-429d-9a01-9a1046b59f11,2022-07-02 13:58:30,9480,0945-1011-1411-6726,Credit Card,Cleared,Newegg,Dining purchase at Newegg,464.49,46.45,Dining,103,Mobile,1000,489.06
+645fc8d1-e049-4a71-a9ba-3cb1fa449818,2023-02-18 13:58:30,1430,8770-3862-8939-6739,Credit Card,Cleared,AMC,Utilities purchase at AMC,499.79,49.98,Utilities,104,Desktop,584.94,35.17000000000004
+e9f9796a-9fe8-453b-95a4-915a303e4709,2023-11-17 13:58:30,7934,1834-5117-9952-6717,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,410.0,41.0,Entertainment,105,In-Store Terminal,1000,549.0
+1322f612-9994-4b50-9f02-1844b777bd6b,2023-06-23 13:58:30,9416,5193-1497-7392-9143,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,151.45,15.14,Entertainment,105,Mobile,643.71,477.12000000000006
+4c062ad9-4a82-4e83-b186-a92c85cbb0f8,2022-05-29 13:58:30,7381,7502-9425-4993-4830,Credit Card,Cleared,City Water,Groceries purchase at City Water,7.34,0.73,Groceries,101,In-Store Terminal,1000,991.93
+5aae7e59-6578-4ade-bc4c-21c7a684133d,2023-12-25 13:58:30,2750,7622-6862-4555-3479,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,89.36,8.94,Entertainment,105,Desktop,1000,901.6999999999999
+4c4f4bed-5731-4705-8422-2269cae720cb,2022-12-06 13:58:30,8934,1363-7186-3079-9771,Credit Card,Cleared,Walmart,Groceries purchase at Walmart,42.07,4.21,Groceries,101,Mobile,1000,953.7199999999999
+a6765c65-5c01-48b2-a590-110d645f84d1,2022-04-10 13:58:30,2009,3937-6609-0929-9737,Credit Card,Cleared,Spotify,Electronics purchase at Spotify,484.97,48.5,Electronics,102,Mobile,1000,466.53
+03ad639c-5a8a-46ca-a516-944059b91f3c,2023-11-07 13:58:30,6177,4041-1690-1480-0161,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,371.03,37.1,Electronics,102,In-Store Terminal,1000,591.87
+c63a34b6-4dfa-4716-b97c-2b04d5ac6e13,2022-11-27 13:58:30,2290,4859-8807-6474-4523,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,142.06,14.21,Dining,103,In-Store Terminal,1000,843.73
+b60e1e69-d0dd-4212-9e33-fcb1e26acc8e,2023-04-03 13:58:30,4697,8472-3778-6943-4747,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,93.95,9.4,Entertainment,105,Mobile,1000,896.65
+a2d1fa25-bf23-4878-9a72-1b939f105d2d,2022-08-16 13:58:30,2134,2812-1041-3996-6430,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,139.17,13.92,Groceries,101,Mobile,280.9600000000001,127.8700000000001
+619c664e-7497-415f-86a3-d1fe2b32d85d,2022-08-23 13:58:30,4440,8420-0068-6970-3178,Credit Card,Cleared,Spotify,Utilities purchase at Spotify,324.77,32.48,Utilities,104,Mobile,1000,642.75
+8a4a66c3-8721-4b5c-aa85-3f3423d190a2,2022-10-29 13:58:30,1095,0926-8257-6318-4473,Credit Card,Cleared,Energy Power,Utilities purchase at Energy Power,63.52,6.35,Utilities,104,Mobile,792.78,722.91
+5a6194dc-8773-40ba-9e00-9b74356b7ca2,2023-01-01 13:58:30,7708,9610-2724-3952-5537,Credit Card,Cleared,AMC,Electronics purchase at AMC,328.72,32.87,Electronics,102,Mobile,1000,638.41
+69d7dff5-dfe9-4c53-bb03-be2985acbbf6,2022-03-27 13:58:30,8632,7280-1960-9070-8875,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,364.57,36.46,Entertainment,105,In-Store Terminal,1000,598.97
+22ce5640-bbe0-4479-9ebd-84dffc9dfb66,2022-11-17 13:58:30,3729,6913-4952-3761-2837,Credit Card,Cleared,City Water,Dining purchase at City Water,404.68,40.47,Dining,103,Desktop,1000,554.8499999999999
+af1e2203-cdd1-4c73-b0c4-01b257fa6ad3,2023-05-21 13:58:30,4163,1383-4668-4602-4890,Credit Card,Cleared,City Water,Utilities purchase at City Water,480.04,48.0,Utilities,104,Desktop,1000,471.96000000000004
+3e1ded00-61f1-4e7c-a4c4-106b7883f859,2022-09-09 13:58:30,2784,4105-1173-8844-2167,Credit Card,Cleared,Energy Power,Entertainment purchase at Energy Power,66.45,6.65,Entertainment,105,Desktop,1000,926.9
+b67ac1da-158b-4625-9e2b-f2d0ad62000b,2022-09-26 13:58:30,5387,5354-4542-0777-9083,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,51.37,5.14,Electronics,102,In-Store Terminal,1000,943.49
+9c7963af-229d-46af-b82f-185988173bfc,2023-01-22 13:58:30,4830,9432-4220-7724-4638,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,397.68,39.77,Electronics,102,Desktop,1000,562.55
+c96cfcbe-f83f-4e57-bcae-efef6fa74392,2023-12-12 13:58:30,3837,3952-1473-9840-3418,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,144.57,14.46,Electronics,102,Desktop,1000,840.97
+293f9ea5-ceb5-4950-ae7b-a00d825280d0,2023-04-28 13:58:30,2829,1112-2641-3941-9208,Credit Card,Cleared,Apple Store,Groceries purchase at Apple Store,48.73,4.87,Groceries,101,Mobile,582.8000000000001,529.2
+83c0c6e3-d54a-446b-a717-98552d99c4db,2022-11-04 13:58:30,1124,2966-9208-8564-0193,Credit Card,Cleared,City Water,Groceries purchase at City Water,139.15,13.92,Groceries,101,In-Store Terminal,815.51,662.44
+b57f0762-398a-42af-90f4-4a03793eceb0,2022-03-13 13:58:30,1206,1678-9626-7133-0039,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,134.31,13.43,Electronics,102,In-Store Terminal,1000,852.2600000000001
+2e3153ab-8e42-4534-9759-440aa3ae2172,2022-09-19 13:58:30,8743,5112-0477-2024-8336,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,23.6,2.36,Electronics,102,Desktop,1000,974.04
+c88c7604-d7b1-48a1-8c3d-944619776e53,2022-01-03 13:58:30,7210,6171-0790-0136-9337,Credit Card,Cleared,Trader Joe's,Entertainment purchase at Trader Joe's,92.47,9.25,Entertainment,105,In-Store Terminal,1000,898.28
+87270ac1-67a3-4e02-a2df-fc6720abb04b,2022-11-28 13:58:30,9562,1925-3040-7811-6825,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,388.45,38.84,Groceries,101,Desktop,1000,572.7099999999999
+3bf6c8a0-4286-4ae1-8113-9db98281e7e6,2023-05-15 13:58:30,2655,9972-8157-4600-6816,Credit Card,Cleared,McDonald's,Utilities purchase at McDonald's,58.21,5.82,Utilities,104,Desktop,870.61,806.5799999999999
+c46d8970-a6ad-464e-9774-d3546bfc4a78,2022-12-22 13:58:30,1902,4337-2652-0263-9728,Credit Card,Cleared,Chipotle,Electronics purchase at Chipotle,195.46,19.55,Electronics,102,In-Store Terminal,1000,784.99
+10410dba-cf3c-4503-ad09-970e51ba80ea,2022-12-26 13:58:30,9607,9158-9989-3068-1774,Credit Card,Cleared,City Water,Groceries purchase at City Water,112.17,11.22,Groceries,101,Desktop,1000,876.61
+b154d977-5fcc-433a-a137-093f41700e42,2022-08-18 13:58:30,8105,4051-1158-1452-0987,Credit Card,Cleared,City Water,Electronics purchase at City Water,242.59,24.26,Electronics,102,In-Store Terminal,1000,733.15
+82066fb1-0748-406e-84ef-43ac928be33c,2023-11-27 13:58:30,7008,4474-3361-9191-3139,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,115.52,11.55,Groceries,101,Desktop,592.31,465.23999999999995
+9fbfd063-26f5-4122-9295-f4e075bdaf59,2023-07-22 13:58:30,4008,3691-9757-9714-0306,Credit Card,Cleared,AMC,Groceries purchase at AMC,164.6,16.46,Groceries,101,Mobile,1000,818.9399999999999
+1daf52e0-a5aa-4295-8fc2-0aa7b1c46ed9,2023-08-05 13:58:30,7039,9754-0553-5598-9407,Credit Card,Cleared,Spotify,Entertainment purchase at Spotify,475.18,47.52,Entertainment,105,In-Store Terminal,1000,477.29999999999995
+147a4e51-5e83-4343-b91f-8b569ffb99f1,2022-09-15 13:58:30,4609,1038-3108-2971-9994,Credit Card,Cleared,Walmart,Dining purchase at Walmart,154.21,15.42,Dining,103,In-Store Terminal,1000,830.37
+75fe1509-d402-46d1-9fc8-a18d1c1a6909,2023-06-18 13:58:30,1303,9047-5039-4029-2225,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,40.92,4.09,Groceries,101,Desktop,1000,954.99
+52b94229-b206-40b8-9497-cceed6bbf13a,2023-04-22 13:58:30,1063,1049-6825-1756-3865,Credit Card,Cleared,Newegg,Dining purchase at Newegg,493.13,49.31,Dining,103,In-Store Terminal,1000,457.56
+6baf1211-06a0-45bf-bd45-988604727571,2023-11-07 13:58:30,9472,4969-3348-5096-3700,Credit Card,Cleared,AMC,Dining purchase at AMC,60.73,6.07,Dining,103,Desktop,1000,933.1999999999999
+53845a6c-216b-4617-a09c-8fb38a23e22e,2023-02-14 13:58:30,5607,3985-0923-0270-2930,Credit Card,Cleared,City Water,Entertainment purchase at City Water,146.64,14.66,Entertainment,105,In-Store Terminal,1000,838.7
+00594205-d21f-4630-b9fd-52d93f7bf327,2022-09-01 13:58:30,4368,7257-9338-2398-0405,Credit Card,Cleared,McDonald's,Groceries purchase at McDonald's,338.83,33.88,Groceries,101,Mobile,944.7,571.9900000000001
+0df7b753-ac8e-4860-bb75-e2c30c0be11a,2023-08-27 13:58:30,1529,8813-2014-7684-4083,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,438.82,43.88,Entertainment,105,Mobile,1000,517.3000000000001
+9c47a65a-f79a-4f2e-a647-9b361cebc1e4,2022-06-06 13:58:30,8066,0290-5889-4454-9441,Credit Card,Cleared,Best Buy,Utilities purchase at Best Buy,430.03,43.0,Utilities,104,Desktop,851.63,378.6
+86ac9583-e4cc-454d-a7ca-8d1ef84691bb,2023-02-06 13:58:30,3675,5523-0493-5556-9722,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,292.48,29.25,Dining,103,Mobile,1000,678.27
+f5a93ff7-47e5-4f10-81fb-0731eb52a567,2023-03-02 13:58:30,6108,5109-7026-2061-6242,Credit Card,Cleared,City Water,Utilities purchase at City Water,375.1,37.51,Utilities,104,In-Store Terminal,1000,587.39
+a73aed23-a3d9-49a5-af42-b07f8185e726,2022-01-25 13:58:30,3559,8066-6540-2244-0519,Credit Card,Cleared,Starbucks,Utilities purchase at Starbucks,323.33,32.33,Utilities,104,Mobile,1000,644.34
+db7d1a99-35c3-4435-a3fe-d8b06cf6d352,2022-05-22 13:58:30,9856,6654-0872-5762-3408,Credit Card,Cleared,Spotify,Groceries purchase at Spotify,459.24,45.92,Groceries,101,In-Store Terminal,1000,494.84
+2e78d492-f1df-4a59-af26-ec213a3237e8,2022-08-06 13:58:30,8161,1762-5047-6248-1994,Credit Card,Cleared,Spotify,Dining purchase at Spotify,454.53,45.45,Dining,103,In-Store Terminal,1000,500.02000000000004
+d3cb4534-1374-4e5c-ad6a-d6fc9185f2f1,2023-03-26 13:58:30,3317,2926-4867-9610-7675,Credit Card,Cleared,Walmart,Entertainment purchase at Walmart,128.82,12.88,Entertainment,105,Desktop,1000,858.3000000000001
+1dc7da4d-e18c-4791-9ab2-1cd3d59d899e,2023-04-14 13:58:30,7821,3367-5324-2721-1684,Credit Card,Cleared,AMC,Groceries purchase at AMC,216.8,21.68,Groceries,101,In-Store Terminal,1000,761.5200000000001
+dc2f3fb9-8ff8-45d1-b5ee-1654982cd8a4,2023-10-25 13:58:30,6426,2094-6667-9227-3165,Credit Card,Cleared,Whole Foods,Electronics purchase at Whole Foods,30.56,3.06,Electronics,102,Desktop,1000,966.3800000000001
+ecda6e2a-cb71-4fdd-a130-eee1e7a8c8b5,2022-09-12 13:58:30,9583,7215-1192-6389-6178,Credit Card,Cleared,Energy Power,Groceries purchase at Energy Power,236.92,23.69,Groceries,101,In-Store Terminal,1000,739.39
+8261d452-7191-4140-856e-48f29aab9250,2022-08-05 13:58:30,3770,9493-4272-0319-9418,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,439.06,43.91,Electronics,102,Desktop,1000,517.0300000000001
+1a2ef941-c16e-49b6-a04f-2c13a0d31c5f,2023-06-30 13:58:30,7065,0782-5571-4365-1719,Credit Card,Cleared,Best Buy,Electronics purchase at Best Buy,167.77,16.78,Electronics,102,Mobile,1000,815.45
+f760eaa0-6f11-485e-bd99-0fa71a19701f,2022-05-20 13:58:30,4484,6259-6770-1990-7841,Credit Card,Cleared,McDonald's,Electronics purchase at McDonald's,336.99,33.7,Electronics,102,Mobile,1000,629.31
+3136f696-eb77-450c-bbc6-6e4d6ff805db,2023-01-25 13:58:30,6495,7570-4506-1678-8023,Credit Card,Cleared,Netflix,Utilities purchase at Netflix,300.95,30.09,Utilities,104,In-Store Terminal,1000,668.9599999999999
+73d736cf-770f-4e59-a47d-ff6a5b3f614b,2023-08-08 13:58:30,3649,3194-1785-1430-7876,Credit Card,Cleared,Best Buy,Entertainment purchase at Best Buy,120.61,12.06,Entertainment,105,Desktop,1000,867.33
+e3603eff-f970-42c6-a583-6a24223b6c72,2023-08-11 13:58:30,9268,6340-7377-4297-0835,Credit Card,Cleared,Newegg,Utilities purchase at Newegg,432.52,43.25,Utilities,104,Mobile,1000,524.23
+7ad66c55-0c73-44fd-8b6d-b6e0d2d85f5b,2022-06-08 13:58:30,8387,6932-8278-6336-3789,Credit Card,Cleared,Netflix,Entertainment purchase at Netflix,462.4,46.24,Entertainment,105,Mobile,1000,491.36
+736298d7-b6e9-4e58-8990-11b8786c121f,2022-10-02 13:58:30,2533,8135-5535-3735-1531,Credit Card,Cleared,InternetCo,Entertainment purchase at InternetCo,414.83,41.48,Entertainment,105,In-Store Terminal,1000,543.69
+e3f1ca14-a906-4314-8cc2-584a60d740a2,2022-01-21 13:58:30,2658,8164-0670-4366-9020,Credit Card,Cleared,Starbucks,Entertainment purchase at Starbucks,384.11,38.41,Entertainment,105,Mobile,1000,577.48
+26322ab0-3cec-43e7-a555-e8abe9b74fe2,2022-07-07 13:58:30,1322,0626-3747-3202-3363,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,378.04,37.8,Dining,103,Desktop,1000,584.1600000000001
+61af04a9-38c8-46d0-a65e-77de493222f0,2023-07-01 13:58:30,1352,1848-5551-3018-3552,Credit Card,Cleared,AMC,Electronics purchase at AMC,318.77,31.88,Electronics,102,In-Store Terminal,1000,649.35
+115975c5-78a5-4ccb-90d9-bcc698e18aa8,2023-09-12 13:58:30,6399,1755-0147-9613-6230,Credit Card,Cleared,Newegg,Groceries purchase at Newegg,337.88,33.79,Groceries,101,Mobile,1000,628.33
+4d8c7165-939a-4e06-b1bb-536b5213d772,2022-03-12 13:58:30,5023,0343-9573-0840-9276,Credit Card,Cleared,Starbucks,Electronics purchase at Starbucks,53.99,5.4,Electronics,102,Desktop,1000,940.61
+392929ca-59d0-4162-b245-1bd38991a8a5,2023-10-02 13:58:30,4838,7042-4806-3325-3105,Credit Card,Cleared,InternetCo,Utilities purchase at InternetCo,458.29,45.83,Utilities,104,In-Store Terminal,1000,495.88000000000005
+5695096e-7dd9-4302-8c63-eebee4cb2c5b,2022-03-02 13:58:30,3143,5225-5365-1664-1750,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,6.46,0.65,Dining,103,Mobile,1000,992.89
+a385726b-1b72-4f30-8fc6-fc09fc104067,2023-03-26 13:58:30,1140,3801-6858-9453-5760,Credit Card,Cleared,Chipotle,Utilities purchase at Chipotle,454.53,45.45,Utilities,104,Mobile,1000,500.02000000000004
+6693318d-43e6-44a9-b8b4-76e902baded7,2023-03-19 13:58:30,2961,9441-5780-1920-6425,Credit Card,Cleared,Walmart,Electronics purchase at Walmart,369.96,37.0,Electronics,102,Mobile,1000,593.04
+ec829120-6b70-486b-a209-cd0e9c39a934,2023-11-22 13:58:30,8426,5123-4203-2895-1882,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,109.18,10.92,Dining,103,Desktop,1000,879.9
+2592113f-0fe2-445a-924b-60a6871a90ad,2023-06-14 13:58:30,9032,0674-5671-4115-4347,Credit Card,Cleared,Whole Foods,Utilities purchase at Whole Foods,52.57,5.26,Utilities,104,Mobile,1000,942.17
+4c33ed9e-964c-4ff1-973f-eb00d6f70c06,2022-07-25 13:58:30,5788,6997-7434-7550-0851,Credit Card,Cleared,Trader Joe's,Electronics purchase at Trader Joe's,339.46,33.95,Electronics,102,Mobile,1000,626.5899999999999
+eb2809fa-b49d-4059-a408-f6b4e9f22b2d,2023-06-16 13:58:30,6003,1355-6639-5232-9108,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,77.95,7.8,Entertainment,105,Desktop,1000,914.25
+376879e8-1916-41f4-baac-4d2558b19b23,2023-12-24 13:58:30,2555,6481-8279-4770-3981,Credit Card,Cleared,Newegg,Dining purchase at Newegg,252.61,25.26,Dining,103,In-Store Terminal,1000,722.13
+d58ac479-132f-41fa-88e9-659aba1a73ba,2023-12-03 13:58:30,9940,9330-4547-0290-7686,Credit Card,Cleared,Chipotle,Dining purchase at Chipotle,80.06,8.01,Dining,103,In-Store Terminal,1000,911.9300000000001
+3840a159-f001-4dfa-bae2-dc26b599f2cb,2022-05-25 13:58:30,2275,8829-9565-7280-0356,Credit Card,Cleared,Apple Store,Dining purchase at Apple Store,432.15,43.22,Dining,103,In-Store Terminal,731.23,255.86000000000004
+a7436fb5-a15c-422d-84c4-ca09ba1bba35,2023-02-18 13:58:30,2894,3473-0053-9925-0100,Credit Card,Cleared,Newegg,Dining purchase at Newegg,257.21,25.72,Dining,103,In-Store Terminal,1000,717.0699999999999
+f9b0dbe1-2b9b-45c2-969c-7b6b9ceb7dbd,2023-09-29 13:58:30,1491,6676-2995-0322-4499,Credit Card,Cleared,Energy Power,Dining purchase at Energy Power,268.17,26.82,Dining,103,In-Store Terminal,1000,705.0099999999999
+409d8ef8-c81b-4233-be1c-48d180ddd8bd,2022-07-29 13:58:30,8030,8488-1488-4437-3283,Credit Card,Cleared,Starbucks,Groceries purchase at Starbucks,460.96,46.1,Groceries,101,Mobile,1000,492.93999999999994
+656aadc1-2e53-41a2-9995-453b5bbc2361,2023-09-24 13:58:30,6548,3762-2484-4087-6295,Credit Card,Cleared,Newegg,Electronics purchase at Newegg,138.11,13.81,Electronics,102,In-Store Terminal,1000,848.08
+5b6ecd12-f991-427b-ac49-9b5593618c10,2023-08-21 13:58:30,3616,5128-1951-2177-2113,Credit Card,Cleared,AMC,Groceries purchase at AMC,119.35,11.94,Groceries,101,Mobile,1000,868.7099999999999
+ae452913-167a-4456-928b-f3259a7d7979,2022-07-25 13:58:30,1380,7865-9892-9848-4381,Credit Card,Cleared,Whole Foods,Entertainment purchase at Whole Foods,137.25,13.73,Entertainment,105,Desktop,1000,849.02
+b38545c3-3433-44a8-888a-f408c223d084,2023-01-07 13:58:30,2006,5690-6852-3348-8652,Credit Card,Cleared,InternetCo,Groceries purchase at InternetCo,129.99,13.0,Groceries,101,Mobile,1000,857.01
