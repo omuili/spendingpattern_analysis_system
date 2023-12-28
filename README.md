@@ -42,18 +42,6 @@ Before using the Spending Pattern Analysis System, ensure you have the following
     scikit-learn==1.3.2
     tensorflow==2.15.0
 
-# Data sources  
-These are randomly generated credit card transactions.
-  
-| Date                | Merchant               | Amount ($) |
-| ------------------- | ---------------------- | ---------- |
-| 2023-07-19 13:58:30 | McDonald's             | $318.67    |
-| 2023-07-03 13:58:30 | Starbucks              | $187.0     |
-| 2023-03-24 13:58:30 | Spotify                | $117.32    |
-| 2023-03-03 13:58:30 | Gas Station            | $90.06     |
-| 2022-12-27 13:58:30 | Trader Joe's           | $187.19    |
-
-
 # Installation
 To install and set up the Spending Pattern Analysis System, follow these steps:
 
