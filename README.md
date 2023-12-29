@@ -51,7 +51,7 @@ To install and set up the Spending Pattern Analysis System, follow these steps:
 # Usage
 To use the Spending Pattern Analysis System, follow these steps:
 
-1. Run the interactive session using python main.py
+1. Run the interactive session using *python main.py*
   - <img width="900" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/8c5f1668-26db-43d9-86bb-9a144f3c33cc">
 
 2. Input your queries to analyze spending patterns and gain insights
