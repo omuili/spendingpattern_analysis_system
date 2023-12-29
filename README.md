@@ -52,8 +52,18 @@ To install and set up the Spending Pattern Analysis System, follow these steps:
 To use the Spending Pattern Analysis System, follow these steps:
 
 1. Run the interactive session using python main.py
-2. Input your queries to analyze spending patterns and gain insights
-3. Follow the system's prompts and instructions to explore your financial data
+  <img width="1126" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/8c5f1668-26db-43d9-86bb-9a144f3c33cc">
+
+
+3. Input your queries to analyze spending patterns and gain insights
+   <img width="1126" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/52733c06-f04a-410c-8bf7-bb0f4dece260">
+
+5. Follow the system's prompts and instructions to explore your financial data
+    <img width="280" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/b01dc2b5-6f10-4e8e-b9c9-309e8381710d">
+
+6. Exit the session
+   <img width="406" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/6308e7e0-9862-4c7c-8218-a9a97ab16e28">
+
 
 # Data Sources
 The Spending Pattern Analysis System uses synthetic transaction data for demonstration purposes. In a real-world scenario, you would connect the system to your financial data sources, such as bank APIs or CSV imports.
