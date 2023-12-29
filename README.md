@@ -78,7 +78,3 @@ The system leverages the following technologies and libraries:
 - TensorFlow
 - Scikit-learn
 - GitHub
-
-
-# Contributing
-Contributions to the Spending Pattern Analysis System are welcome! If you have ideas for improvements, new features, or bug fixes, please create an issue or submit a pull request.
