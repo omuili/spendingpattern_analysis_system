@@ -9,7 +9,6 @@
 - Data Sources
 - Technologies Used
 - Contributing
-- License
 
 
 # Introduction
