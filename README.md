@@ -32,14 +32,14 @@ Before using the Spending Pattern Analysis System, ensure you have the following
 
 - Python (version 3.9)
 - Required Python libraries:
-    faker==21.0.0
-    keras==2.15.0
-    matplotlib==3.8.2
-    numpy==1.26.2
-    pandas==2.1.4
-    python==3.9.18
-    scikit-learn==1.3.2
-    tensorflow==2.15.0
+    - faker==21.0.0
+    - keras==2.15.0
+    - matplotlib==3.8.2
+    - numpy==1.26.2
+    - pandas==2.1.4
+    - python==3.9.18
+    - scikit-learn==1.3.2
+    - tensorflow==2.15.0
 
 # Installation
 To install and set up the Spending Pattern Analysis System, follow these steps:
@@ -53,7 +53,6 @@ To use the Spending Pattern Analysis System, follow these steps:
 
 1. Run the interactive session using python main.py
   <img width="1126" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/8c5f1668-26db-43d9-86bb-9a144f3c33cc">
-
 
 3. Input your queries to analyze spending patterns and gain insights
    <img width="1126" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/52733c06-f04a-410c-8bf7-bb0f4dece260">
