@@ -59,7 +59,7 @@ To use the Spending Pattern Analysis System, follow these steps:
 
 3. Follow the system's prompts and instructions to explore your financial data
   - <img width="900" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/708e9660-7065-40d8-a761-6bbdf25ab9fd">
-  - <img width="900" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/b741a10a-cb4e-4189-a360-710a0a7297e6">
+  - <img width="900" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/4b1fa51c-26ba-46ae-826f-0d3a5072eba1">
 
 4. Exit the session
   - <img width="900" alt="image" src="https://github.com/omuili/spendingpattern_analysis_system/assets/84155085/6308e7e0-9862-4c7c-8218-a9a97ab16e28">
