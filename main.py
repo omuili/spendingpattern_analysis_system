@@ -16,7 +16,6 @@ from tensorflow.keras.callbacks import EarlyStopping
 from datetime import datetime, timedelta
 import numpy as np
 
-
 # Constants
 num_transactions = 1000
 num_queries = 500
@@ -136,7 +135,6 @@ num_labels = len(intent_encoder.classes_)
 # L2 regularization factor
 l2_reg = 0.001
 
-
 #Build intent classification model
 intent_model = Sequential()
 intent_model.add(Embedding(input_dim=input_dim, output_dim=output_dim, input_length=input_length))
@@ -144,10 +142,8 @@ intent_model.add(Bidirectional(LSTM(64, return_sequences=False, kernel_regulariz
 intent_model.add(Dropout(0.5))
 intent_model.add(Dense(num_labels, activation='softmax'))
 
-
 #Compile the model
 intent_model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-
 
 
 # Build the NER model
@@ -185,8 +181,6 @@ intent_predictions = intent_model.predict(X_test_intent)
 
 # Make predictions on the test data
 ner_predictions = ner_model.predict(X_test_ner)
-
-
 
 def analyze_spending_inconsistency(transactions, n_months=3):
     # Check and convert transactions to a DataFrame if it's not already one
@@ -266,6 +260,47 @@ def analyze_most_spent_category_3_months(transactions, n_months=3):
     spent_value = total_spend.max()
     return f"The category with the most spent over the last {n_months} months is {most_spent_cat}, with a total of ${spent_value:.2f}."
 
+
+def visualize_spent_by_category(transactions):
+    # Ensure transactions is a DataFrame
+    if not isinstance(transactions, pd.DataFrame):
+        transactions = pd.DataFrame(transactions)
+
+    # Group the transactions by category and sum the amounts
+    category_spend = transactions.groupby('category')['amount'].sum().reset_index()
+
+    # Calculate the total spend
+    total_spend = category_spend['amount'].sum()
+
+    # Format the total spend with commas
+    total_spend_formatted = f"${total_spend:,.2f}"
+
+    # Plotting
+    fig, ax = plt.subplots(figsize=(10, 6))
+    wedges, texts, autotexts = ax.pie(category_spend['amount'], labels=category_spend['category'],
+                                      autopct='%1.1f%%', startangle=140, pctdistance=0.85,
+                                      wedgeprops=dict(width=0.4))  # This creates the doughnut shape
+
+    # Customize autopct labels (percentages)
+    for autotext in autotexts:
+        autotext.set_color('white')
+        autotext.set_fontsize(10)
+
+    # Set the title and remove the x and y axis labels
+    plt.title('Total Spent by Category')
+
+    # Place the total spend in the center
+    plt.text(0, 0, f'Total\n{total_spend_formatted}', ha='center', va='center', fontsize=12)
+
+    # Equal aspect ratio ensures that pie is drawn as a circle.
+    plt.axis('equal')
+    plt.tight_layout()
+    plt.show()
+
+    # Return the DataFrame for further use if needed
+    return category_spend
+
+
 def process_query(query, transactions, intent_model, ner_model, tokenizer):
     # Tokenize and pad the query for the intent model
     sequence = tokenizer.texts_to_sequences([query])
@@ -281,7 +316,6 @@ def process_query(query, transactions, intent_model, ner_model, tokenizer):
     predicted_ner_ids = np.argmax(ner_pred, axis=2)[0]  # Adjust for TensorFlow
     predicted_ner_labels = [label_tokenizer.index_word.get(id, 'O') for id in predicted_ner_ids]
 
-
     # Extract entities (you'll need to adjust this based on how your NER labels are structured)
     entities = {'CATEGORY': None, 'TIME_FRAME': None}
     for word, label in zip(query.split(), predicted_ner_labels):
@@ -291,12 +325,21 @@ def process_query(query, transactions, intent_model, ner_model, tokenizer):
             entities['TIME_FRAME'] = word
 
     # Call the appropriate analysis function based on the predicted intent
-    if predicted_intent == 'most_inconsistent_category':
+    if predicted_intent == 'total_spend_category':
+        # Assuming that 'CATEGORY' entity was extracted
+        if 'CATEGORY' in entities and entities['CATEGORY'] is not None:
+            category = entities['CATEGORY']
+            return visualize_spent_by_category(transactions[transactions['category'].str.contains(category, case=False)])
+        else:
+            # If the category was not specified, show for all categories
+            return visualize_spent_by_category(transactions)
+    elif predicted_intent == 'most_inconsistent_category':
         return analyze_spending_inconsistency(transactions)
     elif predicted_intent == 'most_spent_category_3_months':
         return analyze_most_spent_category_3_months(transactions)
+    # Add more elif blocks for other intents here if necessary
     else:
-        return "Sorry, I didn't understand your query. Please try again"
+        return "Sorry, I didn't understand your query. Please try again."
 
 def interactive_session():
     print("Welcome to the Transaction Analysis System! Type 'exit' to leave.")
