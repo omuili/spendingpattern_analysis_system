@@ -66,7 +66,7 @@ To use the Spending Pattern Analysis System, follow these steps:
 
 
 # Data Sources
-The Spending Pattern Analysis System uses synthetic transaction data for demonstration purposes. In a real-world scenario, you would connect the system to your financial data sources, such as bank APIs or CSV imports.
+The Spending Pattern Analysis System uses synthetic transaction data for demonstration purposes.
 
 # Technologies Used
 The system leverages the following technologies and libraries:
