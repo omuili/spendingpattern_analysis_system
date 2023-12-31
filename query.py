@@ -10,6 +10,7 @@ def create_queries(num):
     query_templates = [
         "How much did I spend on {} last month?",
         "Show my transaction history for the last {}.",
+        "What's my total spending by category?",
         "What's my total spending on {} this year?",
         "List all {} expenses.",
         "What category did I spend mostly on in the past 3 months?",
